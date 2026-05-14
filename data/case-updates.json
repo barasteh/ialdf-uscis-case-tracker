@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-05-14T18:36:59.631Z",
+  "lastUpdated": "2026-05-14T18:42:07.931Z",
   "source": "CourtListener REST API v4",
-  "failed_count": 40,
+  "failed_count": 39,
   "total": 42,
   "cases": [
     {
@@ -56,23 +56,42 @@
       "plaintiffs": 266,
       "notable": true,
       "courtlistener_url": "https://www.courtlistener.com/docket/72526389/doe-v-trump-do-not-docket-in-this-case-all-filings-are-to-be-made-in/",
-      "recent_entries": []
+      "recent_entries": [
+        {
+          "date_filed": "2026-04-06",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-04-01",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-04-15",
+          "entry_number": null,
+          "description": ""
+        }
+      ]
     },
     {
       "id": 3,
       "name": "Bowser v. Noem",
       "court": "mad",
-      "docket_number": "1:26-cv-10382",
+      "docket": "1:26-cv-10382",
       "status": "WIN",
       "statusDetail": "Named plaintiff",
       "stage": "PI granted; 10-day EAD deadline",
       "category": "Work Permit (EAD)",
       "orderDate": "Feb. 27, 2026",
       "filingDate": "Jan 27, 2026",
+      "hearingDate": null,
       "summary": "Judge Kelley ordered USCIS to decide one plaintiff's work permit application within 10 days.",
       "relief": "Decision within 10 days",
       "plaintiffs": 1,
-      "notable": true
+      "notable": true,
+      "courtlistener_url": "https://www.courtlistener.com/docket/72192698/bowser-v-noem/",
+      "recent_entries": []
     },
     {
       "id": 4,
