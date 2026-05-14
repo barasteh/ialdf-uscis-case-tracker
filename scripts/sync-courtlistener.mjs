@@ -5,7 +5,7 @@ import process from 'node:process';
 
 const TOKEN = process.env.COURTLISTENER_TOKEN;
 if (!TOKEN) {
-  console.error('Missing COURTLISTENER_TOKEN env var. Set it as a repo secret.');
+  console.error('Missing COURTLISTENER_TOKEN env var.');
   process.exit(1);
 }
 
@@ -21,32 +21,26 @@ async function fetchJson(url) {
   return res.json();
 }
 
-async function fetchDocket(d) {
-  let docketId = d.docket_id;
-  if (!docketId && d.docket_number) {
-    const q = new URLSearchParams({
-      type: 'd',
-      docket_number: d.docket_number,
-      ...(d.court ? { court: d.court } : {}),
-    });
-    const search = await fetchJson(`${BASE}/search/?${q.toString()}`);
-    if (search.results && search.results.length > 0) {
-      docketId = search.results[0].docket_id;
-    }
+async function findDocket(seed) {
+  if (seed.docket_id) {
+    return fetchJson(`${BASE}/dockets/${seed.docket_id}/`);
   }
-  if (!docketId) return null;
-  const docket = await fetchJson(`${BASE}/dockets/${docketId}/`);
-  return { docket, docketId };
+  if (!seed.docket_number) return null;
+  // Use the dockets list endpoint with direct filters (this works reliably).
+  const params = new URLSearchParams({ docket_number: seed.docket_number });
+  if (seed.court) params.set('court', seed.court);
+  const result = await fetchJson(`${BASE}/dockets/?${params.toString()}`);
+  if (result.results && result.results.length > 0) return result.results[0];
+  // Fallback: try search endpoint without the court filter
+  const fallback = await fetchJson(`${BASE}/dockets/?docket_number=${encodeURIComponent(seed.docket_number)}`);
+  return (fallback.results && fallback.results.length > 0) ? fallback.results[0] : null;
 }
 
-async function fetchLatestEntries(docketId, limit = 5) {
-  const url = `${BASE}/docket-entries/?docket=${docketId}&order_by=-entry_number&page_size=${limit}`;
+async function fetchLatestEntries(docketId, limit = 3) {
   try {
-    const json = await fetchJson(url);
+    const json = await fetchJson(`${BASE}/docket-entries/?docket=${docketId}&order_by=-entry_number&page_size=${limit}`);
     return json.results || [];
-  } catch (e) {
-    return [];
-  }
+  } catch { return []; }
 }
 
 function toCaseCard(seed, docket, entries) {
@@ -60,15 +54,13 @@ function toCaseCard(seed, docket, entries) {
     stage: seed.stage || '',
     category: seed.category || 'Multiple',
     orderDate: seed.orderDate || null,
-    filingDate: seed.filingDate || (docket.date_filed ? docket.date_filed : null),
+    filingDate: seed.filingDate || (docket.date_filed || null),
     hearingDate: seed.hearingDate || null,
     summary: seed.summary || '',
     relief: seed.relief || null,
     plaintiffs: seed.plaintiffs || null,
     notable: seed.notable || false,
-    courtlistener_url: docket.absolute_url
-      ? `https://www.courtlistener.com${docket.absolute_url}`
-      : null,
+    courtlistener_url: docket.absolute_url ? `https://www.courtlistener.com${docket.absolute_url}` : null,
     recent_entries: entries.slice(0, 3).map(e => ({
       date_filed: e.date_filed,
       entry_number: e.entry_number,
@@ -78,22 +70,35 @@ function toCaseCard(seed, docket, entries) {
 }
 
 async function main() {
-  const dockets = JSON.parse(await fs.readFile(DOCKETS_FILE, 'utf8'));
+  const seeds = JSON.parse(await fs.readFile(DOCKETS_FILE, 'utf8'));
   const out = [];
   let failed = 0;
-  for (const seed of dockets) {
+  const failures = [];
+
+  for (const seed of seeds) {
     try {
-      const fetched = await fetchDocket(seed);
-      if (!fetched) { console.warn(`No docket found for #${seed.id} ${seed.name}`); failed++; out.push(seed); continue; }
-      const entries = await fetchLatestEntries(fetched.docketId, 3);
-      out.push(toCaseCard(seed, fetched.docket, entries));
+      const docket = await findDocket(seed);
+      if (!docket) {
+        failures.push(`#${seed.id} ${seed.name} (${seed.docket_number || 'no docket'})`);
+        out.push(seed);
+        failed++;
+        continue;
+      }
+      const entries = await fetchLatestEntries(docket.id, 3);
+      out.push(toCaseCard(seed, docket, entries));
       await new Promise(r => setTimeout(r, 350));
     } catch (e) {
-      console.warn(`Failed for #${seed.id} ${seed.name}: ${e.message}`);
+      failures.push(`#${seed.id} ${seed.name}: ${e.message}`);
       out.push(seed);
       failed++;
     }
   }
+
+  if (failures.length) {
+    console.log('--- Failed cases ---');
+    failures.forEach(f => console.log('  ' + f));
+  }
+
   const result = {
     lastUpdated: new Date().toISOString(),
     source: 'CourtListener REST API v4',
