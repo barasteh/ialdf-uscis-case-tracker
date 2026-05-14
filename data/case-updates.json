@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-05-14T18:42:07.931Z",
+  "lastUpdated": "2026-05-14T19:51:15.664Z",
   "source": "CourtListener REST API v4",
-  "failed_count": 39,
+  "failed_count": 0,
   "total": 42,
   "cases": [
     {
@@ -91,455 +91,1388 @@
       "plaintiffs": 1,
       "notable": true,
       "courtlistener_url": "https://www.courtlistener.com/docket/72192698/bowser-v-noem/",
-      "recent_entries": []
+      "recent_entries": [
+        {
+          "date_filed": "2026-02-11",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-03-24",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-02-18",
+          "entry_number": null,
+          "description": ""
+        }
+      ]
     },
     {
       "id": 4,
       "name": "Roghaee v. Mullin",
       "court": "cacd",
-      "docket_number": "2:26-cv-04160",
+      "docket": "2:26-cv-04160",
       "status": "WIN",
       "statusDetail": "Named plaintiff",
       "stage": "TRO/PI granted May 4 on non-opposition",
       "category": "Work Permit (EAD)",
       "orderDate": "May 4, 2026",
       "filingDate": "Apr 17, 2026",
+      "hearingDate": null,
       "summary": "Judge Walter granted TRO/PI on government non-opposition. I-765 decision within 10 days; EAD by May 31.",
       "relief": "I-765 decision within 10 days",
       "plaintiffs": 1,
-      "notable": true
+      "notable": true,
+      "courtlistener_url": "https://www.courtlistener.com/docket/73211751/alireza-roghaee-v-markwayne-mullin/",
+      "recent_entries": [
+        {
+          "date_filed": "2026-04-17",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-04-17",
+          "entry_number": null,
+          "description": "FILING FEE PAID for new civil case. Receipt No. ACACDC-42036588 for $405 filing fee. (Tusken, Michael)"
+        },
+        {
+          "date_filed": "2026-05-04",
+          "entry_number": 22,
+          "description": "ORDER ON EX PARTE APPLICATION FOR ORDER EXTENDING PAGE LIMIT BY 6 PAGES FOR MEMORANDUM OF POINTS AND AUTHORITIES 13 by Judge John F. Walter. SEE ORDER FOR DETAILS. (iv) (Entered: 05/04/2026)"
+        }
+      ]
     },
     {
       "id": 5,
       "name": "Saghafi v. Edlow",
       "court": "mdd",
-      "docket_number": "8:26-cv-00100",
+      "docket": "8:26-cv-00100",
       "status": "WIN",
       "statusDetail": "83 plaintiffs",
       "stage": "PI granted Apr 24 (Chief Judge Russell)",
       "category": "Multiple",
       "orderDate": "Apr. 24, 2026",
       "filingDate": "Jan 11, 2026",
+      "hearingDate": null,
       "summary": "Chief Judge Russell granted a preliminary injunction covering 83 plaintiffs.",
+      "relief": null,
       "plaintiffs": 83,
-      "notable": true
+      "notable": true,
+      "courtlistener_url": "https://www.courtlistener.com/docket/72129422/saghafi-v-edlow/",
+      "recent_entries": [
+        {
+          "date_filed": "2026-04-30",
+          "entry_number": 31,
+          "description": "NOTICE by Joseph B. Edlow, Joseph B. Edlow Re: ECF No. 30 (Attachments: # 1 Exhibit, # 2 Exhibit)(Goldmeier, Melissa) (Entered: 04/30/2026)"
+        },
+        {
+          "date_filed": "2026-04-24",
+          "entry_number": 30,
+          "description": "ORDER Granting in Part and Denying in Part 3 Motion for Preliminary Injunction; Withdrawing 4 Motion for Discovery; Withdrawing 5 Motion for Discovery; Granting 14 Motion for Leave to File Excess Pages. Signed by Chief Judge George Levi Russell, III on 4/24/2026. (bas, Deputy Clerk) (Entered: 04/27/2026)"
+        },
+        {
+          "date_filed": "2026-04-24",
+          "entry_number": 29,
+          "description": "MEMORANDUM OPINION. Signed by Chief Judge George Levi Russell, III on 4/24/2026. (bas, Deputy Clerk) (Entered: 04/27/2026)"
+        }
+      ]
     },
     {
       "id": 6,
       "name": "Karimi v. Noem",
       "court": "arwd",
-      "docket_number": "5:26-cv-05049",
+      "docket": "5:26-cv-05049",
       "status": "WIN",
       "statusDetail": "Named plaintiffs",
       "stage": "PI granted Apr 23 (Chief Judge Brooks)",
       "category": "Multiple",
       "orderDate": "Apr. 23, 2026",
       "filingDate": "Feb 20, 2026",
+      "hearingDate": null,
       "summary": "Chief Judge Brooks granted a preliminary injunction.",
-      "notable": true
+      "relief": null,
+      "plaintiffs": null,
+      "notable": true,
+      "courtlistener_url": "https://www.courtlistener.com/docket/72309676/karimi-v-noem/",
+      "recent_entries": [
+        {
+          "date_filed": "2026-04-06",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-05-13",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-03-24",
+          "entry_number": null,
+          "description": ""
+        }
+      ]
     },
     {
       "id": 7,
       "name": "Doe v. Trump (Doe I — Dec 2025)",
       "court": "mad",
-      "docket_number": "1:25-cv-13946",
+      "docket": "1:25-cv-13946",
       "status": "WIN",
       "statusDetail": "~200 plaintiffs from 20 countries",
       "stage": "PI granted Apr 30 — first to reach PA-2025-26",
       "category": "Multiple",
       "orderDate": "Apr. 30, 2026",
       "filingDate": "Dec 23, 2025",
+      "hearingDate": null,
       "summary": "Judge Kobick issued a preliminary injunction for ~200 named plaintiffs and first to reach the 'significant negative factor' policy PA-2025-26.",
+      "relief": null,
       "plaintiffs": 200,
-      "notable": true
+      "notable": true,
+      "courtlistener_url": "https://www.courtlistener.com/docket/72071916/doe-v-trump/",
+      "recent_entries": [
+        {
+          "date_filed": "2026-05-07",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-01-13",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-05-01",
+          "entry_number": null,
+          "description": ""
+        }
+      ]
     },
     {
       "id": 8,
       "name": "Behdin v. Edlow",
       "court": "cand",
-      "docket_number": "5:26-cv-00566",
+      "docket": "5:26-cv-00566",
       "status": "WIN",
       "statusDetail": "32 named plaintiffs",
       "stage": "PI granted Apr 15–16; compliance May 18",
       "category": "Work Permit (EAD)",
       "orderDate": "Apr. 15–16, 2026",
       "filingDate": "Jan 19, 2026",
+      "hearingDate": null,
       "summary": "Judge Van Keulen's order: four independent APA grounds. 180-day adjudication window with May 18 compliance deadline.",
       "relief": "I-765 adjudication within 180 days",
       "plaintiffs": 32,
-      "notable": true
+      "notable": true,
+      "courtlistener_url": "https://www.courtlistener.com/docket/72159407/behdin-v-edlow/",
+      "recent_entries": [
+        {
+          "date_filed": "2026-01-20",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-04-16",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-04-02",
+          "entry_number": null,
+          "description": ""
+        }
+      ]
     },
     {
       "id": 9,
       "name": "Doe v. USCIS (N.D. Ill.)",
       "court": "ilnd",
-      "docket_number": "1:26-cv-02389",
+      "docket": "1:26-cv-02389",
       "status": "WIN",
       "statusDetail": "Named plaintiff",
       "stage": "TRO/PI entered Mar 26 (Judge Ellis)",
       "category": "Green Card / Work Permit / Travel Doc",
       "orderDate": "Mar. 26, 2026",
       "filingDate": "Mar 3, 2026",
+      "hearingDate": null,
       "summary": "Emergency order across all pending applications — I-485, I-765, I-131, and I-485 Supplement J.",
       "relief": "Freeze lifted across all pending applications",
       "plaintiffs": 1,
-      "notable": true
+      "notable": true,
+      "courtlistener_url": "https://www.courtlistener.com/docket/72357999/doe-v-united-states-citizenship-and-immigration-services/",
+      "recent_entries": [
+        {
+          "date_filed": "2026-03-03",
+          "entry_number": null,
+          "description": "CASE ASSIGNED to the Honorable Sara L. Ellis. Designated as Magistrate Judge the Honorable Keri L. Holleb Hotaling. Case assignment: Random assignment. (Civil Category 2). (ee, )"
+        },
+        {
+          "date_filed": "2026-03-03",
+          "entry_number": null,
+          "description": "CLERK'S NOTICE: Pursuant to Local Rule 73.1(b), a United States Magistrate Judge of this court is available to conduct all proceedings in this civil action. If all parties consent to have the currently assigned United States Magistrate Judge conduct all proceedings in this case, including trial, the entry of final judgment, and all post-trial proceedings, all parties must sign their names on the attached Consent To form. This consent form is eligible for filing only if executed by all parties. The parties can also express their consent to jurisdiction by a magistrate judge in any joint filing, including the Joint Initial Status Report or proposed Case Management Order. (ee, )"
+        },
+        {
+          "date_filed": "2026-05-14",
+          "entry_number": 46,
+          "description": "MINUTE entry before the Honorable Sara L. Ellis: Notice of motion 44 is stricken. Movant is required to notice motions for presentment pursuant to Judge Ellis' rules regarding motion practice. Emailed notice (rj, ) (Entered: 05/14/2026)"
+        }
+      ]
     },
     {
       "id": 10,
       "name": "Shokri Varniab v. Edlow",
       "court": "cand",
-      "docket_number": "5:25-cv-10602",
+      "docket": "5:25-cv-10602",
       "status": "WIN",
       "statusDetail": "Reassigned May 7 to D.J. Wise",
       "stage": "First PI Feb 20; gov't dismissal motion pending",
       "category": "Green Card / Work Permit",
       "orderDate": "Feb. 20, 2026",
       "filingDate": "Dec 11, 2025",
+      "hearingDate": null,
       "summary": "First court ruling against the freeze. 30-day adjudication ordered on two plaintiffs' I-485/I-765. Reassigned to D.J. Noel Wise May 7.",
       "relief": "Decision within 30 days",
       "plaintiffs": 2,
-      "notable": true
+      "notable": true,
+      "courtlistener_url": "https://www.courtlistener.com/docket/72024394/shokri-varniab-v-edlow/",
+      "recent_entries": [
+        {
+          "date_filed": "2026-05-13",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-01-07",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-05-07",
+          "entry_number": null,
+          "description": ""
+        }
+      ]
     },
     {
       "id": 11,
       "name": "Osman v. USCIS",
       "court": "mied",
-      "docket_number": "2:26-cv-10886",
+      "docket": "2:26-cv-10886",
       "status": "SETBACK",
       "statusDetail": "PI denied on irreparable harm",
       "stage": "PI denied Apr 15 (Judge Kumar)",
       "category": "Travel Document (I-131)",
       "orderDate": "Apr. 15, 2026",
       "filingDate": "Mar 17, 2026",
+      "hearingDate": null,
       "summary": "PI denied on irreparable-harm grounds; court did not reach APA merits. Plaintiff sought I-131 only.",
+      "relief": null,
       "plaintiffs": 1,
-      "notable": true
+      "notable": true,
+      "courtlistener_url": "https://www.courtlistener.com/docket/72502697/osman-v-us-citizenship-and-immigration-services-director-of/",
+      "recent_entries": [
+        {
+          "date_filed": "2026-04-01",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-03-18",
+          "entry_number": null,
+          "description": "A United States Magistrate Judge of this Court is available to conduct all proceedings in this civil action in accordance with 28 U.S.C. 636c and FRCP 73. The Notice, Consent, and Reference of a Civil Action to a Magistrate Judge form is available for download at http://www.mied.uscourts.gov (MChr)"
+        },
+        {
+          "date_filed": "2026-04-01",
+          "entry_number": null,
+          "description": "TEXT-ONLY ORDER SETTING A BRIEFING SCHEDULE re 6 MOTION for Preliminary Injunction to Adjudicate I-131 Application for Advanced Parole filed by Sarah Osman, Ahmed Abubkr Ali Abubakr. ( Response due by 4/7/2026, Reply due by 4/10/2026). Signed by District Judge Shalina D. Kumar. (THal)"
+        }
+      ]
     },
     {
       "id": 12,
       "name": "Moradipari v. Edlow",
       "court": "cand",
-      "docket_number": "5:25-cv-10406",
+      "docket": "5:25-cv-10406",
       "status": "PENDING",
       "statusDetail": "Hearing held",
       "stage": "Under advisement",
       "category": "Multiple",
+      "orderDate": null,
       "filingDate": "Dec 5, 2025",
-      "summary": "PI hearing held; ruling under advisement."
+      "hearingDate": null,
+      "summary": "PI hearing held; ruling under advisement.",
+      "relief": null,
+      "plaintiffs": null,
+      "notable": false,
+      "courtlistener_url": "https://www.courtlistener.com/docket/71996058/moradipari-v-edlow/",
+      "recent_entries": [
+        {
+          "date_filed": "2025-12-04",
+          "entry_number": null,
+          "description": "Electronic filing error. Case reviewed; does not fall under nationwide injunction. No action necessary.Corrected by Clerk's Office. No further action is necessary. Re: 1 Complaint,, filed by AHMADREZA MORADIPARI (mbc, COURT STAFF) (Filed on 12/4/2025)"
+        },
+        {
+          "date_filed": "2026-05-06",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-02-03",
+          "entry_number": null,
+          "description": ""
+        }
+      ]
     },
     {
       "id": 13,
       "name": "Nezameslami v. DHS",
       "court": "gand",
-      "docket_number": "1:26-cv-00151",
+      "docket": "1:26-cv-00151",
       "status": "SETBACK",
       "statusDetail": "PI denied May 12",
       "stage": "PI denied; 60-day reconsideration trigger",
       "category": "Multiple",
       "orderDate": "May 12, 2026",
       "filingDate": "Jan 9, 2026",
+      "hearingDate": null,
       "summary": "Court denied PI; found plaintiffs had not shown substantial likelihood of success on APA claims. 60-day trigger to reconsider if holds persist.",
-      "notable": true
+      "relief": null,
+      "plaintiffs": null,
+      "notable": true,
+      "courtlistener_url": "https://www.courtlistener.com/docket/72130486/nezameslami-v-department-of-homeland-security/",
+      "recent_entries": [
+        {
+          "date_filed": "2026-01-15",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-01-27",
+          "entry_number": null,
+          "description": "Clerk's Certificate of E-Mailing to Zachery Ryan New re 10 Order on Application for Admission PHV. (dnb)"
+        },
+        {
+          "date_filed": "2026-03-10",
+          "entry_number": null,
+          "description": "Submission of 12 MOTION for Preliminary Injunction, to District Judge Steven D. Grimberg. (dnb)"
+        }
+      ]
     },
     {
       "id": 14,
       "name": "Salatin v. Edlow",
       "court": "mad",
-      "docket_number": "1:26-cv-11646",
+      "docket": "1:26-cv-11646",
       "status": "PENDING",
+      "statusDetail": "",
       "stage": "PI hearing scheduled",
       "category": "Multiple",
-      "filingDate": "Apr 8, 2026"
+      "orderDate": null,
+      "filingDate": "Apr 8, 2026",
+      "hearingDate": null,
+      "summary": "",
+      "relief": null,
+      "plaintiffs": null,
+      "notable": false,
+      "courtlistener_url": "https://www.courtlistener.com/docket/73162983/salatin-v-edlow/",
+      "recent_entries": [
+        {
+          "date_filed": "2026-04-24",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-04-08",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-05-04",
+          "entry_number": null,
+          "description": ""
+        }
+      ]
     },
     {
       "id": 15,
       "name": "Gharibi v. Edlow",
       "court": "caed",
-      "docket_number": "1:25-cv-02076",
+      "docket": "1:25-cv-02076",
       "status": "PENDING",
+      "statusDetail": "",
       "stage": "Gov't answer due Apr 20; conf. May 19",
       "category": "Multiple",
+      "orderDate": null,
+      "filingDate": "Dec 31, 2025",
       "hearingDate": "May 19, 2026",
-      "filingDate": "Dec 31, 2025"
+      "summary": "",
+      "relief": null,
+      "plaintiffs": null,
+      "notable": false,
+      "courtlistener_url": "https://www.courtlistener.com/docket/72095863/gharibi-v-edlow/",
+      "recent_entries": [
+        {
+          "date_filed": "2026-04-09",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-03-09",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-04-24",
+          "entry_number": null,
+          "description": ""
+        }
+      ]
     },
     {
       "id": 16,
       "name": "Ahmadi v. DHS",
       "court": "cod",
-      "docket_number": "1:26-cv-01396",
+      "docket": "1:26-cv-01396",
       "status": "PENDING",
+      "statusDetail": "",
       "stage": "PI hearing June 3",
       "category": "Multiple",
+      "orderDate": null,
+      "filingDate": "Apr 2, 2026",
       "hearingDate": "Jun 3, 2026",
-      "filingDate": "Apr 2, 2026"
+      "summary": "",
+      "relief": null,
+      "plaintiffs": null,
+      "notable": false,
+      "courtlistener_url": "https://www.courtlistener.com/docket/73134936/ahmadi-v-department-of-homeland-security/",
+      "recent_entries": [
+        {
+          "date_filed": "2026-05-09",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-05-11",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-05-11",
+          "entry_number": 13,
+          "description": "MINUTE ENTRY for Telephone Status Conference proceeding held before District Judge Gordon P Gallagher on 5/11/2026. Defendants consolidated answer/response to Complaint and Motion for Preliminary Injunction is due by 5/19/2026 and Plaintiffs replies are due by 5/29/2026. Set Preliminary Injunction Motion Hearing for 6/3/2026 at 1:30 PM in Courtroom C202 (Denver-Byron Rogers Courthouse). Court Reporter: Megan Strawn. (dclem) (Entered: 05/11/2026)"
+        }
+      ]
     },
     {
       "id": 17,
       "name": "Jane Doe 1 v. DHS",
       "court": "cacd",
-      "docket_number": "8:26-cv-00060",
+      "docket": "8:26-cv-00060",
       "status": "PENDING",
+      "statusDetail": "",
       "stage": "PI hearing June 4",
       "category": "Multiple",
+      "orderDate": null,
+      "filingDate": "Jan 8, 2026",
       "hearingDate": "Jun 4, 2026",
-      "filingDate": "Jan 8, 2026"
+      "summary": "",
+      "relief": null,
+      "plaintiffs": null,
+      "notable": false,
+      "courtlistener_url": "https://www.courtlistener.com/docket/72122041/jane-doe-1-v-united-states-department-of-homeland-security/",
+      "recent_entries": [
+        {
+          "date_filed": "2026-01-08",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-01-14",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-04-24",
+          "entry_number": null,
+          "description": ""
+        }
+      ]
     },
     {
       "id": 18,
       "name": "Flores Mora v. Edlow",
       "court": "vaed",
-      "docket_number": "1:25-cv-02429",
+      "docket": "1:25-cv-02429",
       "status": "PENDING",
+      "statusDetail": "",
       "stage": "PI hearing scheduled",
       "category": "Multiple",
-      "filingDate": "Dec 22, 2025"
+      "orderDate": null,
+      "filingDate": "Dec 22, 2025",
+      "hearingDate": null,
+      "summary": "",
+      "relief": null,
+      "plaintiffs": null,
+      "notable": false,
+      "courtlistener_url": "https://www.courtlistener.com/docket/72072464/flores-mora-v-edlow/",
+      "recent_entries": [
+        {
+          "date_filed": "2026-04-15",
+          "entry_number": null,
+          "description": "Motions hearing set for 4/17/2026 are cancelled. (dvanm)"
+        },
+        {
+          "date_filed": "2026-03-24",
+          "entry_number": null,
+          "description": "Motion Hearing set for 4/16/2026 at 10:00 AM in Alexandria Courtroom 801 before District Judge Patricia Tolliver Giles as to 9 MOTION for Preliminary Injunction and 16 MOTION to Dismiss for Lack of Jurisdiction and MOTION to Dismiss for Failure to State a Claim. (dzir)"
+        },
+        {
+          "date_filed": "2026-04-06",
+          "entry_number": null,
+          "description": "Set/Reset Deadlines as to 9 MOTION for Preliminary Injunction. Motion Hearing RESET for 4/17/2026 at 10:00 AM in Alexandria Courtroom 801 before District Judge Patricia Tolliver Giles. (yguy)"
+        }
+      ]
     },
     {
       "id": 19,
       "name": "Sadighi v. Edlow",
       "court": "cand",
-      "docket_number": "3:26-cv-02494",
+      "docket": "3:26-cv-02494",
       "status": "PENDING",
+      "statusDetail": "",
       "stage": "PI hearing scheduled",
       "category": "Multiple",
-      "filingDate": "Mar 23, 2026"
+      "orderDate": null,
+      "filingDate": "Mar 23, 2026",
+      "hearingDate": null,
+      "summary": "",
+      "relief": null,
+      "plaintiffs": null,
+      "notable": false,
+      "courtlistener_url": "https://www.courtlistener.com/docket/72532589/sadighi-v-edlow/",
+      "recent_entries": [
+        {
+          "date_filed": "2026-04-17",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-03-23",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-04-17",
+          "entry_number": null,
+          "description": ""
+        }
+      ]
     },
     {
       "id": 20,
       "name": "Duru v. Mullin",
       "court": "vaed",
-      "docket_number": "1:26-cv-01132",
+      "docket": "1:26-cv-01132",
       "status": "PENDING",
+      "statusDetail": "",
       "stage": "PI hearing scheduled",
       "category": "Multiple",
-      "filingDate": "Apr 28, 2026"
+      "orderDate": null,
+      "filingDate": "Apr 28, 2026",
+      "hearingDate": null,
+      "summary": "",
+      "relief": null,
+      "plaintiffs": null,
+      "notable": false,
+      "courtlistener_url": "https://www.courtlistener.com/docket/73254099/duru-v-mullin/",
+      "recent_entries": [
+        {
+          "date_filed": "2026-04-28",
+          "entry_number": null,
+          "description": "Initial Case Assignment to District Judge Anthony J. Trenga and Magistrate Judge William E. Fitzpatrick. (triv)"
+        },
+        {
+          "date_filed": "2026-05-11",
+          "entry_number": null,
+          "description": "Motion Hearing set for 5/27/2026 at 10:00 AM in Alexandria Courtroom 900 before District Judge Anthony J. Trenga as to 15 Emergency MOTION for Permanent Injunction. (dzir)"
+        },
+        {
+          "date_filed": "2026-05-08",
+          "entry_number": 17,
+          "description": "Notice (of Hearing for May 27, 2026) in re 16 Memorandum of Law in Support, 15 Emergency MOTION for Preliminary Injunction (Summers, Edward) Modified on 5/11/2026 (triv). (Entered: 05/08/2026)"
+        }
+      ]
     },
     {
       "id": 21,
       "name": "E.M.P.C. v. Noem",
       "court": "flsd",
-      "docket_number": "1:26-cv-21565",
+      "docket": "1:26-cv-21565",
       "status": "PENDING",
       "statusDetail": "Class cert. sought",
       "stage": "Class-certification briefing",
       "category": "Class action",
+      "orderDate": null,
       "filingDate": "Mar 9, 2026",
-      "notable": true
+      "hearingDate": null,
+      "summary": "",
+      "relief": null,
+      "plaintiffs": null,
+      "notable": true,
+      "courtlistener_url": "https://www.courtlistener.com/docket/72384352/empc-v-secretary-of-homeland-security/",
+      "recent_entries": [
+        {
+          "date_filed": "2026-04-23",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-03-10",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-04-22",
+          "entry_number": null,
+          "description": ""
+        }
+      ]
     },
     {
       "id": 22,
       "name": "Auguste v. Edlow",
       "court": "cacd",
-      "docket_number": "8:26-cv-00629",
+      "docket": "8:26-cv-00629",
       "status": "PENDING",
+      "statusDetail": "",
       "stage": "PI hearing",
       "category": "Multiple",
-      "filingDate": "Mar 20, 2026"
+      "orderDate": null,
+      "filingDate": "Mar 20, 2026",
+      "hearingDate": null,
+      "summary": "",
+      "relief": null,
+      "plaintiffs": null,
+      "notable": false,
+      "courtlistener_url": "https://www.courtlistener.com/docket/72520267/franciscot-auguste-v-joseph-b-edlow/",
+      "recent_entries": [
+        {
+          "date_filed": "2026-03-20",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-04-27",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-04-22",
+          "entry_number": null,
+          "description": ""
+        }
+      ]
     },
     {
       "id": 23,
       "name": "Fuenmayor Perozo v. USCIS Dir.",
       "court": "flsd",
-      "docket_number": "1:25-cv-25607",
+      "docket": "1:25-cv-25607",
       "status": "PENDING",
+      "statusDetail": "",
       "stage": "Motion pending",
       "category": "Multiple",
-      "filingDate": "Dec 1, 2025"
+      "orderDate": null,
+      "filingDate": "Dec 1, 2025",
+      "hearingDate": null,
+      "summary": "",
+      "relief": null,
+      "plaintiffs": null,
+      "notable": false,
+      "courtlistener_url": "https://www.courtlistener.com/docket/71978036/fuenmayor-perozo-v-director-of-us-citizenship-and-immigration-services/",
+      "recent_entries": [
+        {
+          "date_filed": "2025-12-05",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2025-12-02",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-03-09",
+          "entry_number": null,
+          "description": ""
+        }
+      ]
     },
     {
       "id": 24,
       "name": "Ahua v. Edlow",
       "court": "cod",
-      "docket_number": "1:26-cv-00487",
+      "docket": "1:26-cv-00487",
       "status": "PENDING",
+      "statusDetail": "",
       "stage": "Motion pending",
       "category": "Multiple",
-      "filingDate": "Feb 8, 2026"
+      "orderDate": null,
+      "filingDate": "Feb 8, 2026",
+      "hearingDate": null,
+      "summary": "",
+      "relief": null,
+      "plaintiffs": null,
+      "notable": false,
+      "courtlistener_url": "https://www.courtlistener.com/docket/72247855/ahua-v-edlow/",
+      "recent_entries": [
+        {
+          "date_filed": "2026-03-05",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-03-06",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-04-14",
+          "entry_number": null,
+          "description": ""
+        }
+      ]
     },
     {
       "id": 25,
       "name": "Bahaduri v. Noem",
       "court": "miwd",
-      "docket_number": "1:25-cv-01297",
+      "docket": "1:25-cv-01297",
       "status": "PENDING",
+      "statusDetail": "",
       "stage": "Motion pending",
       "category": "Multiple",
-      "filingDate": "Oct 25, 2025"
+      "orderDate": null,
+      "filingDate": "Oct 25, 2025",
+      "hearingDate": null,
+      "summary": "",
+      "relief": null,
+      "plaintiffs": null,
+      "notable": false,
+      "courtlistener_url": "https://www.courtlistener.com/docket/71754429/bahaduri-v-noem/",
+      "recent_entries": [
+        {
+          "date_filed": "2025-10-25",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-03-31",
+          "entry_number": 17,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-03-31",
+          "entry_number": 16,
+          "description": ""
+        }
+      ]
     },
     {
       "id": 26,
       "name": "Sarrafi v. Edlow",
       "court": "dcd",
-      "docket_number": "1:26-cv-00282",
+      "docket": "1:26-cv-00282",
       "status": "PENDING",
       "statusDetail": "Gov't-initiated stay motion",
       "stage": "Government consent-stay motion pending",
       "category": "Multiple",
+      "orderDate": null,
       "filingDate": "Jan 30, 2026",
-      "notable": true
+      "hearingDate": null,
+      "summary": "",
+      "relief": null,
+      "plaintiffs": null,
+      "notable": true,
+      "courtlistener_url": "https://www.courtlistener.com/docket/72213971/sarrafi-v-edlow/",
+      "recent_entries": [
+        {
+          "date_filed": "2026-04-23",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-04-23",
+          "entry_number": null,
+          "description": "MINUTE ORDER. By April 27, 2026, the parties shall meet and confer, and file a joint status report stating their positions on consolidation of Plaintiffs' 7 motion for preliminary injunction with the merits and whether supplemental briefing is necessary in advance of a hearing. Signed by Judge Amir H. Ali on 4/23/2026. (lcaha2)"
+        },
+        {
+          "date_filed": "2026-04-01",
+          "entry_number": null,
+          "description": ""
+        }
+      ]
     },
     {
       "id": 27,
       "name": "Dorcas Int'l Inst. of R.I. v. USCIS",
       "court": "rid",
-      "docket_number": "1:26-cv-00132",
+      "docket": "1:26-cv-00132",
       "status": "PENDING",
       "statusDetail": "Joint SJ briefing",
       "stage": "Joint summary-judgment briefing",
       "category": "Multiple",
+      "orderDate": null,
       "filingDate": "Mar 5, 2026",
-      "notable": true
+      "hearingDate": null,
+      "summary": "",
+      "relief": null,
+      "plaintiffs": null,
+      "notable": true,
+      "courtlistener_url": "https://www.courtlistener.com/docket/72369535/dorcas-international-institute-of-rhode-island-v-united-states-citizenship/",
+      "recent_entries": [
+        {
+          "date_filed": "2026-04-27",
+          "entry_number": null,
+          "description": "TEXT ORDER granting 22 Motion to Withdraw as Attorney. Attorney Golnaz Fakhimi terminated. So Ordered by Chief Judge John J. McConnell, Jr. on 4/27/2026. (Jackson, Ryan)"
+        },
+        {
+          "date_filed": "2026-03-30",
+          "entry_number": null,
+          "description": "TEXT ORDER granting 19 Motion to Appear Pro Hac Vice of Melissa Keaney. So Ordered by Chief Judge John J. McConnell, Jr. on 3/30/2026. (Hill, Cherelle)"
+        },
+        {
+          "date_filed": "2026-03-06",
+          "entry_number": null,
+          "description": ""
+        }
+      ]
     },
     {
       "id": 28,
       "name": "Ortega Cortez v. Edlow",
       "court": "flsd",
-      "docket_number": "1:26-cv-20813",
+      "docket": "1:26-cv-20813",
       "status": "PENDING",
+      "statusDetail": "",
       "stage": "Emergency relief briefing",
       "category": "Multiple",
-      "filingDate": "Feb 6, 2026"
+      "orderDate": null,
+      "filingDate": "Feb 6, 2026",
+      "hearingDate": null,
+      "summary": "",
+      "relief": null,
+      "plaintiffs": null,
+      "notable": false,
+      "courtlistener_url": "https://www.courtlistener.com/docket/72244766/ortega-cortez-v-edlow/",
+      "recent_entries": [
+        {
+          "date_filed": "2026-02-09",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-02-25",
+          "entry_number": null,
+          "description": "Set Deadlines as to DE 7 Plaintiff's MOTION for Preliminary Injunction . Responses due by 3/2/2026. Replies due by 3/6/2026. Per DE 11 . (cwc)"
+        },
+        {
+          "date_filed": "2026-02-25",
+          "entry_number": null,
+          "description": ""
+        }
+      ]
     },
     {
       "id": 29,
       "name": "Yustiz Andueza v. DHS",
       "court": "wied",
-      "docket_number": "2:26-cv-00002",
+      "docket": "2:26-cv-00002",
       "status": "PENDING",
+      "statusDetail": "",
       "stage": "Motion pending",
       "category": "Multiple",
-      "filingDate": "Jan 5, 2026"
+      "orderDate": null,
+      "filingDate": "Jan 5, 2026",
+      "hearingDate": null,
+      "summary": "",
+      "relief": null,
+      "plaintiffs": null,
+      "notable": false,
+      "courtlistener_url": "https://www.courtlistener.com/docket/72103416/yustiz-andueza-v-us-department-of-homeland-security/",
+      "recent_entries": [
+        {
+          "date_filed": "2026-01-06",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-01-05",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-01-05",
+          "entry_number": null,
+          "description": "NOTICE Regarding assignment of this matter to Chief Judge Pamela Pepper; Consent/refusal forms for Magistrate Judge Dries to be filed within 21 days; the consent/refusal form is available here. Pursuant to Civil Local Rule 7.1 a disclosure statement is to be filed upon the first filing of any paper and should be filed now if not already filed. (nf)"
+        }
+      ]
     },
     {
       "id": 30,
       "name": "Doe v. Noem",
       "court": "mad",
-      "docket_number": "1:25-cv-10495",
+      "docket": "1:25-cv-10495",
       "status": "PENDING",
+      "statusDetail": "",
       "stage": "Motion pending",
       "category": "Multiple",
-      "filingDate": "Feb 28, 2026"
+      "orderDate": null,
+      "filingDate": "Feb 28, 2026",
+      "hearingDate": null,
+      "summary": "",
+      "relief": null,
+      "plaintiffs": null,
+      "notable": false,
+      "courtlistener_url": "https://www.courtlistener.com/docket/69695790/doe-v-noem/",
+      "recent_entries": [
+        {
+          "date_filed": "2025-08-11",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2025-06-02",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-03-30",
+          "entry_number": null,
+          "description": ""
+        }
+      ]
     },
     {
       "id": 31,
       "name": "Awadelkarim v. USCIS Dir.",
       "court": "mied",
-      "docket_number": "4:26-cv-10735",
+      "docket": "4:26-cv-10735",
       "status": "PENDING",
+      "statusDetail": "",
       "stage": "Motion pending",
       "category": "Multiple",
-      "filingDate": "Mar 3, 2026"
+      "orderDate": null,
+      "filingDate": "Mar 3, 2026",
+      "hearingDate": null,
+      "summary": "",
+      "relief": null,
+      "plaintiffs": null,
+      "notable": false,
+      "courtlistener_url": "https://www.courtlistener.com/docket/72358654/awadelkarim-v-us-citizenship-and-immigration-services-director-of/",
+      "recent_entries": [
+        {
+          "date_filed": "2026-03-04",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-03-04",
+          "entry_number": null,
+          "description": "A United States Magistrate Judge of this Court is available to conduct all proceedings in this civil action in accordance with 28 U.S.C. 636c and FRCP 73. The Notice, Consent, and Reference of a Civil Action to a Magistrate Judge form is available for download at http://www.mied.uscourts.gov (MChr)"
+        },
+        {
+          "date_filed": "2026-05-07",
+          "entry_number": 16,
+          "description": ""
+        }
+      ]
     },
     {
       "id": 32,
       "name": "Shahi v. Edlow",
       "court": "cand",
-      "docket_number": "5:26-cv-03113",
+      "docket": "5:26-cv-03113",
       "status": "PENDING",
+      "statusDetail": "",
       "stage": "Motion pending",
       "category": "Multiple",
-      "filingDate": "Apr 12, 2026"
+      "orderDate": null,
+      "filingDate": "Apr 12, 2026",
+      "hearingDate": null,
+      "summary": "",
+      "relief": null,
+      "plaintiffs": null,
+      "notable": false,
+      "courtlistener_url": "https://www.courtlistener.com/docket/73180196/shahi-v-edlow/",
+      "recent_entries": [
+        {
+          "date_filed": "2026-05-04",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-04-13",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-04-13",
+          "entry_number": null,
+          "description": ""
+        }
+      ]
     },
     {
       "id": 33,
       "name": "Doe v. Mullin",
       "court": "mad",
-      "docket_number": "1:26-cv-11884",
+      "docket": "1:26-cv-11884",
       "status": "PENDING",
+      "statusDetail": "",
       "stage": "Motion pending",
       "category": "Multiple",
-      "filingDate": "Apr 27, 2026"
+      "orderDate": null,
+      "filingDate": "Apr 27, 2026",
+      "hearingDate": null,
+      "summary": "",
+      "relief": null,
+      "plaintiffs": null,
+      "notable": false,
+      "courtlistener_url": "https://www.courtlistener.com/docket/73247163/doe-v-mullin/",
+      "recent_entries": [
+        {
+          "date_filed": "2026-04-27",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-05-08",
+          "entry_number": 13,
+          "description": "NOTICE by R.H. Doe, S.G. Doe, S.H.A. Doe, S.S. Doe of Filing Motion to Consolidate (Attachments: # 1 Exhibit)(Hurvich, Carl) (Entered: 05/08/2026)"
+        },
+        {
+          "date_filed": "2026-05-08",
+          "entry_number": 12,
+          "description": "NOTICE of Appearance by Eve A. Piemonte on behalf of Joseph B. Edlow, Markwayne Mullin (Piemonte, Eve) (Entered: 05/08/2026)"
+        }
+      ]
     },
     {
       "id": 34,
       "name": "Perez v. USCIS",
       "court": "flmd",
-      "docket_number": "8:26-cv-00392",
+      "docket": "8:26-cv-00392",
       "status": "PENDING",
+      "statusDetail": "",
       "stage": "Motion pending",
       "category": "Multiple",
-      "filingDate": "Feb 11, 2026"
+      "orderDate": null,
+      "filingDate": "Feb 11, 2026",
+      "hearingDate": null,
+      "summary": "",
+      "relief": null,
+      "plaintiffs": null,
+      "notable": false,
+      "courtlistener_url": "https://www.courtlistener.com/docket/72260779/perez-v-united-states-citizenship-and-immigration-services-uscis/",
+      "recent_entries": [
+        {
+          "date_filed": "2026-02-13",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-03-26",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-05-11",
+          "entry_number": null,
+          "description": ""
+        }
+      ]
     },
     {
       "id": 35,
       "name": "A.A. v. USCIS",
       "court": "ilnd",
-      "docket_number": "1:26-cv-02210",
+      "docket": "1:26-cv-02210",
       "status": "PENDING",
+      "statusDetail": "",
       "stage": "Awaiting government response",
       "category": "Multiple",
-      "filingDate": "Feb 26, 2026"
+      "orderDate": null,
+      "filingDate": "Feb 26, 2026",
+      "hearingDate": null,
+      "summary": "",
+      "relief": null,
+      "plaintiffs": null,
+      "notable": false,
+      "courtlistener_url": "https://www.courtlistener.com/docket/72337570/aa-v-uscis/",
+      "recent_entries": [
+        {
+          "date_filed": "2026-02-27",
+          "entry_number": null,
+          "description": "CASE ASSIGNED to the Honorable Manish S. Shah. Designated as Magistrate Judge the Honorable 2. Case assignment: Random assignment. (Civil Category 2). (VW_"
+        },
+        {
+          "date_filed": "2026-02-27",
+          "entry_number": null,
+          "description": "CLERK'S NOTICE: Pursuant to Local Rule 73.1(b), a United States Magistrate Judge of this court is available to conduct all proceedings in this civil action. If all parties consent to have the currently assigned United States Magistrate Judge conduct all proceedings in this case, including trial, the entry of final judgment, and all post-trial proceedings, all parties must sign their names on the attached Consent To form. This consent form is eligible for filing only if executed by all parties. The parties can also express their consent to jurisdiction by a magistrate judge in any joint filing, including the Joint Initial Status Report or proposed Case Management Order. (VW)"
+        },
+        {
+          "date_filed": "2026-05-11",
+          "entry_number": 30,
+          "description": ""
+        }
+      ]
     },
     {
       "id": 36,
       "name": "Doe 1 v. Edlow",
       "court": "ohsd",
-      "docket_number": "2:26-cv-00494",
+      "docket": "2:26-cv-00494",
       "status": "PENDING",
+      "statusDetail": "",
       "stage": "Awaiting response",
       "category": "Multiple",
-      "filingDate": "Apr 22, 2026"
+      "orderDate": null,
+      "filingDate": "Apr 22, 2026",
+      "hearingDate": null,
+      "summary": "",
+      "relief": null,
+      "plaintiffs": null,
+      "notable": false,
+      "courtlistener_url": "https://www.courtlistener.com/docket/73231930/doe-1-v-edlow/",
+      "recent_entries": [
+        {
+          "date_filed": "2026-04-27",
+          "entry_number": null,
+          "description": "CLERK'S NOTICE: In accordance with Federal Rule of Civil Procedure 73 and 28 U.S.C. 636(c), the parties are notified that if all parties consent, a United States magistrate judge of this court is available to conduct all proceedings in this civil action including a (jury or nonjury) trial and to order the entry of a final judgment. The form may be accessed at the following link: AO-085. The consent form should be filled out, signed and filed electronically only if all parties wish to consent. You may withhold your consent without adverse substantive consequences. Do NOT return or file the consent form unless all parties have signed the consent. (kk2)"
+        },
+        {
+          "date_filed": "2026-04-27",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-05-11",
+          "entry_number": 12,
+          "description": ""
+        }
+      ]
     },
     {
       "id": 37,
       "name": "Travieso v. Edlow",
       "court": "flsd",
-      "docket_number": "1:26-cv-21935",
+      "docket": "1:26-cv-21935",
       "status": "PENDING",
+      "statusDetail": "",
       "stage": "Awaiting response",
       "category": "Multiple",
-      "filingDate": "Mar 23, 2026"
+      "orderDate": null,
+      "filingDate": "Mar 23, 2026",
+      "hearingDate": null,
+      "summary": "",
+      "relief": null,
+      "plaintiffs": null,
+      "notable": false,
+      "courtlistener_url": "https://www.courtlistener.com/docket/72537405/travieso-v-edlow/",
+      "recent_entries": [
+        {
+          "date_filed": "2026-03-24",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-04-17",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-04-17",
+          "entry_number": null,
+          "description": ""
+        }
+      ]
     },
     {
       "id": 38,
       "name": "Doe v. USCIS (W.D. Wash.)",
       "court": "wawd",
-      "docket_number": "2:26-cv-00290",
+      "docket": "2:26-cv-00290",
       "status": "PENDING",
+      "statusDetail": "",
       "stage": "Awaiting response",
       "category": "Multiple",
-      "filingDate": "Jan 26, 2026"
+      "orderDate": null,
+      "filingDate": "Jan 26, 2026",
+      "hearingDate": null,
+      "summary": "",
+      "relief": null,
+      "plaintiffs": null,
+      "notable": false,
+      "courtlistener_url": "https://www.courtlistener.com/docket/72189963/doe-v-united-states-citizenship-and-immigration-services/",
+      "recent_entries": [
+        {
+          "date_filed": "2026-01-27",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-02-02",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-01-28",
+          "entry_number": null,
+          "description": ""
+        }
+      ]
     },
     {
       "id": 39,
       "name": "Raji v. DHS",
       "court": "mdd",
-      "docket_number": "1:26-cv-01798",
+      "docket": "1:26-cv-01798",
       "status": "PENDING",
+      "statusDetail": "",
       "stage": "Recently filed",
       "category": "Multiple",
-      "filingDate": "May 6, 2026"
+      "orderDate": null,
+      "filingDate": "May 6, 2026",
+      "hearingDate": null,
+      "summary": "",
+      "relief": null,
+      "plaintiffs": null,
+      "notable": false,
+      "courtlistener_url": "https://www.courtlistener.com/docket/73306500/raji-v-department-of-homeland-security/",
+      "recent_entries": [
+        {
+          "date_filed": "2026-05-06",
+          "entry_number": 4,
+          "description": "CASE MANAGEMENT ORDER. Signed by Judge Theodore D. Chuang on 5/6/2026. (kb3s, Deputy Clerk) (Entered: 05/07/2026)"
+        },
+        {
+          "date_filed": "2026-05-07",
+          "entry_number": 3,
+          "description": "Summons Issued 60 days as to Department of Homeland Security,, United States Citizenship and Immigration Services, U.S. Attorney and U.S. Attorney General (Attachments: # 1 Summons, # 2 Summons, # 3 Summons)(kb3s, Deputy Clerk) (Entered: 05/07/2026)"
+        },
+        {
+          "date_filed": "2026-05-06",
+          "entry_number": 2,
+          "description": "MOTION for Leave to File Excess Pages for Complaint by Moujab Choukeife, Yao Koffi, Zainab Kehinde Raji, Abdalrhman Ahmed Dogorshom Abdalla, Abdulaziz Abdullah A Ahmed, Mahyar Alinejad, Saeed Arasteh, Siavash Asadian, Kamiar Asgari, Htet Thadar Aung, Mehrnaz Azarian, Mohsen Homes Babaee, Sina Bahraminejad, Fatemeh Bakhshalizadeh, Abdullah Hasan Balbaid, Pedram Bazrafshan, Amirhosein Begmohammadi, Ramin Safarpour Behbahani, Rafael Cardenas Castillo, David Cookey-Gam, Fahimeh Dehghandehnavi, Ayodeji Olutosin Ejiade, Emadeldeen M Ahmed Elgwairi, Mohammed Elnur, Chidera Duanne Anita Eluwa, Fakhreddin Emami, Hadi Esfandi, Saeedeh Ezzati, Motahareh Shafiei Fard, Ganjkhanloo Fardin, Khalil Fayad, Adithan Ganesh, Mehran Ganji, Arshia Gharagozlou, Veronica Astrid Moreno Gomez, Navid Haddad, Mohammad Jabbari Hagh, Farnaz Fahimi Hanzaei, Poya Harirchi, Alireza Hosseini, Ali Jahanaray, Mohammad Mussadiq Jalalzai, Sara Kamali, Farshid Kassaei, Farzaneh Khalili, Babak Esmaeili Kojabadi, Rossmary Del Valle Marquez Lameda, Livesay Bernadet Luwaile, Mohammad Reza Lavaei Mashhadi, Pedram Mohajeransari, Yassin Mahmoud Mohamed, Seyed Pedrum Jalali Mosallam, Tatenda Andrew Mudyanadzo, Samira Naeem, Hanieh Najafi, Zahra Nazarimehrvarani, Savalan Naser Neisary, Mehran Nadjarbashi Noghani, Mohsen Alizadeh Noghani, Eseoghene Obaruvwe, Eniola Zainab Otukoya, Ali Sattari Pirsoltan, Arya Pourtabatabaie, Jaime Jesus Rodriguez Quinones, Hadi Rahmati, Mahkameh Rasouli, Seyedsajjad Abdollahpour Razkenari, Jesus Daniel Salazar Rodriguez, Iman Sadri, Daniel Salami, Amir Salarpour, Mohammad Faraz Samavat, Pouria Sanjari, Hakeem Sanusi, Ahmad Sarlak, Wartburg Theological Seminary, Samin Semsar, Sara Shafieian, Negin Shamshiri, Bahareh Tajdini, Hossein Moradi Talkhouncheh, Adib Manzari Tavakoli, Sewanu Anjolaoluwa Toyon, Alejandra Carolina Uptain, Joel Prez Vargas, Alireza Aminoroaya Yamini, Fatemeh Yousefian, Somayeh Zeinalilathori(Kuck, Charles) (Entered: 05/06/2026)"
+        }
+      ]
     },
     {
       "id": 40,
       "name": "Saifi v. Mullin",
       "court": "mad",
-      "docket_number": "1:26-cv-12052",
+      "docket": "1:26-cv-12052",
       "status": "PENDING",
+      "statusDetail": "",
       "stage": "Recently filed",
       "category": "Multiple",
-      "filingDate": "May 5, 2026"
+      "orderDate": null,
+      "filingDate": "May 5, 2026",
+      "hearingDate": null,
+      "summary": "",
+      "relief": null,
+      "plaintiffs": null,
+      "notable": false,
+      "courtlistener_url": "https://www.courtlistener.com/docket/73300302/saifi-v-mullin/",
+      "recent_entries": [
+        {
+          "date_filed": "2026-05-06",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-05-06",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-05-06",
+          "entry_number": null,
+          "description": ""
+        }
+      ]
     },
     {
       "id": 41,
       "name": "Hedayati v. Edlow",
       "court": "cand",
-      "docket_number": "5:26-cv-04054",
+      "docket": "5:26-cv-04054",
       "status": "PENDING",
+      "statusDetail": "",
       "stage": "Recently filed",
       "category": "Multiple",
-      "filingDate": "May 4, 2026"
+      "orderDate": null,
+      "filingDate": "May 4, 2026",
+      "hearingDate": null,
+      "summary": "",
+      "relief": null,
+      "plaintiffs": null,
+      "notable": false,
+      "courtlistener_url": "https://www.courtlistener.com/docket/73294391/hedayati-v-edlow/",
+      "recent_entries": [
+        {
+          "date_filed": "2026-05-05",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-05-05",
+          "entry_number": null,
+          "description": "Electronic filing error. Not all parties listed in the complaint have been added to the docket. Please add the missing parties using the event Notice of Additional Parties. The event can be found at: Civil Events > Other Filings > Notices > Notice of Additional Parties. Re: 1 Complaint, filed by Navid Mohammadian Tabrizi, Alain J. Latour Villamil, Asma Jodeiri Akbarfam, Sahar Rahimi Malakshan, Amirhossein Ostovar, Ghazal Mehdizadeh, Farzan ZareAfifi, Raul Enrique Romero Martinez, Majd Nasra, Donya Damavandi Moghaddam, Mehrdad Jamali, Hadi Beyki, Ehsan Esmaeili, FNU Thiha Zaw, Hanif Tayarani, Zahra Sedghi, Farhad Farzaneh, Siavash Shams, Zahra Ebrahimi, Ali Afrasiabi, Hanieh Alsadat Hedayati, Ali Hosseinipour, Dorsa Azadi, Vahid Nikkhah, Rosa Ana Martir de las Fuentes, Eighdi Aung, Negar Saraei, Ahmadreza Rajabi Sebdani, Soroush Karimi, Atieh Sadat Abedin Do, Min Sitt Thu Aung, Mehrnaz Ayazi, Parnian Abdi, Mahdi Arabinour, Sina Jangjoo, Yasaman Jannati, Niloofar Yousefi, Talayeh Vatankhah, Sarvenaz Moazami, C. A.L., Seyedeh Nahid Naghshbandi, Ehounoud Joseph C. Messou, Fatima Reza, Alireza Tavassoli, E. O.L., Saleh Sadeghi Gougheri, Khant Tayza, Bita Shaban, Mohammad Amin Kazemi, Maryam Paparimoghadamborazjani, Aylin Mohammadzadehmarandi, Ghazal Chizarian (jml, COURT STAFF) (Filed on 5/5/2026)"
+        },
+        {
+          "date_filed": "2026-05-05",
+          "entry_number": null,
+          "description": ""
+        }
+      ]
     },
     {
       "id": 42,
       "name": "Yazdan Pouri v. DHS",
       "court": "dcd",
-      "docket_number": "1:26-cv-01339",
+      "docket": "1:26-cv-01339",
       "status": "PENDING",
+      "statusDetail": "",
       "stage": "Recently filed",
       "category": "Multiple",
-      "filingDate": "Apr 20, 2026"
+      "orderDate": null,
+      "filingDate": "Apr 20, 2026",
+      "hearingDate": null,
+      "summary": "",
+      "relief": null,
+      "plaintiffs": null,
+      "notable": false,
+      "courtlistener_url": "https://www.courtlistener.com/docket/73215129/yazdan-pouri-v-united-states-department-of-homeland-security/",
+      "recent_entries": [
+        {
+          "date_filed": "2026-05-11",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-05-12",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-04-21",
+          "entry_number": null,
+          "description": ""
+        }
+      ]
     }
   ]
 }
