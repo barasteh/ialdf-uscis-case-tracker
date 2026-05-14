@@ -4,34 +4,38 @@ import path from 'node:path';
 import process from 'node:process';
 
 const TOKEN = process.env.COURTLISTENER_TOKEN;
-if (!TOKEN) {
-  console.error('Missing COURTLISTENER_TOKEN env var.');
-  process.exit(1);
-}
+if (!TOKEN) { console.error('Missing COURTLISTENER_TOKEN env var.'); process.exit(1); }
 
 const BASE = 'https://www.courtlistener.com/api/rest/v4';
 const HEADERS = { 'Authorization': `Token ${TOKEN}`, 'User-Agent': 'IALDF-sync-bot' };
-
 const DOCKETS_FILE = 'data/dockets.json';
 const OUT_FILE     = 'data/case-updates.json';
 
-async function fetchJson(url) {
+const sleep = ms => new Promise(r => setTimeout(r, ms));
+
+// Retry on 429 with exponential backoff
+async function fetchJson(url, attempt = 0) {
   const res = await fetch(url, { headers: HEADERS });
+  if (res.status === 429) {
+    if (attempt >= 5) throw new Error(`429 (gave up after ${attempt} retries) for ${url}`);
+    // Honor Retry-After if present, else exponential backoff
+    const retryAfter = parseInt(res.headers.get('retry-after') || '0', 10);
+    const wait = retryAfter > 0 ? retryAfter * 1000 : Math.min(60000, 2000 * Math.pow(2, attempt));
+    console.log(`  429 — waiting ${Math.round(wait/1000)}s then retry (attempt ${attempt + 1})...`);
+    await sleep(wait);
+    return fetchJson(url, attempt + 1);
+  }
   if (!res.ok) throw new Error(`CourtListener ${res.status} for ${url}`);
   return res.json();
 }
 
 async function findDocket(seed) {
-  if (seed.docket_id) {
-    return fetchJson(`${BASE}/dockets/${seed.docket_id}/`);
-  }
+  if (seed.docket_id) return fetchJson(`${BASE}/dockets/${seed.docket_id}/`);
   if (!seed.docket_number) return null;
-  // Use the dockets list endpoint with direct filters (this works reliably).
   const params = new URLSearchParams({ docket_number: seed.docket_number });
   if (seed.court) params.set('court', seed.court);
   const result = await fetchJson(`${BASE}/dockets/?${params.toString()}`);
   if (result.results && result.results.length > 0) return result.results[0];
-  // Fallback: try search endpoint without the court filter
   const fallback = await fetchJson(`${BASE}/dockets/?docket_number=${encodeURIComponent(seed.docket_number)}`);
   return (fallback.results && fallback.results.length > 0) ? fallback.results[0] : null;
 }
@@ -75,27 +79,28 @@ async function main() {
   let failed = 0;
   const failures = [];
 
+  console.log(`Syncing ${seeds.length} cases...`);
   for (const seed of seeds) {
     try {
       const docket = await findDocket(seed);
       if (!docket) {
-        failures.push(`#${seed.id} ${seed.name} (${seed.docket_number || 'no docket'})`);
-        out.push(seed);
-        failed++;
-        continue;
+        failures.push(`#${seed.id} ${seed.name} — no match in CourtListener`);
+        out.push(seed); failed++;
+      } else {
+        const entries = await fetchLatestEntries(docket.id, 3);
+        out.push(toCaseCard(seed, docket, entries));
+        console.log(`  #${seed.id} ${seed.name} — ok`);
       }
-      const entries = await fetchLatestEntries(docket.id, 3);
-      out.push(toCaseCard(seed, docket, entries));
-      await new Promise(r => setTimeout(r, 350));
     } catch (e) {
       failures.push(`#${seed.id} ${seed.name}: ${e.message}`);
-      out.push(seed);
-      failed++;
+      out.push(seed); failed++;
     }
+    // Pace requests: 2s between cases to stay under the free-tier limit
+    await sleep(2000);
   }
 
   if (failures.length) {
-    console.log('--- Failed cases ---');
+    console.log('\n--- Failed cases ---');
     failures.forEach(f => console.log('  ' + f));
   }
 
@@ -108,7 +113,7 @@ async function main() {
   };
   await fs.mkdir(path.dirname(OUT_FILE), { recursive: true });
   await fs.writeFile(OUT_FILE, JSON.stringify(result, null, 2));
-  console.log(`Wrote ${OUT_FILE} — ${out.length} cases, ${failed} failed.`);
+  console.log(`\nWrote ${OUT_FILE} — ${out.length} cases, ${failed} failed.`);
 }
 
 main().catch(err => { console.error(err); process.exit(1); });
