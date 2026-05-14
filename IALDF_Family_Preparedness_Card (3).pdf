@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Rights at Home — Know Your Rights — IALDF</title>
+<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400;1,500&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="../assets/styles.css" />
+</head>
+<body data-screen-label="KYR At Home">
+
+<section class="page-header">
+  <div class="page-header-inner">
+    <div class="page-eyebrow">
+      <a href="../index.html">Resource Center</a>
+      <span class="sep">/</span>
+      <a href="index.html">Know Your Rights</a>
+    </div>
+    <h1>Your Rights at Home</h1>
+    <p class="lede">Your home receives the strongest protection under the Fourth Amendment. As a general rule, law enforcement needs a warrant signed by a judge to enter your home.</p>
+    <p class="updated">Updated as of April 30, 2026</p>
+  </div>
+</section>
+
+<nav class="subnav">
+  <div class="subnav-inner">
+    <a href="index.html">Overview</a>
+    <a href="police-ice.html">Police &amp; ICE Encounters</a>
+    <a href="at-home.html" class="is-current">Rights at Home</a>
+    <a href="airports-borders.html">Airports &amp; Borders</a>
+    <a href="discrimination.html">Discrimination</a>
+    <a href="sanctions.html">U.S. Sanctions on Iran</a>
+  </div>
+</nav>
+
+<section class="article">
+  <div class="container-narrow">
+    <article class="prose">
+
+      <h2 style="border-top:none; padding-top:0; margin-top:0;">What you can do at the door</h2>
+      <ul>
+        <li><strong>You do not have to open the door.</strong> Ask: <em>“Do you have a warrant?”</em> If they say yes, ask to see it slid under the door or held up to a window before opening the door.</li>
+        <li>If there is no judicial warrant (no judge’s signature), you may say: <em>“I do not consent to entry. Please leave.”</em> An ICE administrative warrant (Form I-200) does not compel you to open your door.</li>
+        <li>Even with a valid judicial warrant, you may ask to see it and ask: <em>“What is this warrant for?”</em> Cooperate, but do not volunteer additional information.</li>
+        <li>If officers claim an emergency, they may enter without a warrant under the <em>“exigent circumstances”</em> exception — for example, if they are pursuing someone they have reason to believe just committed a serious crime, or if someone inside is in immediate danger. You can still ask questions, but in genuine life-safety situations, the law allows officers to enter even without your permission.</li>
+      </ul>
+
+      <div class="callout callout-info">
+        <div class="callout-title">Read the warrant before the door opens</div>
+        <p>The single most important step is the one most people skip: ask the officers to slide the warrant under the door, or hold it up to a window, so you can read it before letting anyone inside. Check whether it is signed by a judge (judicial) or by an immigration officer (administrative). An ICE administrative warrant — Form I-200 — does <strong>not</strong> compel you to open the door.</p>
+      </div>
+
+      <h2 id="if-they-knock">If they knock and you are uncertain</h2>
+      <p>If you are stopped, questioned, or detained, being stopped at home is among the most stressful situations you may face. The most important thing you can do is stay calm, exercise your rights clearly and verbally, and contact an attorney as soon as possible.</p>
+      <ul>
+        <li>You are not required to open the door simply because someone is knocking, even if they identify as law enforcement.</li>
+        <li>You can speak through the door. Ask who they are, why they are there, and whether they have a judicial warrant signed by a judge.</li>
+        <li>If a judicial warrant is presented and is valid, you must comply with what it authorizes — but only what it authorizes. Read what rooms or items it covers.</li>
+        <li>If officers enter anyway, do not physically resist. Verbally state: <em>“I do not consent to this entry or search.”</em> Your verbal objection preserves your legal rights.</li>
+      </ul>
+
+      <h2 id="who-is-home">If others are home</h2>
+      <p>Make sure everyone in your household — including children old enough to understand — knows the basic rules: do not open the door, do not answer questions, and ask for a lawyer. Practice the conversation as a family. The <a href="../templates.html#preparedness">Family Preparedness Plan</a> includes a worksheet for this.</p>
+
+      <details class="citations">
+        <summary>Sources — Rights at home</summary>
+        <ol>
+          <li>U.S. Constitution, Fourth Amendment (warrant requirement for home entry; exigent-circumstances exception).</li>
+          <li>8 U.S.C. § 1226(a); 8 C.F.R. § 287.3 (ICE administrative warrants — Form I-200 authority, distinguished from judicial warrants).</li>
+        </ol>
+      </details>
+
+      <div class="related">
+        <a href="police-ice.html">
+          <div class="related-eyebrow">Previous · 1.1</div>
+          <div class="related-title">← Police &amp; ICE Encounters</div>
+        </a>
+        <a href="airports-borders.html">
+          <div class="related-eyebrow">Next · 1.4</div>
+          <div class="related-title">Airports, Borders &amp; Discrimination →</div>
+        </a>
+      </div>
+    </article>
+  </div>
+</section>
+
+<script>window.IALDF = { section: 'kyr', root: '../' };</script>
+<script src="../assets/site.js"></script>
+</body>
+</html>

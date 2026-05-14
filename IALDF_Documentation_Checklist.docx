@@ -1,0 +1,127 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Airports &amp; Borders — Know Your Rights — IALDF</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400;1,500&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="../assets/styles.css" />
+</head>
+<body data-screen-label="KYR Airports Borders">
+
+<section class="page-header">
+  <div class="page-header-inner">
+    <div class="page-eyebrow">
+      <a href="../index.html">Resource Center</a>
+      <span class="sep">/</span>
+      <a href="index.html">Know Your Rights</a>
+    </div>
+    <h1>Airports &amp; Borders</h1>
+    <p class="lede">Airports and border crossings are legally distinct from other locations. CBP officers have broader authority to stop, question, and search travelers than police have during a routine street encounter. You still have rights.</p>
+    <p class="updated">Updated as of April 30, 2026</p>
+  </div>
+</section>
+
+<nav class="subnav">
+  <div class="subnav-inner">
+    <a href="index.html">Overview</a>
+    <a href="police-ice.html">Police &amp; ICE Encounters</a>
+    <a href="at-home.html">Rights at Home</a>
+    <a href="airports-borders.html" class="is-current">Airports &amp; Borders</a>
+    <a href="discrimination.html">Discrimination</a>
+    <a href="sanctions.html">U.S. Sanctions on Iran</a>
+  </div>
+</nav>
+
+<section class="article">
+  <div class="article-grid">
+    <aside class="article-sidebar">
+      <div class="article-sidebar-title">On this page</div>
+      <ul>
+        <li><a href="#entering">Entering the U.S.</a></li>
+        <li><a href="#airport-phrases">Key phrases at CBP</a></li>
+        <li><a href="#iranian">Iranian Americans &amp; dual nationals</a></li>
+        <li><a href="#consular">Consular notification</a></li>
+        <li><a href="#military">Military service obligations</a></li>
+        <li><a href="#travel">Travel advisory</a></li>
+        <li><a href="#citations">Sources</a></li>
+      </ul>
+    </aside>
+
+    <article class="prose">
+
+      <h2 id="entering" style="border-top:none; margin-top:0; padding-top:0;">When entering the United States</h2>
+      <p>If you are a U.S. citizen (including naturalized citizens), <strong>you have the right to enter the United States.</strong> You must present a valid passport or other acceptable travel document. Declining to answer questions may cause delay but cannot ultimately prevent a citizen from entering.</p>
+      <p>Green-card holders have the right to return after travel abroad, provided the green card has not expired and there are no disqualifying criminal convictions or immigration violations. The government <strong>cannot revoke your status at the airport</strong> — only an immigration judge can do that.</p>
+
+      <h2 id="airport-phrases">Key phrases for airport &amp; border encounters</h2>
+      <ul class="phrase-list">
+        <li>
+          <div class="situation">CBP officer asks questions beyond your name and travel purpose</div>
+          <div class="what">“I prefer to answer further questions with an attorney present.” Then wait for a response.</div>
+        </li>
+        <li>
+          <div class="situation">CBP officer asks you to consent to a search of your belongings</div>
+          <div class="what">“I do not consent to a search.” Note: CBP may search your belongings anyway at the border, but your objection is noted for legal purposes.</div>
+        </li>
+        <li>
+          <div class="situation">You are pulled aside for secondary inspection or prolonged questioning</div>
+          <div class="what">“Am I being detained or am I free to go?” Then: “I would like to contact an attorney.”</div>
+        </li>
+      </ul>
+
+      <h2 id="iranian">Special considerations for Iranian Americans &amp; dual nationals</h2>
+      <p>If you are an Iranian American or a dual national (holding both Iranian and U.S. citizenship), there are additional considerations that affect your rights and safety.</p>
+
+      <h3 id="consular">Consular access and notification</h3>
+      <p>If you are detained or arrested, you may be asked whether you wish to have your country’s consulate notified. Under the Vienna Convention on Consular Relations, U.S. authorities are generally required to inform you of this right.<sup>1</sup></p>
+
+      <div class="callout callout-crit">
+        <div class="callout-title">Consular notification carries risk</div>
+        <p>Before requesting that the Iranian consulate (or the Iranian Interest Section) be notified, carefully consider the potential consequences. Iran has a documented history of monitoring its diaspora communities and nationals abroad. Requesting consular notification creates an official record that the Iranian government could access. While the specific risk to family members in Iran is difficult to quantify, the possibility exists and should be discussed with your attorney before you make this decision. If you are uncertain, tell the officers: <em>“I need to speak with my attorney before making a decision about consular notification.”</em></p>
+      </div>
+
+      <h3 id="military">Military service obligations</h3>
+      <p>Iran requires military service for male citizens. Males are generally subject to service obligations until approximately age 49–50, though specific rules and exceptions apply under Iranian law.<sup>2</sup></p>
+      <p>If you are an Iranian national or dual national who has not completed military service, returning to Iran could result in your detention at the border. You may be prevented from leaving Iran until your obligation is fulfilled or a financial penalty is paid.</p>
+      <p>Deferments are available for students who are enrolled full-time in an accredited university. A letter from your university may serve as documentation of this deferment within Iran. However, this is a temporary deferment — once you graduate or withdraw, the service obligation resumes.<sup>3</sup></p>
+      <p><strong>Consult with an immigration attorney before planning any travel to Iran.</strong></p>
+
+      <h3 id="travel">Travel to Iran — security advisory</h3>
+      <p>The U.S. State Department has issued a Level 4 <em>“Do Not Travel”</em> advisory for Iran, citing the risk of arbitrary arrest and detention of dual nationals and the limited ability of the U.S. government to provide consular assistance if you are detained.<sup>4</sup></p>
+
+      <div class="callout callout-warn">
+        <div class="callout-title">Iran does not recognize dual citizenship</div>
+        <p>If you enter Iran, the Iranian government may treat you exclusively as an Iranian citizen, including with respect to military service obligations. U.S. citizenship will not protect you inside Iran.</p>
+      </div>
+
+      <details class="citations" id="citations">
+        <summary>Sources — Airports & borders</summary>
+        <ol>
+          <li>Vienna Convention on Consular Relations (1963), Art. 36.</li>
+          <li>U.S. State Department, Country Reports on Human Rights Practices — Iran.</li>
+          <li>Iranian military service deferment for students is a matter of Iranian domestic law. University enrollment letters serve as deferment documentation within Iran. Deferment is temporary and ends upon graduation or withdrawal.</li>
+          <li>U.S. State Department, Bureau of Consular Affairs, Iran Travel Advisory — Level 4: Do Not Travel (travel.state.gov).</li>
+        </ol>
+      </details>
+
+      <div class="related">
+        <a href="at-home.html">
+          <div class="related-eyebrow">Previous</div>
+          <div class="related-title">← Your Rights at Home</div>
+        </a>
+        <a href="discrimination.html">
+          <div class="related-eyebrow">Next</div>
+          <div class="related-title">Discrimination →</div>
+        </a>
+      </div>
+    </article>
+  </div>
+</section>
+
+<script>window.IALDF = { section: 'kyr', root: '../' };</script>
+<script src="../assets/site.js"></script>
+</body>
+</html>

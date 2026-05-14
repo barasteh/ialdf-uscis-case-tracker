@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Know Your Rights — IALDF Resource Center</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400;1,500&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="../assets/styles.css" />
+</head>
+<body data-screen-label="KYR Hub">
+
+<section class="page-header">
+  <div class="page-header-inner">
+    <div class="page-eyebrow">
+      <a href="../index.html">Resource Center</a>
+    </div>
+    <h1>Know Your Rights</h1>
+    <p class="lede">As an Iranian American, understanding your legal rights is one of the most important things you can do to protect yourself and your family. Whether you are a U.S. citizen, a permanent resident, or here on a visa, certain fundamental protections apply to you under the Constitution and federal law.</p>
+    <p class="updated">Updated as of April 30, 2026</p>
+  </div>
+</section>
+
+<nav class="subnav" aria-label="Know Your Rights sub-pages">
+  <div class="subnav-inner">
+    <a href="index.html" class="is-current">Overview</a>
+    <a href="police-ice.html">Police &amp; ICE Encounters</a>
+    <a href="at-home.html">Rights at Home</a>
+    <a href="airports-borders.html">Airports &amp; Borders</a>
+    <a href="discrimination.html">Discrimination</a>
+    <a href="sanctions.html">U.S. Sanctions on Iran</a>
+  </div>
+</nav>
+
+<section class="article">
+  <div class="container">
+    <div class="prose" style="max-width: 80ch;">
+      <p>This section walks you through your rights in practical, everyday terms. Pick the situation closest to what you are facing — or read in order. Every page ends with primary-source citations you can verify.</p>
+    </div>
+
+    <div class="card-grid" style="margin-top: 40px; padding: 0;">
+
+      <a class="card" href="police-ice.html">
+        <h3 class="card-title">Police &amp; ICE Encounters</h3>
+        <p class="card-desc">What to say, what you must provide, and the difference between being stopped, detained, and arrested. Plus the difference between a judicial warrant and an ICE administrative warrant.</p>
+        <span class="card-cta">Open guide</span>
+      </a>
+
+      <a class="card" href="at-home.html">
+        <h3 class="card-title">Rights at Home</h3>
+        <p class="card-desc">Your home receives the strongest Fourth Amendment protection. The questions to ask before opening the door and the words that preserve your rights.</p>
+        <span class="card-cta">Open guide</span>
+      </a>
+
+      <a class="card" href="airports-borders.html">
+        <h3 class="card-title">Airports &amp; Borders</h3>
+        <p class="card-desc">Rights at CBP secondary inspection, consular notification risks for dual nationals, Iranian military service obligations, and the State Department Iran travel advisory.</p>
+        <span class="card-cta">Open guide</span>
+      </a>
+
+      <a class="card" href="discrimination.html">
+        <h3 class="card-title">Discrimination</h3>
+        <p class="card-desc">Federal anti-discrimination protections at work, in housing, in public places, and at school — and how to file a complaint when something happens.</p>
+        <span class="card-cta">Open guide</span>
+      </a>
+
+      <a class="card" href="sanctions.html">
+        <h3 class="card-title">U.S. Sanctions on Iran</h3>
+        <p class="card-desc">Sending money home, what FBAR is, why a bank can’t close your account just for being Iranian, and what U.S. sanctions actually restrict — explained in plain language.</p>
+        <span class="card-cta">Open guide</span>
+      </a>
+
+    </div>
+
+    <div class="callout callout-info" style="margin-top: 56px; max-width: 80ch;">
+      <div class="callout-title">A printable rights card is available</div>
+      <p>A wallet-sized card with these key phrases in English and Farsi — designed to keep near your front door or in your wallet — is in the <a href="../templates.html">Templates &amp; Cards</a> collection.</p>
+    </div>
+
+  </div>
+</section>
+
+<script>window.IALDF = { section: 'kyr', root: '../' };</script>
+<script src="../assets/site.js"></script>
+</body>
+</html>

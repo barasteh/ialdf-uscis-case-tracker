@@ -1,0 +1,158 @@
+# Setting up the auto-update sync — beginner walkthrough
+
+This guide walks through every step. No prior experience needed.
+
+> **What this does:** Once set up, the case tracker on your Resource Center
+> will refresh itself once a day with the latest docket info from
+> CourtListener. No manual updates required.
+
+---
+
+## Step 1 — Create a GitHub account
+
+GitHub is a free service that stores code and runs automated tasks.
+
+1. Go to **https://github.com/signup**
+2. Enter your email, choose a password, pick a username
+3. Verify your email (they'll send a code)
+4. On the plan page, pick **Free** — that's all you need
+
+You now have a GitHub account.
+
+---
+
+## Step 2 — Create a new repository (a place to store the project)
+
+1. Once signed in, click the **+** icon in the top-right corner of GitHub
+2. Click **New repository**
+3. Fill in:
+   - **Repository name:** `ialdf-resource-center` (or any name you like)
+   - **Description:** optional, e.g. "IALDF Resource Center"
+   - Pick **Public** (so the page can be hosted for free) — or Private if you'd rather pay for Private hosting
+   - **Leave all checkboxes unchecked** for now (don't add a README, .gitignore, or license)
+4. Click **Create repository**
+
+You'll land on a mostly-empty page that says "Quick setup". Keep that tab open.
+
+---
+
+## Step 3 — Upload the project files
+
+You have two options. **Option 3A is easier if you've never used Git.**
+
+### Option 3A — Upload through the website (drag and drop)
+
+1. On the empty repo page, look for the link **"uploading an existing file"** (it's in the middle of the page).
+2. Click it. You'll see an upload page.
+3. **Open the project folder on your computer.** This is the folder that contains `Resource Center.html`, the `assets/` folder, the `data/` folder, the `.github/` folder, etc.
+4. **Select everything inside that folder** (not the folder itself — its contents). On Mac: Cmd-A. On Windows: Ctrl-A.
+5. **Drag the selected files onto the GitHub upload area.** GitHub will queue them all.
+   - ⚠️ If you don't see the `.github` folder, your computer is hiding dot-folders. On Mac, press Cmd-Shift-. in Finder to show them. On Windows: View menu → Hidden items.
+6. Scroll down. In the "Commit changes" box, leave the default message.
+7. Click **Commit changes**. Wait — uploading takes a minute.
+
+Skip to Step 4 once the files appear in your repo.
+
+### Option 3B — Use GitHub Desktop (a free app)
+
+If you'll be editing the site often, this is worth setting up:
+
+1. Download **GitHub Desktop** from https://desktop.github.com and install it.
+2. Open it and sign in with your GitHub account.
+3. **File → Clone repository → URL tab.** Paste your repo URL (e.g. `https://github.com/yourusername/ialdf-resource-center`) and pick a local folder.
+4. Copy all the project files into the local folder GitHub Desktop just created.
+5. Back in GitHub Desktop, you'll see all the files listed as changes.
+6. At the bottom-left, type a commit message like "Initial upload" and click **Commit to main**.
+7. Click **Push origin** at the top.
+
+---
+
+## Step 4 — Get your CourtListener API token
+
+1. Go to **https://www.courtlistener.com/sign-up/** and create a free account (or sign in if you have one).
+2. Confirm your email.
+3. Click your username in the top-right → **Profile**.
+4. Click the **API** tab (or visit https://www.courtlistener.com/help/api/rest/).
+5. You'll see a long string labeled **API Token**. **Copy it.** Keep it somewhere safe — you'll paste it in the next step.
+
+---
+
+## Step 5 — Tell GitHub your CourtListener token (as a secret)
+
+This stores the token securely so the daily job can use it without exposing it publicly.
+
+1. Go back to your GitHub repo page.
+2. Click **Settings** (in the top tab bar of the repo).
+3. In the left sidebar: **Secrets and variables → Actions**.
+4. Click the green **New repository secret** button.
+5. Fill in:
+   - **Name:** `COURTLISTENER_TOKEN` (exactly this, all caps, with underscore)
+   - **Secret:** paste the token you copied in Step 4
+6. Click **Add secret**.
+
+---
+
+## Step 6 — Run the sync for the first time
+
+1. Click the **Actions** tab at the top of your repo.
+2. The first time, GitHub may ask you to enable workflows. Click **I understand my workflows, go ahead and enable them** if you see it.
+3. In the left sidebar, click **Sync CourtListener**.
+4. Above the list of runs, click the **Run workflow** dropdown → **Run workflow** (green button).
+5. Wait about 30–60 seconds, then refresh the page. You should see a green checkmark.
+6. Click into the run to confirm it succeeded. If anything failed, the logs will tell you why (most common reason: the secret name was misspelled).
+
+After this, the workflow runs by itself every day at 06:00 UTC (about 1–2 AM Eastern). You don't have to do anything.
+
+---
+
+## Step 7 — Put the website online (free hosting)
+
+GitHub can host static sites for free at `https://yourusername.github.io/your-repo-name/`. To turn it on:
+
+1. In your repo, click **Settings → Pages** (in the left sidebar).
+2. Under **Source**, pick **Deploy from a branch**.
+3. Under **Branch**, pick **main** and **/ (root)**.
+4. Click **Save**.
+5. Wait a minute. Reload the Pages settings — it'll show you the public URL at the top.
+6. Visit that URL and append `/Resource Center.html` to see the site. (If you'd rather, rename the file to `index.html` on your computer, re-upload, and it'll load at the bare URL.)
+
+That's it. The Resource Center is live, and it auto-updates the case tracker every day.
+
+---
+
+## How to add a new case to the tracker
+
+1. In your GitHub repo, click on the `data/` folder, then `dockets.json`.
+2. Click the pencil icon (top-right) to edit.
+3. Add a new entry following the same format as the others — at minimum: id, name, court, docket_number, status, stage, category, filingDate. Example:
+   ```json
+   {
+     "id": 46,
+     "name": "Case name v. Edlow",
+     "court": "cand",
+     "docket_number": "5:26-cv-99999",
+     "status": "PENDING",
+     "stage": "Recently filed",
+     "category": "Multiple",
+     "filingDate": "May 13, 2026"
+   }
+   ```
+4. Scroll down, write a short commit message like "Add Case Name to tracker", and click **Commit changes**.
+5. The next scheduled run (or a manual "Run workflow") will pick it up.
+
+CourtListener court codes (a few common ones): `cand` = N.D. California, `mad` = D. Mass., `flsd` = S.D. Florida, `mied` = E.D. Michigan, `dcd` = D.D.C. Full list at https://www.courtlistener.com/api/jurisdictions/.
+
+---
+
+## Troubleshooting
+
+**The Action failed.** Click into the failed run → expand the failing step → read the error.
+- "401 Unauthorized" → your token is wrong or not set. Re-do Step 5.
+- "secret not found" → the secret name must be exactly `COURTLISTENER_TOKEN`. Re-do Step 5.
+- Any other error → screenshot the log and ask for help.
+
+**The page isn't updating.** Open the deployed page in your browser, then open the developer console (F12 → Network tab) and refresh. Look for the request to `data/case-updates.json` — if it's 404, you haven't uploaded the file. If it's 200 but stale, GitHub Pages caches aggressively; wait an hour or hard-refresh with Ctrl-Shift-R / Cmd-Shift-R.
+
+**I want to change the cron schedule.** Edit `.github/workflows/sync.yml` and change the `cron: '0 6 * * *'` line. The format is `minute hour day month weekday` in UTC. Examples:
+- Every 6 hours: `0 */6 * * *`
+- Once a week (Mondays at noon UTC): `0 12 * * 1`

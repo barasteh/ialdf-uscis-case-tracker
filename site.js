@@ -1,0 +1,36 @@
+name: Sync CourtListener
+on:
+  schedule:
+    # Daily at 06:00 UTC (~01:00 ET). Free tier; change as needed.
+    - cron: '0 6 * * *'
+  workflow_dispatch:    # also lets you trigger manually from the Actions tab
+
+permissions:
+  contents: write       # allows the bot to commit case-updates.json
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Pull latest case data from CourtListener
+        run: node scripts/sync-courtlistener.mjs
+        env:
+          COURTLISTENER_TOKEN: ${{ secrets.COURTLISTENER_TOKEN }}
+
+      - name: Commit updated case-updates.json
+        run: |
+          git config user.name  "ialdf-sync-bot"
+          git config user.email "bot@ialdf.org"
+          git add data/case-updates.json
+          if git diff --cached --quiet; then
+            echo "No changes — nothing to commit."
+          else
+            git commit -m "chore: sync case updates from CourtListener"
+            git push
+          fi

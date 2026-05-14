@@ -1,0 +1,128 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Templates &amp; Cards — IALDF Resource Center</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400;1,500&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="assets/styles.css" />
+</head>
+<body data-screen-label="Templates">
+
+<section class="page-header">
+  <div class="page-header-inner">
+    <div class="page-eyebrow">
+      <a href="index.html">Resource Center</a>
+    </div>
+    <h1>Templates &amp; Printable Cards</h1>
+    <p class="lede">Nine companion documents — wallet cards, letter templates, expedite-request language, an attorney prep sheet, a documentation checklist, and a family preparedness plan. Print, edit, or share individually.</p>
+    <p class="updated">Updated as of April 30, 2026</p>
+  </div>
+</section>
+
+<section class="article">
+  <div class="container">
+
+    <div class="prose" style="max-width: 80ch;">
+      <h2 style="border-top:none;margin-top:0;padding-top:0;" id="cards">Wallet cards, worksheets &amp; plans</h2>
+      <p>Designed to print, share with a trusted person, or fill out at your kitchen table. The wallet cards are business-card-sized and meant to be laminated — print at 100% scale.</p>
+    </div>
+
+    <div class="template-list">
+      <a class="template-item" href="downloads/IALDF_KYR_Card_ICE_Encounter.pdf" data-download="IALDF_KYR_Card_ICE_Encounter.pdf">
+        <div class="template-icon">PDF</div>
+        <div class="template-text">
+          <div class="t-title">Know Your Rights — ICE Encounter Card</div>
+          <div class="t-desc">Wallet-sized printable card with rights, key phrases (English &amp; Farsi), and hotline number.</div>
+        </div>
+        <span class="template-cta">Download →</span>
+      </a>
+      <a class="template-item" href="downloads/IALDF_Family_Preparedness_Card.pdf" data-download="IALDF_Family_Preparedness_Card.pdf" id="preparedness-card">
+        <div class="template-icon">PDF</div>
+        <div class="template-text">
+          <div class="t-title">Family Preparedness Card</div>
+          <div class="t-desc">Wallet-sized card with emergency contacts, attorney info, and crisis hotline. Pairs with the Family Preparedness Plan below.</div>
+        </div>
+        <span class="template-cta">Download →</span>
+      </a>
+      <a class="template-item" href="downloads/IALDF_Family_Preparedness_Plan.pdf" data-download="IALDF_Family_Preparedness_Plan.pdf" id="preparedness">
+        <div class="template-icon">PDF</div>
+        <div class="template-text">
+          <div class="t-title">Family Preparedness Plan</div>
+          <div class="t-desc">Comprehensive plan to leave with a trusted person: contacts, document locations, child care, finances, what to do if detained.</div>
+        </div>
+        <span class="template-cta">Download →</span>
+      </a>
+      <a class="template-item" href="downloads/IALDF_Documentation_Checklist.pdf" data-download="IALDF_Documentation_Checklist.pdf" id="documentation">
+        <div class="template-icon">PDF</div>
+        <div class="template-text">
+          <div class="t-title">Documentation Checklist</div>
+          <div class="t-desc">One-page checklist of immigration, financial, and family documents to gather and keep accessible.</div>
+        </div>
+        <span class="template-cta">Download →</span>
+      </a>
+      <a class="template-item" href="downloads/IALDF_Attorney_Prep_Sheet.pdf" data-download="IALDF_Attorney_Prep_Sheet.pdf" id="attorney-prep">
+        <div class="template-icon">PDF</div>
+        <div class="template-text">
+          <div class="t-title">Attorney Preparation Sheet</div>
+          <div class="t-desc">Worksheet to organize your case before meeting with an immigration attorney — saves time and money in your first consultation.</div>
+        </div>
+        <span class="template-cta">Download →</span>
+      </a>
+    </div>
+
+    <div class="prose" style="max-width: 80ch; margin-top: 56px;">
+      <h2 id="letters">Letter templates</h2>
+      <p>Editable Word documents — starting points, not legal advice. Replace bracketed text with your details before sending. Have an immigration attorney review before using if you are uncertain.</p>
+    </div>
+
+    <div class="template-list">
+      <a class="template-item" href="downloads/IALDF_Template_Employer_Letter.docx" data-download="IALDF_Template_Employer_Letter.docx" id="employer">
+        <div class="template-icon">DOCX</div>
+        <div class="template-text">
+          <div class="t-title">Letter to Your Employer</div>
+          <div class="t-desc">Template informing an employer or HR department of your pending immigration application and continued work authorization.</div>
+        </div>
+        <span class="template-cta">Download →</span>
+      </a>
+      <a class="template-item" href="downloads/IALDF_Template_School_Letter.docx" data-download="IALDF_Template_School_Letter.docx" id="school">
+        <div class="template-icon">DOCX</div>
+        <div class="template-text">
+          <div class="t-title">Letter to Your School / DSO</div>
+          <div class="t-desc">Template informing your designated school official or international student services of your immigration status.</div>
+        </div>
+        <span class="template-cta">Download →</span>
+      </a>
+      <a class="template-item" href="downloads/IALDF_Template_USCIS_Case_Inquiry.docx" data-download="IALDF_Template_USCIS_Case_Inquiry.docx" id="case-inquiry">
+        <div class="template-icon">DOCX</div>
+        <div class="template-text">
+          <div class="t-title">USCIS Case Inquiry</div>
+          <div class="t-desc">Guidance on how to inquire about a pending USCIS case — plus a written statement you can attach to your inquiry.</div>
+        </div>
+        <span class="template-cta">Download →</span>
+      </a>
+      <a class="template-item" href="downloads/IALDF_Template_Expedite_Request.docx" data-download="IALDF_Template_Expedite_Request.docx" id="expedite">
+        <div class="template-icon">DOCX</div>
+        <div class="template-text">
+          <div class="t-title">USCIS Expedite Request</div>
+          <div class="t-desc">Guidance on USCIS expedite criteria — plus a written statement to support your expedite request. A weak or unsupported request can hurt your case.</div>
+        </div>
+        <span class="template-cta">Download →</span>
+      </a>
+    </div>
+
+    <div class="callout callout-info" style="margin-top: 56px; max-width: 880px;">
+      <div class="callout-title">Important reminder</div>
+      <p>These documents are starting points, not legal advice. The right approach in your situation may differ. Before sending any letter that discusses your immigration status to an employer, school, or government agency, consider speaking with an immigration attorney first. An attorney represents your interests; your employer, school, or agency will typically prioritize their own compliance obligations.</p>
+    </div>
+
+  </div>
+</section>
+
+<script src="assets/downloads.js"></script>
+<script>window.IALDF={section:'templates',root:''};</script>
+<script src="assets/site.js"></script>
+</body>
+</html>

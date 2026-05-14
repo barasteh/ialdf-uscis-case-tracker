@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>U.S. Sanctions on Iran — Know Your Rights — IALDF</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400;1,500&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="../assets/styles.css" />
+</head>
+<body data-screen-label="KYR U.S. Sanctions on Iran">
+
+<section class="page-header">
+  <div class="page-header-inner">
+    <div class="page-eyebrow">
+      <a href="../index.html">Resource Center</a>
+      <span class="sep">/</span>
+      <a href="index.html">Know Your Rights</a>
+    </div>
+    <h1>U.S. Sanctions on Iran</h1>
+    <p class="lede">The U.S. government restricts most financial dealings with Iran. The rules are run by a U.S. Treasury office called the <span class="term" title="Office of Foreign Assets Control — the U.S. Treasury office that enforces sanctions">Office of Foreign Assets Control</span> (most lawyers call it <strong>OFAC</strong>). For most everyday situations — sending money to a parent in Tehran, holding a savings account in Iran, reporting it on your U.S. taxes — there are clear, legal paths. The rules are explained here in plain English.</p>
+    <p class="updated">Updated as of April 30, 2026</p>
+  </div>
+</section>
+
+<nav class="subnav">
+  <div class="subnav-inner">
+    <a href="index.html">Overview</a>
+    <a href="police-ice.html">Police &amp; ICE Encounters</a>
+    <a href="at-home.html">Rights at Home</a>
+    <a href="airports-borders.html">Airports &amp; Borders</a>
+    <a href="discrimination.html">Discrimination</a>
+    <a href="sanctions.html" class="is-current">U.S. Sanctions on Iran</a>
+  </div>
+</nav>
+
+<section class="article">
+  <div class="container-narrow">
+    <article class="prose">
+
+      <h2 style="border-top:none;margin-top:0;padding-top:0;" id="remittances">Sending money to family in Iran</h2>
+      <p><strong>Yes, this is usually legal.</strong> The Treasury Department issues something called a <em>“general license”</em> — a standing permission slip you don’t need to apply for. As long as you send the money through a U.S. bank or a registered money-transfer service, and the money is for basic living expenses for a family member, it’s allowed.<sup>1</sup></p>
+      <p>Some U.S. banks may still decline Iran-related transfers, even when they’re legal, because they want to avoid any sanctions risk. If that happens, try another bank or a registered money-transmitter. Keep documentation of who you sent the money to and what it was for.</p>
+
+      <h2 id="goods">What about goods, gifts, or imports?</h2>
+      <p>You generally <strong>cannot</strong> import goods from Iran or export goods to Iran without applying for a specific license from the Treasury Department. This includes carpets, art, antiques, and similar items.</p>
+      <p>Inheritance of personal property from family in Iran is often allowed, but the transfer of funds or items may need Treasury approval depending on the value and timing. A sanctions attorney should review the specific facts before any transfer.</p>
+
+      <h2 id="travel">Is travel to Iran legal?</h2>
+      <p>U.S. sanctions law <strong>does not categorically prohibit</strong> U.S. citizens and permanent residents from traveling to Iran. Many Iranian Americans do visit family. However, certain travel-related transactions may need authorization depending on the purpose of the trip.<sup>2</sup></p>
+      <p>The bigger concern is the State Department’s Level 4 “Do Not Travel” advisory and the risk of arbitrary detention by Iranian authorities. See the <a href="airports-borders.html#travel">travel advisory in Airports &amp; Borders</a> for the full caution.</p>
+
+      <h2 id="fbar">What is FBAR? (Foreign-account reporting)</h2>
+      <p>If you have <em>any</em> foreign financial account — in Iran or anywhere else — and the combined value crosses <strong>$10,000</strong> at any point during the year, you must file a yearly report with the U.S. Treasury called <strong>FBAR</strong> (FinCEN Form 114).</p>
+
+      <div class="callout callout-info">
+        <div class="callout-title">FBAR is not an Iran rule</div>
+        <p>FBAR applies to every foreign country. A savings account in Canada or the U.K. triggers the same filing. It is not an extra burden placed on Iranian Americans. What <em>is</em> Iran-specific: certain property interests in Iran may be subject to separate Treasury reporting or blocking requirements. If you have accounts or property abroad, talk to a CPA or tax attorney with international reporting experience.<sup>3</sup></p>
+      </div>
+
+      <h2 id="banks">If your bank closes your account</h2>
+      <p>U.S. banks <strong>cannot lawfully close an account solely because of national origin</strong> — that would be prohibited national-origin discrimination. However, banks have wide discretion to manage perceived sanctions or fraud risk and may close accounts citing those reasons.</p>
+      <ul>
+        <li>Ask in writing for the specific reason.</li>
+        <li>If you believe national origin played a role, file a complaint with the Consumer Financial Protection Bureau (<a href="https://consumerfinance.gov" target="_blank" rel="noopener">consumerfinance.gov</a>).</li>
+        <li>Consult a civil-rights attorney.</li>
+      </ul>
+
+      <h2 id="if-uncertain">If you are uncertain</h2>
+      <ul>
+        <li>Consult an attorney who specializes in sanctions and export-control law.</li>
+        <li>Check the Treasury Department’s OFAC website (<a href="https://treasury.gov/ofac" target="_blank" rel="noopener">treasury.gov/ofac</a>) for current regulations and FAQs.</li>
+        <li>Keep documentation of every transaction involving Iran.</li>
+      </ul>
+
+      <details class="citations">
+        <summary>Sources — U.S. sanctions on Iran</summary>
+        <ol>
+          <li>31 C.F.R. § 560.545 (humanitarian-transactions general license); OFAC FAQ on personal remittances; International Emergency Economic Powers Act (IEEPA), 50 U.S.C. § 1701 et seq.; 31 C.F.R. Part 560.</li>
+          <li>OFAC does not categorically prohibit travel to Iran. See OFAC FAQ and 31 C.F.R. Part 560.</li>
+          <li>31 U.S.C. § 5314 (FBAR filing requirement for foreign accounts exceeding $10,000); FinCEN Form 114.</li>
+        </ol>
+        <p class="small"><strong>Additional resources:</strong> ACLU Know Your Rights (aclu.org/know-your-rights); IALDF (ialdf.org); PAAIA (paaia.org).</p>
+      </details>
+
+      <div class="related">
+        <a href="discrimination.html">
+          <div class="related-eyebrow">Previous</div>
+          <div class="related-title">← Discrimination</div>
+        </a>
+        <a href="../uscis-pause/index.html">
+          <div class="related-eyebrow">Continue</div>
+          <div class="related-title">USCIS Adjudication Pause →</div>
+        </a>
+      </div>
+    </article>
+  </div>
+</section>
+
+<script>window.IALDF = { section: 'kyr', root: '../' };</script>
+<script src="../assets/site.js"></script>
+</body>
+</html>

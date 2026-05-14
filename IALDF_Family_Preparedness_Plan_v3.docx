@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Discrimination — Know Your Rights — IALDF</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400;1,500&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="../assets/styles.css" />
+</head>
+<body data-screen-label="KYR Discrimination">
+
+<section class="page-header">
+  <div class="page-header-inner">
+    <div class="page-eyebrow">
+      <a href="../index.html">Resource Center</a>
+      <span class="sep">/</span>
+      <a href="index.html">Know Your Rights</a>
+    </div>
+    <h1>Discrimination — Your Legal Protections</h1>
+    <p class="lede">Federal and state laws protect you from discrimination based on race, national origin, religion, immigration status, and other characteristics. These protections apply broadly — at work, in housing, in public places, and at school.</p>
+    <p class="updated">Updated as of April 30, 2026</p>
+  </div>
+</section>
+
+<nav class="subnav">
+  <div class="subnav-inner">
+    <a href="index.html">Overview</a>
+    <a href="police-ice.html">Police &amp; ICE Encounters</a>
+    <a href="at-home.html">Rights at Home</a>
+    <a href="airports-borders.html">Airports &amp; Borders</a>
+    <a href="discrimination.html" class="is-current">Discrimination</a>
+    <a href="sanctions.html">U.S. Sanctions on Iran</a>
+  </div>
+</nav>
+
+<section class="article">
+  <div class="container-narrow">
+    <article class="prose">
+
+      <h2 style="border-top:none;margin-top:0;padding-top:0;" id="protections">Where the law protects you</h2>
+      <ul>
+        <li><strong>At work.</strong> Title VII of the Civil Rights Act of 1964 prohibits employers from refusing to hire, firing, or mistreating you because of your race, national origin, or religion.<sup>1</sup></li>
+        <li><strong>In housing.</strong> The Fair Housing Act prohibits discrimination in rental, sales, lending, and other housing-related services based on race, color, national origin, religion, sex, disability, and family status.<sup>2</sup></li>
+        <li><strong>In public places.</strong> Title II of the Civil Rights Act of 1964 protects your right to equal service in hotels, restaurants, stores, and public transportation.<sup>3</sup></li>
+        <li><strong>At school.</strong> Title VI of the Civil Rights Act of 1964 prohibits discrimination in schools and programs receiving federal funds.<sup>4</sup></li>
+      </ul>
+
+      <h2 id="what-to-do">If you experience discrimination</h2>
+      <ul>
+        <li><strong>Keep a detailed record</strong> of any evidence — emails, texts, photos, dates, times, and witness names.</li>
+        <li><strong>Report it to the right federal agency:</strong>
+          <ul>
+            <li>Employment discrimination → <strong>EEOC</strong> (Equal Employment Opportunity Commission)</li>
+            <li>Housing discrimination → <strong>HUD</strong> (Department of Housing and Urban Development)</li>
+            <li>School discrimination → <strong>Department of Education, Office for Civil Rights</strong></li>
+          </ul>
+        </li>
+        <li><strong>Consult an attorney.</strong> Many lawyers offer free initial consultations for discrimination cases.</li>
+      </ul>
+
+      <div class="callout callout-info">
+        <div class="callout-title">A bank cannot close your account just because you are Iranian</div>
+        <p>U.S. banks cannot lawfully close an account solely because of national origin — that would be prohibited national-origin discrimination. However, banks have wide discretion to manage perceived risk and may close accounts citing those reasons. If a bank closes your account, ask in writing for the specific reason. If you believe national origin played a role, file a complaint with the Consumer Financial Protection Bureau (<a href="https://consumerfinance.gov" target="_blank" rel="noopener">consumerfinance.gov</a>) and consult a civil-rights attorney. More on banking and Iran sanctions in the <a href="sanctions.html">U.S. Sanctions on Iran</a> section.</p>
+      </div>
+
+      <h2 id="hate-incidents">Hate incidents &amp; harassment</h2>
+      <p>If you experience harassment or a hate incident — slurs, threats, vandalism, or violence motivated by national origin or religion — you can also:</p>
+      <ul>
+        <li>Report the incident to local police if there is an immediate safety concern.</li>
+        <li>Report it to the FBI’s civil-rights division if you believe it may constitute a federal hate crime.</li>
+        <li>Document everything — photos, messages, witness names, times.</li>
+        <li>Reach out to civil-rights organizations that track and respond to such incidents in the Iranian American community.</li>
+      </ul>
+
+      <details class="citations">
+        <summary>Sources — Discrimination</summary>
+        <ol>
+          <li>Title VII of the Civil Rights Act of 1964, 42 U.S.C. § 2000e.</li>
+          <li>Fair Housing Act, 42 U.S.C. § 3601 et seq.</li>
+          <li>Title II of the Civil Rights Act of 1964, 42 U.S.C. § 2000a.</li>
+          <li>Title VI of the Civil Rights Act of 1964, 42 U.S.C. § 2000d.</li>
+        </ol>
+      </details>
+
+      <div class="related">
+        <a href="airports-borders.html">
+          <div class="related-eyebrow">Previous</div>
+          <div class="related-title">← Airports &amp; Borders</div>
+        </a>
+        <a href="sanctions.html">
+          <div class="related-eyebrow">Next</div>
+          <div class="related-title">U.S. Sanctions on Iran →</div>
+        </a>
+      </div>
+    </article>
+  </div>
+</section>
+
+<script>window.IALDF = { section: 'kyr', root: '../' };</script>
+<script src="../assets/site.js"></script>
+</body>
+</html>

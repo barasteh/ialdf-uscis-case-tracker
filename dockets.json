@@ -1,0 +1,120 @@
+/* Shared chrome — top bar, header, footer, disclaimer band.
+   Each page sets window.IALDF = { section, root } before this loads. */
+(function () {
+  const meta = window.IALDF || {};
+  const section = meta.section || "";
+  const root = meta.root || "";
+
+  // ---------- Top bar ----------
+  const topbar = document.createElement('div');
+  topbar.className = 'topbar';
+  topbar.innerHTML = `
+    <div class="topbar-inner">
+      <a href="${root}index.html">Publications · Resource Center</a>
+      <div class="topbar-meta">
+        <span>In an emergency, call your attorney first</span>
+        <span>988 Crisis Lifeline</span>
+      </div>
+    </div>`;
+
+  // ---------- Header ----------
+  const header = document.createElement('header');
+  header.className = 'site-header';
+  const navItems = [
+    { key: 'kyr',        label: 'Know Your Rights',  href: `${root}know-your-rights/index.html` },
+    { key: 'uscis',      label: 'USCIS Pause',       href: `${root}uscis-pause/index.html` },
+    { key: 'faq',        label: 'FAQ',               href: `${root}faq.html` },
+    { key: 'templates',  label: 'Templates & Cards', href: `${root}templates.html` },
+    { key: 'legal-pros', label: 'For Attorneys',     href: `${root}legal-professionals.html` },
+    { key: 'glossary',   label: 'Glossary',          href: `${root}glossary.html` },
+  ];
+  header.innerHTML = `
+    <div class="nav">
+      <a class="brand" href="${root}index.html">
+        <span class="brand-name">IALDF</span>
+        <span class="brand-sub">IRANIAN AMERICAN LEGAL DEFENSE FUND</span>
+      </a>
+      <button class="nav-toggle" aria-label="Menu" onclick="this.nextElementSibling.classList.toggle('is-open')">Menu</button>
+      <nav class="nav-links">
+        ${navItems.map(n => `<a href="${n.href}" ${n.key === section ? 'class="is-current"' : ''}>${n.label}</a>`).join('')}
+        <a class="nav-cta" href="#">Donate</a>
+      </nav>
+    </div>`;
+
+  // ---------- Disclaimer band (every page except home) ----------
+  let disclaimer = null;
+  if (section && section !== 'home') {
+    disclaimer = document.createElement('div');
+    disclaimer.className = 'disclaimer-band';
+    disclaimer.innerHTML = `
+      <div class="disclaimer-band-inner">
+        <span class="badge">Not legal advice</span>
+        <p>This page is for informational purposes only and does not create an attorney-client relationship. Laws and policies change frequently — consult a qualified immigration attorney about your specific situation.</p>
+      </div>`;
+  }
+
+  document.body.insertBefore(topbar, document.body.firstChild);
+  document.body.insertBefore(header, topbar.nextSibling);
+  if (disclaimer) document.body.insertBefore(disclaimer, header.nextSibling);
+
+  // ---------- Footer ----------
+  const footer = document.createElement('footer');
+  footer.className = 'site-footer';
+  footer.innerHTML = `
+    <div class="footer-inner">
+      <div>
+        <div class="footer-brand">IALDF</div>
+        <div class="footer-brand-sub">IRANIAN AMERICAN LEGAL DEFENSE FUND</div>
+        <p class="footer-tagline">Legal protection and empowerment for all Iranians in America. We provide resources, referrals, and advocacy support — not legal representation.</p>
+        <p class="footer-tagline muted" style="font-size: 12.5px;">2000 K St NW, Ste 325 · Washington, DC 20006</p>
+      </div>
+      <div>
+        <h4>Resources</h4>
+        <ul>
+          <li><a href="${root}know-your-rights/index.html">Know Your Rights</a></li>
+          <li><a href="${root}uscis-pause/index.html">USCIS Adjudication Pause</a></li>
+          <li><a href="${root}templates.html">Templates &amp; Cards</a></li>
+          <li><a href="${root}faq.html#mental-health">Mental Health</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>Reference</h4>
+        <ul>
+          <li><a href="${root}faq.html">FAQ</a></li>
+          <li><a href="${root}glossary.html">Glossary</a></li>
+          <li><a href="${root}legal-professionals.html">For Attorneys</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>Crisis Support</h4>
+        <ul>
+          <li>988 — Suicide &amp; Crisis Lifeline</li>
+          <li>Text HOME to 741741</li>
+          <li>1-800-662-4357 — SAMHSA</li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <span>© 2026 Iranian American Legal Defense Fund.</span>
+      <span>Resource Center · Updated as of April 30, 2026</span>
+    </div>`;
+  document.body.appendChild(footer);
+})();
+
+(function () {
+  const btn = document.createElement('button');
+  btn.className = 'back-to-top';
+  btn.setAttribute('aria-label', 'Back to top');
+  btn.setAttribute('type', 'button');
+  btn.innerHTML = '↑';
+  btn.addEventListener('click', function () {
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  });
+  document.body.appendChild(btn);
+  function update() {
+    if (window.scrollY > 400) btn.classList.add('is-visible');
+    else btn.classList.remove('is-visible');
+  }
+  window.addEventListener('scroll', update, { passive: true });
+  update();
+})();
