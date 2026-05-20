@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-19T18:01:34.767Z",
+  "lastUpdated": "2026-05-20T18:50:34.766Z",
   "source": "CourtListener REST API v4",
   "failed_count": 0,
   "total": 42,
@@ -338,17 +338,17 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/72024394/shokri-varniab-v-edlow/",
       "recent_entries": [
         {
-          "date_filed": "2026-02-23",
+          "date_filed": "2026-04-01",
           "entry_number": null,
           "description": ""
         },
         {
-          "date_filed": "2026-04-02",
+          "date_filed": "2026-02-10",
           "entry_number": null,
           "description": ""
         },
         {
-          "date_filed": "2026-01-07",
+          "date_filed": "2026-05-08",
           "entry_number": null,
           "description": ""
         }
@@ -375,17 +375,17 @@
         {
           "date_filed": "2026-04-01",
           "entry_number": null,
-          "description": ""
-        },
-        {
-          "date_filed": "2026-03-18",
-          "entry_number": null,
-          "description": "A United States Magistrate Judge of this Court is available to conduct all proceedings in this civil action in accordance with 28 U.S.C. 636c and FRCP 73. The Notice, Consent, and Reference of a Civil Action to a Magistrate Judge form is available for download at http://www.mied.uscourts.gov (MChr)"
+          "description": "TEXT-ONLY ORDER SETTING A BRIEFING SCHEDULE re 6 MOTION for Preliminary Injunction to Adjudicate I-131 Application for Advanced Parole filed by Sarah Osman, Ahmed Abubkr Ali Abubakr. ( Response due by 4/7/2026, Reply due by 4/10/2026). Signed by District Judge Shalina D. Kumar. (THal)"
         },
         {
           "date_filed": "2026-04-01",
           "entry_number": null,
-          "description": "TEXT-ONLY ORDER SETTING A BRIEFING SCHEDULE re 6 MOTION for Preliminary Injunction to Adjudicate I-131 Application for Advanced Parole filed by Sarah Osman, Ahmed Abubkr Ali Abubakr. ( Response due by 4/7/2026, Reply due by 4/10/2026). Signed by District Judge Shalina D. Kumar. (THal)"
+          "description": ""
+        },
+        {
+          "date_filed": "2026-05-08",
+          "entry_number": null,
+          "description": ""
         }
       ]
     },
@@ -618,19 +618,19 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/72072464/flores-mora-v-edlow/",
       "recent_entries": [
         {
+          "date_filed": "2026-04-06",
+          "entry_number": null,
+          "description": "Set/Reset Deadlines as to 9 MOTION for Preliminary Injunction. Motion Hearing RESET for 4/17/2026 at 10:00 AM in Alexandria Courtroom 801 before District Judge Patricia Tolliver Giles. (yguy)"
+        },
+        {
           "date_filed": "2026-05-05",
           "entry_number": null,
           "description": "Motion Hearing set for 5/14/2026 at 10:00 AM in Alexandria Courtroom 801 before District Judge Patricia Tolliver Giles as to 9 MOTION for Preliminary Injunction and 16 MOTION to Dismiss for Lack of Jurisdiction, MOTION to Dismiss for Failure to State a Claim. (dzir)"
         },
         {
-          "date_filed": "2026-04-02",
+          "date_filed": "2026-03-24",
           "entry_number": null,
-          "description": "Reset Deadlines as to 16 MOTION to Dismiss for Lack of Jurisdiction MOTION to Dismiss for Failure to State a Claim . Motion Hearing set for 4/17/2026 at 10:00 AM in Alexandria Courtroom 801 before District Judge Patricia Tolliver Giles. (pmil, )"
-        },
-        {
-          "date_filed": "2026-04-15",
-          "entry_number": null,
-          "description": "Motions hearing set for 4/17/2026 are cancelled. (dvanm)"
+          "description": "Motion Hearing set for 4/16/2026 at 10:00 AM in Alexandria Courtroom 801 before District Judge Patricia Tolliver Giles as to 9 MOTION for Preliminary Injunction and 16 MOTION to Dismiss for Lack of Jurisdiction and MOTION to Dismiss for Failure to State a Claim. (dzir)"
         }
       ]
     },
@@ -728,12 +728,12 @@
           "description": ""
         },
         {
-          "date_filed": "2026-05-13",
+          "date_filed": "2026-04-22",
           "entry_number": null,
           "description": ""
         },
         {
-          "date_filed": "2026-04-22",
+          "date_filed": "2026-05-13",
           "entry_number": null,
           "description": ""
         }
@@ -935,17 +935,17 @@
         {
           "date_filed": "2026-04-27",
           "entry_number": null,
-          "description": "TEXT ORDER granting 22 Motion to Withdraw as Attorney. Attorney Golnaz Fakhimi terminated. So Ordered by Chief Judge John J. McConnell, Jr. on 4/27/2026. (Jackson, Ryan)"
+          "description": ""
         },
         {
-          "date_filed": "2026-03-30",
-          "entry_number": null,
-          "description": "TEXT ORDER granting 19 Motion to Appear Pro Hac Vice of Melissa Keaney. So Ordered by Chief Judge John J. McConnell, Jr. on 3/30/2026. (Hill, Cherelle)"
-        },
-        {
-          "date_filed": "2026-03-06",
+          "date_filed": "2026-03-05",
           "entry_number": null,
           "description": ""
+        },
+        {
+          "date_filed": "2026-03-17",
+          "entry_number": null,
+          "description": "TEXT ORDER granting 14 Motion to Appear Pro Hac Vice of Kalpana V. Peddibhotla. So Ordered by Chief Judge John J. McConnell, Jr. on 3/17/2026. (Gonzalez Gomez, Viviana)"
         }
       ]
     },
@@ -1143,6 +1143,11 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/73247163/doe-v-mullin/",
       "recent_entries": [
         {
+          "date_filed": "2026-05-20",
+          "entry_number": null,
+          "description": ""
+        },
+        {
           "date_filed": "2026-04-27",
           "entry_number": null,
           "description": ""
@@ -1151,11 +1156,6 @@
           "date_filed": "2026-05-15",
           "entry_number": 15,
           "description": ""
-        },
-        {
-          "date_filed": "2026-05-15",
-          "entry_number": 14,
-          "description": "Assented to MOTION for Leave to File Excess Pages by Joseph B. Edlow, Markwayne Mullin.(Piemonte, Eve) (Entered: 05/15/2026)"
         }
       ]
     },
@@ -1178,17 +1178,17 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/72260779/perez-v-united-states-citizenship-and-immigration-services-uscis/",
       "recent_entries": [
         {
-          "date_filed": "2026-02-13",
-          "entry_number": null,
-          "description": ""
-        },
-        {
-          "date_filed": "2026-03-26",
-          "entry_number": null,
-          "description": ""
-        },
-        {
           "date_filed": "2026-05-13",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-05-11",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-05-20",
           "entry_number": null,
           "description": ""
         }
@@ -1258,8 +1258,8 @@
           "description": ""
         },
         {
-          "date_filed": "2026-05-11",
-          "entry_number": 12,
+          "date_filed": "2026-05-20",
+          "entry_number": 15,
           "description": ""
         }
       ]
