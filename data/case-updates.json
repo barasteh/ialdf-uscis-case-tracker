@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-21T17:52:41.510Z",
+  "lastUpdated": "2026-05-22T17:44:21.303Z",
   "source": "CourtListener REST API v4",
   "failed_count": 0,
   "total": 42,
@@ -338,17 +338,17 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/72024394/shokri-varniab-v-edlow/",
       "recent_entries": [
         {
-          "date_filed": "2026-05-20",
-          "entry_number": null,
-          "description": ""
-        },
-        {
-          "date_filed": "2026-04-01",
-          "entry_number": null,
-          "description": ""
-        },
-        {
           "date_filed": "2026-05-08",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-02-23",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-03-24",
           "entry_number": null,
           "description": ""
         }
@@ -513,7 +513,7 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/72095863/gharibi-v-edlow/",
       "recent_entries": [
         {
-          "date_filed": "2026-04-09",
+          "date_filed": "2026-04-24",
           "entry_number": null,
           "description": ""
         },
@@ -523,7 +523,7 @@
           "description": ""
         },
         {
-          "date_filed": "2026-04-24",
+          "date_filed": "2026-05-21",
           "entry_number": null,
           "description": ""
         }
@@ -698,9 +698,9 @@
           "description": "Motion Hearing set for 5/27/2026 at 10:00 AM in Alexandria Courtroom 900 before District Judge Anthony J. Trenga as to 15 Emergency MOTION for Permanent Injunction. (dzir)"
         },
         {
-          "date_filed": "2026-05-08",
-          "entry_number": 17,
-          "description": "Notice (of Hearing for May 27, 2026) in re 16 Memorandum of Law in Support, 15 Emergency MOTION for Preliminary Injunction (Summers, Edward) Modified on 5/11/2026 (triv). (Entered: 05/08/2026)"
+          "date_filed": "2026-05-21",
+          "entry_number": 18,
+          "description": "EXHIBIT J - e-mail from Senator Tim Kaine's Office 5.20.2026 by Kimberley Chidinma Duru.. (Summers, Edward) (Entered: 05/21/2026)"
         }
       ]
     },
@@ -1143,18 +1143,18 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/73247163/doe-v-mullin/",
       "recent_entries": [
         {
+          "date_filed": "2026-05-20",
+          "entry_number": null,
+          "description": ""
+        },
+        {
           "date_filed": "2026-04-27",
           "entry_number": null,
           "description": ""
         },
         {
-          "date_filed": "2026-05-20",
+          "date_filed": "2026-05-22",
           "entry_number": null,
-          "description": ""
-        },
-        {
-          "date_filed": "2026-05-20",
-          "entry_number": 17,
           "description": ""
         }
       ]
@@ -1258,8 +1258,8 @@
           "description": ""
         },
         {
-          "date_filed": "2026-05-20",
-          "entry_number": 15,
+          "date_filed": "2026-05-21",
+          "entry_number": 17,
           "description": ""
         }
       ]
