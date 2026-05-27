@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-26T18:55:51.997Z",
+  "lastUpdated": "2026-05-27T18:51:21.703Z",
   "source": "CourtListener REST API v4",
   "failed_count": 0,
   "total": 42,
@@ -238,12 +238,12 @@
           "description": ""
         },
         {
-          "date_filed": "2026-05-01",
+          "date_filed": "2026-01-13",
           "entry_number": null,
           "description": ""
         },
         {
-          "date_filed": "2026-02-27",
+          "date_filed": "2026-05-01",
           "entry_number": null,
           "description": ""
         }
@@ -268,17 +268,17 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/72159407/behdin-v-edlow/",
       "recent_entries": [
         {
-          "date_filed": "2026-04-20",
+          "date_filed": "2026-01-21",
+          "entry_number": null,
+          "description": "Electronic filing error. Incorrect event used. Please file the Summons as a Separate Event. This filing will not be processed by the clerks office.Please re-file in its entirety. Re: 1 Complaint filed by Shaheen Pouya, Sina Asgharpour Yengejeh, Behrad Moniri, Sadaf Jamalzadeh, Marjan Azin, Mohammadkazem Meidani, Sahar Rostami, Seyyed Mohammad Amin Ghiasi Shirazi, Mehnaz Tabassum, Mehrdad Zandigohar, Poorya Mirkhosravi, Saba Abdulaziz, Mostafa Rahgouy, Mohammad Dehghan Rouzi, Elham Hojati, Zahrasadat Sadeghi, Fereshteh Vamenani, Reza Adinehvand, Farimah Fayyaz, Sara Hoseingholizade, Asal Saeidfar, Hamed Fallahi, Hamidreza Shaterian Mohammadi, Sina Bagheri Nezhad, Seyedali Seyedmirzaei Sarraf, Negin Alizadehvandchali, Mehdi Akhbari, Mohamadali Farahat, Pouyan Forghani, Iman Ataee Langroudy, Ghazal Zandieh, Kayhan Behdin (mbc, COURT STAFF) (Filed on 1/21/2026)"
+        },
+        {
+          "date_filed": "2026-02-10",
           "entry_number": null,
           "description": ""
         },
         {
-          "date_filed": "2026-01-20",
-          "entry_number": null,
-          "description": ""
-        },
-        {
-          "date_filed": "2026-04-02",
+          "date_filed": "2026-04-16",
           "entry_number": null,
           "description": ""
         }
@@ -688,19 +688,19 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/73254099/duru-v-mullin/",
       "recent_entries": [
         {
-          "date_filed": "2026-04-28",
-          "entry_number": null,
-          "description": "Initial Case Assignment to District Judge Anthony J. Trenga and Magistrate Judge William E. Fitzpatrick. (triv)"
-        },
-        {
           "date_filed": "2026-05-11",
           "entry_number": null,
           "description": "Motion Hearing set for 5/27/2026 at 10:00 AM in Alexandria Courtroom 900 before District Judge Anthony J. Trenga as to 15 Emergency MOTION for Permanent Injunction. (dzir)"
         },
         {
-          "date_filed": "2026-05-21",
-          "entry_number": 18,
-          "description": "EXHIBIT J - e-mail from Senator Tim Kaine's Office 5.20.2026 by Kimberley Chidinma Duru.. (Summers, Edward) (Entered: 05/21/2026)"
+          "date_filed": "2026-04-28",
+          "entry_number": null,
+          "description": "Initial Case Assignment to District Judge Anthony J. Trenga and Magistrate Judge William E. Fitzpatrick. (triv)"
+        },
+        {
+          "date_filed": "2026-05-26",
+          "entry_number": 22,
+          "description": "RESPONSE to Motion re 19 MOTION to Dismiss for Lack of Jurisdiction MOTION to Dismiss for Failure to State a Claim filed by Kimberley Chidinma Duru. (Summers, Edward) (Entered: 05/26/2026)"
         }
       ]
     },
@@ -723,6 +723,11 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/72384352/empc-v-secretary-of-homeland-security/",
       "recent_entries": [
         {
+          "date_filed": "2026-05-05",
+          "entry_number": null,
+          "description": ""
+        },
+        {
           "date_filed": "2026-04-22",
           "entry_number": null,
           "description": ""
@@ -731,11 +736,6 @@
           "date_filed": "2026-04-22",
           "entry_number": null,
           "description": "Deadline(s)/Hearing(s) terminated. PLEASE TAKE NOTICE that, in light of the referral of certain motions in this consolidated action to United States Magistrate Judge Yeney Hernandez, the hearing set for April 24, 2026, is hereby CANCELLED. (tms)"
-        },
-        {
-          "date_filed": "2026-05-13",
-          "entry_number": null,
-          "description": ""
         }
       ]
     },
@@ -826,7 +826,23 @@
       "plaintiffs": null,
       "notable": false,
       "courtlistener_url": "https://www.courtlistener.com/docket/72247855/ahua-v-edlow/",
-      "recent_entries": []
+      "recent_entries": [
+        {
+          "date_filed": "2026-04-14",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-02-18",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-03-06",
+          "entry_number": null,
+          "description": ""
+        }
+      ]
     },
     {
       "id": 25,
@@ -1242,8 +1258,8 @@
           "description": ""
         },
         {
-          "date_filed": "2026-05-21",
-          "entry_number": 17,
+          "date_filed": "2026-05-27",
+          "entry_number": 19,
           "description": ""
         }
       ]
@@ -1407,17 +1423,17 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/73294391/hedayati-v-edlow/",
       "recent_entries": [
         {
-          "date_filed": "2026-05-05",
+          "date_filed": "2026-05-06",
           "entry_number": null,
           "description": ""
         },
         {
-          "date_filed": "2026-05-05",
+          "date_filed": "2026-05-18",
           "entry_number": null,
-          "description": "Electronic filing error. Not all parties listed in the complaint have been added to the docket. Please add the missing parties using the event Notice of Additional Parties. The event can be found at: Civil Events > Other Filings > Notices > Notice of Additional Parties. Re: 1 Complaint, filed by Navid Mohammadian Tabrizi, Alain J. Latour Villamil, Asma Jodeiri Akbarfam, Sahar Rahimi Malakshan, Amirhossein Ostovar, Ghazal Mehdizadeh, Farzan ZareAfifi, Raul Enrique Romero Martinez, Majd Nasra, Donya Damavandi Moghaddam, Mehrdad Jamali, Hadi Beyki, Ehsan Esmaeili, FNU Thiha Zaw, Hanif Tayarani, Zahra Sedghi, Farhad Farzaneh, Siavash Shams, Zahra Ebrahimi, Ali Afrasiabi, Hanieh Alsadat Hedayati, Ali Hosseinipour, Dorsa Azadi, Vahid Nikkhah, Rosa Ana Martir de las Fuentes, Eighdi Aung, Negar Saraei, Ahmadreza Rajabi Sebdani, Soroush Karimi, Atieh Sadat Abedin Do, Min Sitt Thu Aung, Mehrnaz Ayazi, Parnian Abdi, Mahdi Arabinour, Sina Jangjoo, Yasaman Jannati, Niloofar Yousefi, Talayeh Vatankhah, Sarvenaz Moazami, C. A.L., Seyedeh Nahid Naghshbandi, Ehounoud Joseph C. Messou, Fatima Reza, Alireza Tavassoli, E. O.L., Saleh Sadeghi Gougheri, Khant Tayza, Bita Shaban, Mohammad Amin Kazemi, Maryam Paparimoghadamborazjani, Aylin Mohammadzadehmarandi, Ghazal Chizarian (jml, COURT STAFF) (Filed on 5/5/2026)"
+          "description": ""
         },
         {
-          "date_filed": "2026-05-18",
+          "date_filed": "2026-05-22",
           "entry_number": null,
           "description": ""
         }
