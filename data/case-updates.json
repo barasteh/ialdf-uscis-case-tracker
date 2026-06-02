@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-06-01T22:10:51.837Z",
+  "lastUpdated": "2026-06-02T21:13:01.268Z",
   "source": "CourtListener REST API v4",
-  "failed_count": 0,
+  "failed_count": 1,
   "total": 42,
   "cases": [
     {
@@ -58,17 +58,17 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/72526389/doe-v-trump-do-not-docket-in-this-case-all-filings-are-to-be-made-in/",
       "recent_entries": [
         {
-          "date_filed": "2026-04-06",
-          "entry_number": null,
-          "description": ""
-        },
-        {
-          "date_filed": "2026-04-01",
-          "entry_number": null,
-          "description": ""
-        },
-        {
           "date_filed": "2026-04-15",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-06-02",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-03-27",
           "entry_number": null,
           "description": ""
         }
@@ -233,17 +233,17 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/72071916/doe-v-trump/",
       "recent_entries": [
         {
-          "date_filed": "2026-02-27",
-          "entry_number": null,
-          "description": ""
-        },
-        {
-          "date_filed": "2026-02-25",
+          "date_filed": "2025-12-23",
           "entry_number": null,
           "description": ""
         },
         {
           "date_filed": "2026-02-24",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-06-02",
           "entry_number": null,
           "description": ""
         }
@@ -338,17 +338,17 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/72024394/shokri-varniab-v-edlow/",
       "recent_entries": [
         {
-          "date_filed": "2026-02-23",
-          "entry_number": null,
-          "description": ""
-        },
-        {
-          "date_filed": "2026-03-24",
+          "date_filed": "2026-05-20",
           "entry_number": null,
           "description": ""
         },
         {
           "date_filed": "2026-05-07",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-05-08",
           "entry_number": null,
           "description": ""
         }
@@ -478,12 +478,12 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/73162983/salatin-v-edlow/",
       "recent_entries": [
         {
-          "date_filed": "2026-04-08",
+          "date_filed": "2026-04-09",
           "entry_number": null,
           "description": ""
         },
         {
-          "date_filed": "2026-05-01",
+          "date_filed": "2026-04-08",
           "entry_number": null,
           "description": ""
         },
@@ -623,14 +623,14 @@
           "description": "Reset Deadlines as to 16 MOTION to Dismiss for Lack of Jurisdiction MOTION to Dismiss for Failure to State a Claim . Motion Hearing set for 4/17/2026 at 10:00 AM in Alexandria Courtroom 801 before District Judge Patricia Tolliver Giles. (pmil, )"
         },
         {
+          "date_filed": "2026-04-06",
+          "entry_number": null,
+          "description": "Set/Reset Deadlines as to 9 MOTION for Preliminary Injunction. Motion Hearing RESET for 4/17/2026 at 10:00 AM in Alexandria Courtroom 801 before District Judge Patricia Tolliver Giles. (yguy)"
+        },
+        {
           "date_filed": "2026-04-15",
           "entry_number": null,
           "description": "Motions hearing set for 4/17/2026 are cancelled. (dvanm)"
-        },
-        {
-          "date_filed": "2026-03-24",
-          "entry_number": null,
-          "description": "Motion Hearing set for 4/16/2026 at 10:00 AM in Alexandria Courtroom 801 before District Judge Patricia Tolliver Giles as to 9 MOTION for Preliminary Injunction and 16 MOTION to Dismiss for Lack of Jurisdiction and MOTION to Dismiss for Failure to State a Claim. (dzir)"
         }
       ]
     },
@@ -688,6 +688,11 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/73254099/duru-v-mullin/",
       "recent_entries": [
         {
+          "date_filed": "2026-05-27",
+          "entry_number": null,
+          "description": "Motion Hearing set for 6/3/2026 at 10:00 AM in Alexandria Courtroom 900 before District Judge Anthony J. Trenga as to 15 Emergency MOTION for Permanent Injunction. (dzir)"
+        },
+        {
           "date_filed": "2026-05-11",
           "entry_number": null,
           "description": "Motion Hearing set for 5/27/2026 at 10:00 AM in Alexandria Courtroom 900 before District Judge Anthony J. Trenga as to 15 Emergency MOTION for Permanent Injunction. (dzir)"
@@ -696,11 +701,6 @@
           "date_filed": "2026-04-28",
           "entry_number": null,
           "description": "Initial Case Assignment to District Judge Anthony J. Trenga and Magistrate Judge William E. Fitzpatrick. (triv)"
-        },
-        {
-          "date_filed": "2026-05-26",
-          "entry_number": 22,
-          "description": "RESPONSE to Motion re 19 MOTION to Dismiss for Lack of Jurisdiction MOTION to Dismiss for Failure to State a Claim filed by Kimberley Chidinma Duru. (Summers, Edward) (Entered: 05/26/2026)"
         }
       ]
     },
@@ -883,36 +883,13 @@
       "id": 26,
       "name": "Sarrafi v. Edlow",
       "court": "dcd",
-      "docket": "1:26-cv-00282",
+      "docket_number": "1:26-cv-00282",
       "status": "PENDING",
       "statusDetail": "Gov't-initiated stay motion",
       "stage": "Government consent-stay motion pending",
       "category": "Multiple",
-      "orderDate": null,
       "filingDate": "Jan 30, 2026",
-      "hearingDate": null,
-      "summary": "",
-      "relief": null,
-      "plaintiffs": null,
-      "notable": true,
-      "courtlistener_url": "https://www.courtlistener.com/docket/72213971/sarrafi-v-edlow/",
-      "recent_entries": [
-        {
-          "date_filed": "2026-02-19",
-          "entry_number": null,
-          "description": ""
-        },
-        {
-          "date_filed": "2026-04-23",
-          "entry_number": null,
-          "description": "MINUTE ORDER. By April 27, 2026, the parties shall meet and confer, and file a joint status report stating their positions on consolidation of Plaintiffs' 7 motion for preliminary injunction with the merits and whether supplemental briefing is necessary in advance of a hearing. Signed by Judge Amir H. Ali on 4/23/2026. (lcaha2)"
-        },
-        {
-          "date_filed": "2026-04-23",
-          "entry_number": null,
-          "description": ""
-        }
-      ]
+      "notable": true
     },
     {
       "id": 27,
@@ -1258,8 +1235,8 @@
           "description": ""
         },
         {
-          "date_filed": "2026-05-27",
-          "entry_number": 19,
+          "date_filed": "2026-06-02",
+          "entry_number": 20,
           "description": ""
         }
       ]
