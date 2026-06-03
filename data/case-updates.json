@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-06-02T21:13:01.268Z",
+  "lastUpdated": "2026-06-03T21:06:57.682Z",
   "source": "CourtListener REST API v4",
-  "failed_count": 1,
+  "failed_count": 0,
   "total": 42,
   "cases": [
     {
@@ -338,17 +338,17 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/72024394/shokri-varniab-v-edlow/",
       "recent_entries": [
         {
-          "date_filed": "2026-05-20",
-          "entry_number": null,
-          "description": ""
-        },
-        {
-          "date_filed": "2026-05-07",
-          "entry_number": null,
-          "description": ""
-        },
-        {
           "date_filed": "2026-05-08",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-04-27",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-03-24",
           "entry_number": null,
           "description": ""
         }
@@ -558,9 +558,9 @@
           "description": ""
         },
         {
-          "date_filed": "2026-05-19",
-          "entry_number": 15,
-          "description": "RESPONSE to 7 MOTION for Preliminary Injunction, 1 Complaint,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, DEFENDANTS CONSOLIDATED RESPONSE TO COMPLAINT (ECF No. 1) AND MOTION FOR PRELIMINARY INJUNCTION (ECF No. 7) by Defendants United States Citizenship and Immigration Services, Department of Homeland Security. (Attachments: # 1 Exhibit Exhibit A - Policy Alert PA-2025-26, # 2 Exhibit Exhibit B - Policy Memorandum PM-602-0192, # 3 Exhibit Exhibit C - Policy Memorandum PM-602-0194, # 4 Exhibit Exhibit D - Declaration of Andrew Good, # 5 Exhibit Exhibit E - Plaintiffs Chart)(Berger, Alexandra) (Entered: 05/19/2026)"
+          "date_filed": "2026-05-29",
+          "entry_number": 16,
+          "description": "REPLY to Response to 7 MOTION for Preliminary Injunction filed by Plaintiffs Ali Mahzarnia, Kaveh Malek, Atoosa Malemir Chegini, Shakiba Mashini, Kamilia Mehrabi Jorshary, Saman Menbari, Amirreza Meydani, Seyed Milad Kashefi Pour Dezfuli, Swam Min Htike, Erfan Moayyed, Amirreza Khalaji, Ali Khansari, Maryam Kheirandish Borujeni, Pe Khin, Majid Khorsandi, Mohammadreza Kiaghadi, Luisa Larissa Arnaldo Gomes-Popescu, Arezo Mahdavi Varposhti, Alireza Mahjoubnia, Sadaf Mahmoudikouhi, Auguste Sylvestre, Bardia Tabiatnejad, Farzaneh Tahmasbi, Mahdi Takaffoli, Seyedamirhossein Talebi, Javad Tamnanloo, Omid Tavakol, Abdul Tawab Kawa Saljuqi, Yohannes Teckleghiorghis, Kian Tehranian, Basro Mohamed, Khalid Mohamed Ahmed, Hessamaldin Mohammadi, Faeze Momeni Rad, Narges Moosavi Mahvelati, Sonia Moshfeghi, Sahand Motameni, Havabeigom Naderiboldaji, Babacar Niang, Yasaman Norouzi, Fatemeh Ataei, Iman Attari, Adolfo Augusto Sabate Farinas, Thiha Aung, Amirhossein Azarabadi, Ramin Babazadeh Dizaj, Rasa Babazadeh Nasseri, Ramin Baghbani, Maryam Bagheri, Nahal Bagheri, Hamid Jafarisharemi, Samin Jalali, Sayeh Jalali Dowlatshahi, Mitra Javadzadeh No, Sina Javadzadeh No, Dolly Johnson Ewili, Claudio Jordan, Joseph Joseph Ekpenyong, Taraneh Kamyab, Saeid Karimpour, Jose Alejandro Carreras Perez, Shirin Jamal Omidi, Hamed Khosravi, Yelitza Lilibeth Ramos Silva, Olamide Victor Oladipupo Famade, Ahmed A A Msherghi, Soheil Abadifard, Hooman Abdolvand, Mobolaji Abdul-Waheed Ogunlade, Rana Abrishamkar, Khin Phyu Khine, Ali Pirmoradi Bezenjani, Aru Poleo Vargas, Adeolu Racheal Shittu, Jose Rafael Alambarrio Cardenas, Jose Rafael Delgado Maldonado, Mohammad Ragheb Foroutan Nasab, Kosar Rahimi Nasrabadi, Shokofeh Rahimpourkaldeh, Shakir Rashid Ali, Mahsa Sanei, Siavash Sarrafan, Maryam Seifishahpar, Seyedafshin Seyednezhad, Seyedehmaedeh Seyedolmohadesin, Maliheh Shaltouki Rizi, Jean Shnell Saint-vil, Meraj Sohrabi, Sara Soltani Tehrani, Oladiran Sunday Babalola, Massiel Valentina Manzanilla Carpinone, Ali Vossoughian, Sadegh Yarmohammadisatri, Negin Yavari, Vala Zadeh, Anahita Zahertar, Ramin Zandvakili, Mehran Basmenji, Erfan Behravesh, Carol-June Benite Leonard, Sara Bitarafan, Marshall Bizure, Farrokh Bolandi, Oluwatomisin Bolutife Sobowale, Maede Chabi Bahmanshiri, Jeny Cruz, Majid Daliri, Miebaka Favour Roberts, Mohamad Fazelnia, Iman Foghani, Joshua Folorunso, Andres Francisco Mandarino Sanchez, Michelle Gamboa, Suray Gardashova, Yasaman Ghaderidehkordi, Milad Ghahramanieisalou, Rojin Ghannad Zadeh, Mohadeseh Rastgooy Deylami, Narges Rezaie, Mahdi Roodbari, Ignacio Rosales Ibanez, Rahoma Saad Elharari Mohamed, Ehsan Sabouni, Mohsen Sahraei Ardakani, Ali Salehi, Mina Salehi Sedeh, Shoaib Samim, Mohsen Alizadeh, Mubarak Alliyu, Chinedu Amaji, Amen Ameen Almintoser, Nafiseh Amiri, Faezeh Amiri, Seyedehalaleh Anvar, Nmesomachukwu April Ossai, Hengameh Arjomandi, Mobin Asri, Oluwakayode Oluwafemi Jegede, Daniel Oluwaseun Ajayi, Olanrewaju Oluwaseun Okunlola, Mahsan Ostadnia, Yosvany Padron Castro, Ali Parviz, Mohsen Paryavi, Pejman Peidaee, Yipsy Perez Martin, Fatemehsadat Pezeshkian, Samuel Ti Tha Zam, Daniel Tobiloba Williams, Dina Toews, Alireza Toghraee, Saba Tohidkhah, Sima Tozandehjani, Anthony Uzochukwu Chukwuma, Mohammadsaleh Vahdatpour, Amirali Vahid, Shayan Gholami, Kasra Goodarzi, Meheria Habibi, Narges Hadi, Samira Hajizadeh, Seyed Hamidreza Nabaei, Keshvad Hedayatyanfard, Parwana Hussainzada, Reza Ilka, Saul Isaac Unda Torres, Yalda Daryani, Issa Dayoub, Diba Dehmeshki, Alejandro Enrique Santeliz, Dorsa Esmaeilpourmoghaddam, Helya Esmaty, Yalda Farahmand, Maryam Farajzadeh Dehkordi, Moez Farokhniahamedani, Yleana Acosta, Raiza Acosta Montero, Ruth Ada Ayambem, Masoud Ahmadi, Ali Ahmadi Teshnizi, Jose Alejandro Galanton Rodriguez, Sina Alemohammad, Luis Alfredo Riviere Herrera, Ahmed Alhamami, Awab Ali Ibrahim. (New, Zachary) (Entered: 05/29/2026)"
         }
       ]
     },
@@ -688,14 +688,14 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/73254099/duru-v-mullin/",
       "recent_entries": [
         {
-          "date_filed": "2026-05-27",
-          "entry_number": null,
-          "description": "Motion Hearing set for 6/3/2026 at 10:00 AM in Alexandria Courtroom 900 before District Judge Anthony J. Trenga as to 15 Emergency MOTION for Permanent Injunction. (dzir)"
-        },
-        {
           "date_filed": "2026-05-11",
           "entry_number": null,
           "description": "Motion Hearing set for 5/27/2026 at 10:00 AM in Alexandria Courtroom 900 before District Judge Anthony J. Trenga as to 15 Emergency MOTION for Permanent Injunction. (dzir)"
+        },
+        {
+          "date_filed": "2026-05-27",
+          "entry_number": null,
+          "description": "Motion Hearing set for 6/3/2026 at 10:00 AM in Alexandria Courtroom 900 before District Judge Anthony J. Trenga as to 15 Emergency MOTION for Permanent Injunction. (dzir)"
         },
         {
           "date_filed": "2026-04-28",
@@ -868,13 +868,13 @@
           "description": ""
         },
         {
-          "date_filed": "2026-06-01",
-          "entry_number": 19,
+          "date_filed": "2026-06-03",
+          "entry_number": 21,
           "description": ""
         },
         {
-          "date_filed": "2026-05-29",
-          "entry_number": 18,
+          "date_filed": "2026-06-01",
+          "entry_number": 19,
           "description": ""
         }
       ]
@@ -883,13 +883,36 @@
       "id": 26,
       "name": "Sarrafi v. Edlow",
       "court": "dcd",
-      "docket_number": "1:26-cv-00282",
+      "docket": "1:26-cv-00282",
       "status": "PENDING",
       "statusDetail": "Gov't-initiated stay motion",
       "stage": "Government consent-stay motion pending",
       "category": "Multiple",
+      "orderDate": null,
       "filingDate": "Jan 30, 2026",
-      "notable": true
+      "hearingDate": null,
+      "summary": "",
+      "relief": null,
+      "plaintiffs": null,
+      "notable": true,
+      "courtlistener_url": "https://www.courtlistener.com/docket/72213971/sarrafi-v-edlow/",
+      "recent_entries": [
+        {
+          "date_filed": "2026-02-19",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-04-23",
+          "entry_number": null,
+          "description": "MINUTE ORDER. By April 27, 2026, the parties shall meet and confer, and file a joint status report stating their positions on consolidation of Plaintiffs' 7 motion for preliminary injunction with the merits and whether supplemental briefing is necessary in advance of a hearing. Signed by Judge Amir H. Ali on 4/23/2026. (lcaha2)"
+        },
+        {
+          "date_filed": "2026-04-23",
+          "entry_number": null,
+          "description": ""
+        }
+      ]
     },
     {
       "id": 27,
@@ -920,9 +943,9 @@
           "description": "TEXT ORDER granting 18 Motion to Appear Pro Hac Vice of Abbey Rutherford. So Ordered by Chief Judge John J. McConnell, Jr. on 3/30/2026. (Hill, Cherelle)"
         },
         {
-          "date_filed": "2026-05-21",
+          "date_filed": "2026-03-17",
           "entry_number": null,
-          "description": ""
+          "description": "TEXT ORDER granting 12 Joint MOTION for Expedited Summary Judgment Briefing Schedule and To Waive Statements of Undisputed Facts: Defendants will produce and file the administrative record by 3/25/26; Plaintiffs will file their motion for summary judgment by 4/3/26; Defendants will file a cross-motion for summary judgment and response to Plaintiffs' motion by 4/24/26; Plaintiffs will file a reply and response to the cross-motion for summary judgment by 5/1/26; and, Defendants will file a reply re: the cross-motion by 5/8/26. So Ordered by Chief Judge John J. McConnell, Jr. on 3/17/2026. (Jackson, Ryan)"
         }
       ]
     },
@@ -1052,16 +1075,16 @@
         {
           "date_filed": "2026-03-04",
           "entry_number": null,
-          "description": ""
+          "description": "A United States Magistrate Judge of this Court is available to conduct all proceedings in this civil action in accordance with 28 U.S.C. 636c and FRCP 73. The Notice, Consent, and Reference of a Civil Action to a Magistrate Judge form is available for download at http://www.mied.uscourts.gov (MChr)"
         },
         {
           "date_filed": "2026-03-04",
           "entry_number": null,
-          "description": "A United States Magistrate Judge of this Court is available to conduct all proceedings in this civil action in accordance with 28 U.S.C. 636c and FRCP 73. The Notice, Consent, and Reference of a Civil Action to a Magistrate Judge form is available for download at http://www.mied.uscourts.gov (MChr)"
+          "description": ""
         },
         {
-          "date_filed": "2026-05-23",
-          "entry_number": 17,
+          "date_filed": "2026-06-02",
+          "entry_number": 18,
           "description": ""
         }
       ]
