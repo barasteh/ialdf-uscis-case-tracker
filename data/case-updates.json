@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-03T21:06:57.682Z",
+  "lastUpdated": "2026-06-04T20:08:31.190Z",
   "source": "CourtListener REST API v4",
   "failed_count": 0,
   "total": 42,
@@ -343,12 +343,12 @@
           "description": ""
         },
         {
-          "date_filed": "2026-04-27",
+          "date_filed": "2026-06-04",
           "entry_number": null,
           "description": ""
         },
         {
-          "date_filed": "2026-03-24",
+          "date_filed": "2026-05-07",
           "entry_number": null,
           "description": ""
         }
@@ -440,15 +440,10 @@
       "relief": null,
       "plaintiffs": null,
       "notable": true,
-      "courtlistener_url": "https://www.courtlistener.com/docket/72130486/nezameslami-v-department-of-homeland-security/",
+      "courtlistener_url": "https://www.courtlistener.com/docket/72130486/nhekairo-v-department-of-homeland-security/",
       "recent_entries": [
         {
-          "date_filed": "2026-01-23",
-          "entry_number": null,
-          "description": ""
-        },
-        {
-          "date_filed": "2026-01-15",
+          "date_filed": "2026-01-26",
           "entry_number": null,
           "description": ""
         },
@@ -456,6 +451,11 @@
           "date_filed": "2026-01-15",
           "entry_number": null,
           "description": "APPROVAL by Clerks Office re: 6 APPLICATION for Admission of Jesse M. Bless Pro Hac Vice (Application fee $ 100, receipt number AGANDC-14922813). Attorney Jesse M. Bless added appearing on behalf of Mina Abbasi, Karen Abbaskhanian, Neman Abdoli, Sepehr Abdous, Mohammadhossein Abedinzadeh, Amirhesam Abedsoltan, Seyedalireza Abootorabi, Seyed Mohammad Aghigh, Iman Ahmadabadi, Hanie Ahmadi, Mohamad Ahmadzadeh, Ismail Ahmadzai, Nabil Alnazir Ahmed, Ali Akbari beni, Folarin Oluwanimbe Akinsiku, Mohammad Alali, Navid Etebari Alamdari, Nasrollah Alinejad, Salma Allafi, Neda Amanat, Kooshan Amini, Jose Jesus Antunes, Ehsan Arasteh, Neda Ghaeili Ardabili, Mojtaba Arezoomand, Hossein Mohasel Arjomandi, Razieh Armin, Aref Asghari, Malaika M C Ashcroft, Neginsadat Ashrafi, Mojtaba Amir Aslan Pour, Mohammad Azarifar, Ebrahim Azimi, Paniz Azizi, Pegah Azizi, Farzad Baghernezhad, Javad Bahrami, Shahryar Ramezani Bajgiran, Mohsen Moghadasi Barazandeh, Matin Barekatain, Alberto Barrios Barrios Gomez, Sadjad Fakouri Baygi, Mohammad Bazmi, Jehonett Janiw Blanco, Corina Beatriz Blondell Soto, Sara Momtaz Bokharaei, Mohsen Botlani-Esfahani, Shahin Boumi, Mahmood Chahari, Taha Sadeghi Chorsi, Marcela Janet Colmenares Amaya, Maryam Daniali, Ramin Zahedi Darshoori, Mahsa Darvishan, Mohammad Ali Dashtaki, Amir Davatgari, Dorsa Dayani, Farbod Dehghani, Khashayar Ebrahim-zadeh, Farzam Ebrahimnejad, Fernando Jose Eizaguirre Perez, Iman Ekramnosratian, Arash Elahi, Somayeh Nazari Enjedani, Romina Esbati, Ilia Chiniforooshan Esfahani, Shiva Hadi Esfahani, Amirali Eskandariyun, Narjes Esmaeili, Danial Ezzati, Ali Fahimniya, Forouzan Vasheghani Farahani, Mansour Toorani Farani, Soheil Farazi, Danial Qaurooni Fard, Mostafa Mohammadpour Fard, Farivar Fatehi, Ehsan Fayyazishishavan, Mohammad Fili, Luis Felipe Flores Kopp, Fahimeh Forouzeshfar, Maryam Fotouhi, Mona Gandomkar, Maryam Ghaed, Fatemeh Ghaheri, Shahaboddin Ghajari, Kiana Ghasemi, Maryam Ghasemi, Seyyed Mahmood Ghasemi, Ida Gheibi, Farnaz Ghorbani, Atefeh Gilani, Farzam Gilani, Hadis Moazami Goudarzi, Kamyar Goudarzi, Luis Leandro Granda Ontivero, Seyed Iman Habibi, Homa Haghighi, Masaoud Haidar, Roxcy Francis Hamby, Nikoo Hamzeh, Zainab Hanzakian, Elizabeth Dupe Hart, Nastaran Hasani, Neda Shafiabadi Hassani, Mohsen Hatami, Parisa Hatami, Behzad Hejrati, Hamed Hosseiny, Farideh Hosseinzadeh, Chukwuemeka Stanley Ikeri, Sanaz Imanlou, Muhammad Ahmad Issa, Mark Jabbour, Behafarid Mohammad Jafari, Elham Jafarzadeh, Sepehr Janghorbani, Seyed Mohammad Javad, Farshid Javadnejad, Mobin Yahyazadeh Jeloudar, Mahdi Kabiri, Faezeh Abbaspour Kaboudan, Aida Rahimi Kahmini, Mehrdad Karami, Anita Karimi, Hanie Karimi, Soheil Kavian, Seyyed Ali Ghorashi Khalili Abadi, Alireza Khalilian, Douangchay Khambounheuang, Parnia Khamooshi, Hamed Khanifar, Mohammad Mahdi Khavandi, Hossein Khodavirdi, Erfan Khoram, Reza Khorasani, Kimia Kiaei, Zahra Kolahchi, Hossein Rahmanian Kooshkaki, Soroush Korivand, Mohammadreza Kosari, Param Kumar, Khin Thiri Kyaw, Sina Layazali, Nazila Loghmani, Franky Jose Lopez Brito, Hamed Mahdavi, Vahid Mahdikhah, Nelie Marcelin, Jasmine Jean Mary, Ehsan Sheikholharam Mashhadi, Sasan Mazaheri, Goshtasb Shahriari Mehr, Behzad Mehrafrooz, Seyedamirhossein Mirtaleb, Maryam Moeinian, Neda Mohamadzadeh, Pouria Mohammadi, Reyhaneh Mohammadi, Ali Mohammadkhorasani, Shahriar Mohammadpour, Milad Razavi Mohseni, Sayedmohammadmahdi Vaez Momeni, Yasna Mortezaei, Moeen Mostafavi, Amir Motmaen, Ebrahimzadeh Mousavi, Negin Sadat Mousavi, Fatemehsadat Mousavinasab, Mohammad Movahed, Sara Movassaghi, Pouyan Nahed, Zahra Najafi, Maryam Najmi, Arash Namaeighasemi, Fargol Nematkhah, Ahmadreza Nezameslami, Natasha Gladys Nhekairo, Amir Hosein Sanjari Nia, Majid Mohammadi Nia, Seyed Reza Amini Niaki, Okere Nwachukwu, Stephanie Onyemowo Omakwu, Andres Eduardo Parra Barreto, Rose Pierre-Louis, Anahita Pilvar, Ali Banaei Pour, Ali Ghafouri Pourkermani, Adulin Prophete, Maan Qraitem, Hamed Rabbani, Hami Rabbani, Rozhan Rabbani, Pedram Rabiee, Ashkan Radnia, Zahra Rafiee, Amirkeyvan Rahimi, Roya Rajabi, Taha Rajabzadeh, Iman Rashidijouybari, Saba Ravaghi, Shayan Razi, Arash Rezaee, Leila Rezaei, Mohammad Rezaei, Mohammadreza Rezvani, Nasim Roshdieh, Saadi Rostami, Seyyedmohammadreza Rouhezamin, Leila Saberi, Marjan Sadeghi, Amirahmad Saeidi, Seyyedamirhossein Saeidi Saeidi, Faeze Safari, Safoura Salar, Elahheh Salari, Fatemeh Salehirad, Sahba Samadi, Pouya Samanipour, Mohammad Saneian, Mohammad Sarbaz, Ehsan Saremi, Kenneth Enrique Scope, Reza Sedghi, Seyedmahyar Sefidgaran, Maurice Seha, Ali Khosravani Semnani, Seyed Mehdi Seyedi, Amin Shafiee, Mohammadhossein Shafinia, Nahal Shahini, Morteza Momeni Shahraki, Razieh Bagheri Shahzadeh Aliakbari, Mohammad Mehdi Sharifi, Seyed Erfan Shayegani, Mohammad Shiri, Shirin Shoushtari, Shohreh Gholizadeh Siahmazgi, Zoraya Milagros Socorro Bonilla, Phadthakone Sophavilai, Saleh Valizadeh Sotubadi, Sima Darvishan St Paul, Seyed Mostafa Tabatabaei, Mahan Tabatabaie, Homa Taheri, Sanaz Taherzadeh, Mahdis Tajdari, Dorsa Talebi, Amirreza Tarafdar, Shahabeddin Abbaspour Tazehkand, Nastaran Alamgir Tehrani, Myat Thiha, Alireza Tojjari, Mahsa Sadat Torabi, Farzan Vahedifard, Sajad Vahedizade, Soroush Vahidi, Shiva Maleki Varnosfaderani, Hosein Yavarzadeh, Bardiya Ghaderi Yazdi, Abdul Rahman Yilla, Mahmoud Abouzid Younis, Mahkameh Mallah Zadeh, Marzieh Moradi Zaniani, Elham Zokaei. E-filing access may be requested after an order granting the application is entered. (jas)"
+        },
+        {
+          "date_filed": "2026-02-12",
+          "entry_number": null,
+          "description": "ORDER (contained in 17 ) granting 15 Motion for Extension of Time. Signed by Judge Steven D. Grimberg on 2/12/2026. (cpp)"
         }
       ]
     },
@@ -558,9 +558,9 @@
           "description": ""
         },
         {
-          "date_filed": "2026-05-29",
-          "entry_number": 16,
-          "description": "REPLY to Response to 7 MOTION for Preliminary Injunction filed by Plaintiffs Ali Mahzarnia, Kaveh Malek, Atoosa Malemir Chegini, Shakiba Mashini, Kamilia Mehrabi Jorshary, Saman Menbari, Amirreza Meydani, Seyed Milad Kashefi Pour Dezfuli, Swam Min Htike, Erfan Moayyed, Amirreza Khalaji, Ali Khansari, Maryam Kheirandish Borujeni, Pe Khin, Majid Khorsandi, Mohammadreza Kiaghadi, Luisa Larissa Arnaldo Gomes-Popescu, Arezo Mahdavi Varposhti, Alireza Mahjoubnia, Sadaf Mahmoudikouhi, Auguste Sylvestre, Bardia Tabiatnejad, Farzaneh Tahmasbi, Mahdi Takaffoli, Seyedamirhossein Talebi, Javad Tamnanloo, Omid Tavakol, Abdul Tawab Kawa Saljuqi, Yohannes Teckleghiorghis, Kian Tehranian, Basro Mohamed, Khalid Mohamed Ahmed, Hessamaldin Mohammadi, Faeze Momeni Rad, Narges Moosavi Mahvelati, Sonia Moshfeghi, Sahand Motameni, Havabeigom Naderiboldaji, Babacar Niang, Yasaman Norouzi, Fatemeh Ataei, Iman Attari, Adolfo Augusto Sabate Farinas, Thiha Aung, Amirhossein Azarabadi, Ramin Babazadeh Dizaj, Rasa Babazadeh Nasseri, Ramin Baghbani, Maryam Bagheri, Nahal Bagheri, Hamid Jafarisharemi, Samin Jalali, Sayeh Jalali Dowlatshahi, Mitra Javadzadeh No, Sina Javadzadeh No, Dolly Johnson Ewili, Claudio Jordan, Joseph Joseph Ekpenyong, Taraneh Kamyab, Saeid Karimpour, Jose Alejandro Carreras Perez, Shirin Jamal Omidi, Hamed Khosravi, Yelitza Lilibeth Ramos Silva, Olamide Victor Oladipupo Famade, Ahmed A A Msherghi, Soheil Abadifard, Hooman Abdolvand, Mobolaji Abdul-Waheed Ogunlade, Rana Abrishamkar, Khin Phyu Khine, Ali Pirmoradi Bezenjani, Aru Poleo Vargas, Adeolu Racheal Shittu, Jose Rafael Alambarrio Cardenas, Jose Rafael Delgado Maldonado, Mohammad Ragheb Foroutan Nasab, Kosar Rahimi Nasrabadi, Shokofeh Rahimpourkaldeh, Shakir Rashid Ali, Mahsa Sanei, Siavash Sarrafan, Maryam Seifishahpar, Seyedafshin Seyednezhad, Seyedehmaedeh Seyedolmohadesin, Maliheh Shaltouki Rizi, Jean Shnell Saint-vil, Meraj Sohrabi, Sara Soltani Tehrani, Oladiran Sunday Babalola, Massiel Valentina Manzanilla Carpinone, Ali Vossoughian, Sadegh Yarmohammadisatri, Negin Yavari, Vala Zadeh, Anahita Zahertar, Ramin Zandvakili, Mehran Basmenji, Erfan Behravesh, Carol-June Benite Leonard, Sara Bitarafan, Marshall Bizure, Farrokh Bolandi, Oluwatomisin Bolutife Sobowale, Maede Chabi Bahmanshiri, Jeny Cruz, Majid Daliri, Miebaka Favour Roberts, Mohamad Fazelnia, Iman Foghani, Joshua Folorunso, Andres Francisco Mandarino Sanchez, Michelle Gamboa, Suray Gardashova, Yasaman Ghaderidehkordi, Milad Ghahramanieisalou, Rojin Ghannad Zadeh, Mohadeseh Rastgooy Deylami, Narges Rezaie, Mahdi Roodbari, Ignacio Rosales Ibanez, Rahoma Saad Elharari Mohamed, Ehsan Sabouni, Mohsen Sahraei Ardakani, Ali Salehi, Mina Salehi Sedeh, Shoaib Samim, Mohsen Alizadeh, Mubarak Alliyu, Chinedu Amaji, Amen Ameen Almintoser, Nafiseh Amiri, Faezeh Amiri, Seyedehalaleh Anvar, Nmesomachukwu April Ossai, Hengameh Arjomandi, Mobin Asri, Oluwakayode Oluwafemi Jegede, Daniel Oluwaseun Ajayi, Olanrewaju Oluwaseun Okunlola, Mahsan Ostadnia, Yosvany Padron Castro, Ali Parviz, Mohsen Paryavi, Pejman Peidaee, Yipsy Perez Martin, Fatemehsadat Pezeshkian, Samuel Ti Tha Zam, Daniel Tobiloba Williams, Dina Toews, Alireza Toghraee, Saba Tohidkhah, Sima Tozandehjani, Anthony Uzochukwu Chukwuma, Mohammadsaleh Vahdatpour, Amirali Vahid, Shayan Gholami, Kasra Goodarzi, Meheria Habibi, Narges Hadi, Samira Hajizadeh, Seyed Hamidreza Nabaei, Keshvad Hedayatyanfard, Parwana Hussainzada, Reza Ilka, Saul Isaac Unda Torres, Yalda Daryani, Issa Dayoub, Diba Dehmeshki, Alejandro Enrique Santeliz, Dorsa Esmaeilpourmoghaddam, Helya Esmaty, Yalda Farahmand, Maryam Farajzadeh Dehkordi, Moez Farokhniahamedani, Yleana Acosta, Raiza Acosta Montero, Ruth Ada Ayambem, Masoud Ahmadi, Ali Ahmadi Teshnizi, Jose Alejandro Galanton Rodriguez, Sina Alemohammad, Luis Alfredo Riviere Herrera, Ahmed Alhamami, Awab Ali Ibrahim. (New, Zachary) (Entered: 05/29/2026)"
+          "date_filed": "2026-06-03",
+          "entry_number": 17,
+          "description": ""
         }
       ]
     },
@@ -1083,8 +1083,8 @@
           "description": ""
         },
         {
-          "date_filed": "2026-06-02",
-          "entry_number": 18,
+          "date_filed": "2026-06-04",
+          "entry_number": 19,
           "description": ""
         }
       ]
@@ -1178,7 +1178,7 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/72260779/perez-v-united-states-citizenship-and-immigration-services-uscis/",
       "recent_entries": [
         {
-          "date_filed": "2026-02-13",
+          "date_filed": "2026-02-24",
           "entry_number": null,
           "description": ""
         },
@@ -1188,7 +1188,7 @@
           "description": ""
         },
         {
-          "date_filed": "2026-02-24",
+          "date_filed": "2026-03-18",
           "entry_number": null,
           "description": ""
         }
