@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-04T20:08:31.190Z",
+  "lastUpdated": "2026-06-05T20:00:05.663Z",
   "source": "CourtListener REST API v4",
   "failed_count": 0,
   "total": 42,
@@ -338,7 +338,7 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/72024394/shokri-varniab-v-edlow/",
       "recent_entries": [
         {
-          "date_filed": "2026-05-08",
+          "date_filed": "2026-01-07",
           "entry_number": null,
           "description": ""
         },
@@ -348,9 +348,9 @@
           "description": ""
         },
         {
-          "date_filed": "2026-05-07",
+          "date_filed": "2026-06-04",
           "entry_number": null,
-          "description": ""
+          "description": "Electronic filing error. Doe defendant groups (e.g., Does 1-100) are prohibited at case opening. Corrections completed by clerk to remove Doe party(ies) from the docket.Corrected by Clerk's Office. No further action is necessary. Re: 1 Complaint, filed by Ashkan Pourabhari Langoudi, Zahra Shokri Varniab (mbc, COURT STAFF) (Filed on 6/4/2026)"
         }
       ]
     },
@@ -408,9 +408,9 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/71996058/moradipari-v-edlow/",
       "recent_entries": [
         {
-          "date_filed": "2025-12-04",
+          "date_filed": "2026-06-04",
           "entry_number": null,
-          "description": "Electronic filing error. Case reviewed; does not fall under nationwide injunction. No action necessary.Corrected by Clerk's Office. No further action is necessary. Re: 1 Complaint,, filed by AHMADREZA MORADIPARI (mbc, COURT STAFF) (Filed on 12/4/2025)"
+          "description": ""
         },
         {
           "date_filed": "2026-02-03",
@@ -548,18 +548,18 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/73134936/ahmadi-v-department-of-homeland-security/",
       "recent_entries": [
         {
-          "date_filed": "2026-05-11",
-          "entry_number": null,
-          "description": ""
-        },
-        {
           "date_filed": "2026-05-09",
           "entry_number": null,
           "description": ""
         },
         {
-          "date_filed": "2026-06-03",
-          "entry_number": 17,
+          "date_filed": "2026-05-11",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-06-04",
+          "entry_number": 18,
           "description": ""
         }
       ]
@@ -723,17 +723,17 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/72384352/empc-v-secretary-of-homeland-security/",
       "recent_entries": [
         {
-          "date_filed": "2026-05-05",
-          "entry_number": null,
-          "description": ""
-        },
-        {
           "date_filed": "2026-04-22",
           "entry_number": null,
+          "description": "Deadline(s)/Hearing(s) terminated. PLEASE TAKE NOTICE that, in light of the referral of certain motions in this consolidated action to United States Magistrate Judge Yeney Hernandez, the hearing set for April 24, 2026, is hereby CANCELLED. (tms)"
+        },
+        {
+          "date_filed": "2026-04-23",
+          "entry_number": null,
           "description": ""
         },
         {
-          "date_filed": "2026-05-13",
+          "date_filed": "2026-03-10",
           "entry_number": null,
           "description": ""
         }
@@ -868,14 +868,14 @@
           "description": ""
         },
         {
-          "date_filed": "2026-06-03",
-          "entry_number": 21,
-          "description": ""
+          "date_filed": "2026-06-04",
+          "entry_number": 22,
+          "description": "RESPONSE by defendants Darice Alvertos, Joseph B. Edlow, Kristi Noem to Order to Show Cause (Deadline) 21 Explaining Why They Did Not File An Answer After the Court's Ruling on Their Motion to Dismiss (Soanes, Sherry) Modified text on 6/4/2026 (ems). (Entered: 06/04/2026)"
         },
         {
-          "date_filed": "2026-06-01",
-          "entry_number": 19,
-          "description": ""
+          "date_filed": "2026-06-03",
+          "entry_number": 21,
+          "description": "ORDER TO SHOW CAUSE: defendants to file answer or show cause by 6/17/2026; signed by Chief Judge Hala Y. Jarbou (aks) (Entered: 06/03/2026)"
         }
       ]
     },
@@ -933,19 +933,19 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/72369535/dorcas-international-institute-of-rhode-island-v-united-states-citizenship/",
       "recent_entries": [
         {
-          "date_filed": "2026-03-25",
-          "entry_number": null,
-          "description": "TEXT ORDER: Pursuant to Fed. R. Civ. P. 25(d), Markwayne Mullin has been substituted for Kristi Noem as Secretary of the Department of Homeland Security in this action. So Ordered by Chief Judge John J. McConnell, Jr. on 3/25/2026. (Simoncelli, Michael)"
-        },
-        {
           "date_filed": "2026-03-30",
           "entry_number": null,
           "description": "TEXT ORDER granting 18 Motion to Appear Pro Hac Vice of Abbey Rutherford. So Ordered by Chief Judge John J. McConnell, Jr. on 3/30/2026. (Hill, Cherelle)"
         },
         {
-          "date_filed": "2026-03-17",
+          "date_filed": "2026-03-25",
           "entry_number": null,
-          "description": "TEXT ORDER granting 12 Joint MOTION for Expedited Summary Judgment Briefing Schedule and To Waive Statements of Undisputed Facts: Defendants will produce and file the administrative record by 3/25/26; Plaintiffs will file their motion for summary judgment by 4/3/26; Defendants will file a cross-motion for summary judgment and response to Plaintiffs' motion by 4/24/26; Plaintiffs will file a reply and response to the cross-motion for summary judgment by 5/1/26; and, Defendants will file a reply re: the cross-motion by 5/8/26. So Ordered by Chief Judge John J. McConnell, Jr. on 3/17/2026. (Jackson, Ryan)"
+          "description": ""
+        },
+        {
+          "date_filed": "2026-03-30",
+          "entry_number": null,
+          "description": "TEXT ORDER granting 17 Motion to Appear Pro Hac Vice of Golnaz Fakhimi. So Ordered by Chief Judge John J. McConnell, Jr. on 3/30/2026. (Hill, Cherelle)"
         }
       ]
     },
