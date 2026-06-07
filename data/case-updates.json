@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-05T20:00:05.663Z",
+  "lastUpdated": "2026-06-07T13:16:17.597Z",
   "source": "CourtListener REST API v4",
   "failed_count": 0,
   "total": 42,
@@ -478,7 +478,7 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/73162983/salatin-v-edlow/",
       "recent_entries": [
         {
-          "date_filed": "2026-04-09",
+          "date_filed": "2026-04-08",
           "entry_number": null,
           "description": ""
         },
@@ -688,6 +688,11 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/73254099/duru-v-mullin/",
       "recent_entries": [
         {
+          "date_filed": "2026-04-28",
+          "entry_number": null,
+          "description": "Initial Case Assignment to District Judge Anthony J. Trenga and Magistrate Judge William E. Fitzpatrick. (triv)"
+        },
+        {
           "date_filed": "2026-05-11",
           "entry_number": null,
           "description": "Motion Hearing set for 5/27/2026 at 10:00 AM in Alexandria Courtroom 900 before District Judge Anthony J. Trenga as to 15 Emergency MOTION for Permanent Injunction. (dzir)"
@@ -696,11 +701,6 @@
           "date_filed": "2026-05-27",
           "entry_number": null,
           "description": "Motion Hearing set for 6/3/2026 at 10:00 AM in Alexandria Courtroom 900 before District Judge Anthony J. Trenga as to 15 Emergency MOTION for Permanent Injunction. (dzir)"
-        },
-        {
-          "date_filed": "2026-04-28",
-          "entry_number": null,
-          "description": "Initial Case Assignment to District Judge Anthony J. Trenga and Magistrate Judge William E. Fitzpatrick. (triv)"
         }
       ]
     },
@@ -723,19 +723,19 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/72384352/empc-v-secretary-of-homeland-security/",
       "recent_entries": [
         {
-          "date_filed": "2026-04-22",
-          "entry_number": null,
-          "description": "Deadline(s)/Hearing(s) terminated. PLEASE TAKE NOTICE that, in light of the referral of certain motions in this consolidated action to United States Magistrate Judge Yeney Hernandez, the hearing set for April 24, 2026, is hereby CANCELLED. (tms)"
-        },
-        {
           "date_filed": "2026-04-23",
           "entry_number": null,
           "description": ""
         },
         {
-          "date_filed": "2026-03-10",
+          "date_filed": "2026-05-29",
           "entry_number": null,
           "description": ""
+        },
+        {
+          "date_filed": "2026-04-22",
+          "entry_number": null,
+          "description": "Deadline(s)/Hearing(s) terminated. PLEASE TAKE NOTICE that, in light of the referral of certain motions in this consolidated action to United States Magistrate Judge Yeney Hernandez, the hearing set for April 24, 2026, is hereby CANCELLED. (tms)"
         }
       ]
     },
