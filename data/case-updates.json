@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-06-07T13:16:17.597Z",
+  "lastUpdated": "2026-06-08T18:43:32.661Z",
   "source": "CourtListener REST API v4",
-  "failed_count": 0,
+  "failed_count": 1,
   "total": 42,
   "cases": [
     {
@@ -208,7 +208,7 @@
           "description": ""
         },
         {
-          "date_filed": "2026-03-24",
+          "date_filed": "2026-04-24",
           "entry_number": null,
           "description": ""
         }
@@ -443,19 +443,19 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/72130486/nhekairo-v-department-of-homeland-security/",
       "recent_entries": [
         {
-          "date_filed": "2026-01-26",
+          "date_filed": "2026-01-27",
           "entry_number": null,
           "description": ""
         },
         {
-          "date_filed": "2026-01-15",
+          "date_filed": "2026-01-26",
           "entry_number": null,
-          "description": "APPROVAL by Clerks Office re: 6 APPLICATION for Admission of Jesse M. Bless Pro Hac Vice (Application fee $ 100, receipt number AGANDC-14922813). Attorney Jesse M. Bless added appearing on behalf of Mina Abbasi, Karen Abbaskhanian, Neman Abdoli, Sepehr Abdous, Mohammadhossein Abedinzadeh, Amirhesam Abedsoltan, Seyedalireza Abootorabi, Seyed Mohammad Aghigh, Iman Ahmadabadi, Hanie Ahmadi, Mohamad Ahmadzadeh, Ismail Ahmadzai, Nabil Alnazir Ahmed, Ali Akbari beni, Folarin Oluwanimbe Akinsiku, Mohammad Alali, Navid Etebari Alamdari, Nasrollah Alinejad, Salma Allafi, Neda Amanat, Kooshan Amini, Jose Jesus Antunes, Ehsan Arasteh, Neda Ghaeili Ardabili, Mojtaba Arezoomand, Hossein Mohasel Arjomandi, Razieh Armin, Aref Asghari, Malaika M C Ashcroft, Neginsadat Ashrafi, Mojtaba Amir Aslan Pour, Mohammad Azarifar, Ebrahim Azimi, Paniz Azizi, Pegah Azizi, Farzad Baghernezhad, Javad Bahrami, Shahryar Ramezani Bajgiran, Mohsen Moghadasi Barazandeh, Matin Barekatain, Alberto Barrios Barrios Gomez, Sadjad Fakouri Baygi, Mohammad Bazmi, Jehonett Janiw Blanco, Corina Beatriz Blondell Soto, Sara Momtaz Bokharaei, Mohsen Botlani-Esfahani, Shahin Boumi, Mahmood Chahari, Taha Sadeghi Chorsi, Marcela Janet Colmenares Amaya, Maryam Daniali, Ramin Zahedi Darshoori, Mahsa Darvishan, Mohammad Ali Dashtaki, Amir Davatgari, Dorsa Dayani, Farbod Dehghani, Khashayar Ebrahim-zadeh, Farzam Ebrahimnejad, Fernando Jose Eizaguirre Perez, Iman Ekramnosratian, Arash Elahi, Somayeh Nazari Enjedani, Romina Esbati, Ilia Chiniforooshan Esfahani, Shiva Hadi Esfahani, Amirali Eskandariyun, Narjes Esmaeili, Danial Ezzati, Ali Fahimniya, Forouzan Vasheghani Farahani, Mansour Toorani Farani, Soheil Farazi, Danial Qaurooni Fard, Mostafa Mohammadpour Fard, Farivar Fatehi, Ehsan Fayyazishishavan, Mohammad Fili, Luis Felipe Flores Kopp, Fahimeh Forouzeshfar, Maryam Fotouhi, Mona Gandomkar, Maryam Ghaed, Fatemeh Ghaheri, Shahaboddin Ghajari, Kiana Ghasemi, Maryam Ghasemi, Seyyed Mahmood Ghasemi, Ida Gheibi, Farnaz Ghorbani, Atefeh Gilani, Farzam Gilani, Hadis Moazami Goudarzi, Kamyar Goudarzi, Luis Leandro Granda Ontivero, Seyed Iman Habibi, Homa Haghighi, Masaoud Haidar, Roxcy Francis Hamby, Nikoo Hamzeh, Zainab Hanzakian, Elizabeth Dupe Hart, Nastaran Hasani, Neda Shafiabadi Hassani, Mohsen Hatami, Parisa Hatami, Behzad Hejrati, Hamed Hosseiny, Farideh Hosseinzadeh, Chukwuemeka Stanley Ikeri, Sanaz Imanlou, Muhammad Ahmad Issa, Mark Jabbour, Behafarid Mohammad Jafari, Elham Jafarzadeh, Sepehr Janghorbani, Seyed Mohammad Javad, Farshid Javadnejad, Mobin Yahyazadeh Jeloudar, Mahdi Kabiri, Faezeh Abbaspour Kaboudan, Aida Rahimi Kahmini, Mehrdad Karami, Anita Karimi, Hanie Karimi, Soheil Kavian, Seyyed Ali Ghorashi Khalili Abadi, Alireza Khalilian, Douangchay Khambounheuang, Parnia Khamooshi, Hamed Khanifar, Mohammad Mahdi Khavandi, Hossein Khodavirdi, Erfan Khoram, Reza Khorasani, Kimia Kiaei, Zahra Kolahchi, Hossein Rahmanian Kooshkaki, Soroush Korivand, Mohammadreza Kosari, Param Kumar, Khin Thiri Kyaw, Sina Layazali, Nazila Loghmani, Franky Jose Lopez Brito, Hamed Mahdavi, Vahid Mahdikhah, Nelie Marcelin, Jasmine Jean Mary, Ehsan Sheikholharam Mashhadi, Sasan Mazaheri, Goshtasb Shahriari Mehr, Behzad Mehrafrooz, Seyedamirhossein Mirtaleb, Maryam Moeinian, Neda Mohamadzadeh, Pouria Mohammadi, Reyhaneh Mohammadi, Ali Mohammadkhorasani, Shahriar Mohammadpour, Milad Razavi Mohseni, Sayedmohammadmahdi Vaez Momeni, Yasna Mortezaei, Moeen Mostafavi, Amir Motmaen, Ebrahimzadeh Mousavi, Negin Sadat Mousavi, Fatemehsadat Mousavinasab, Mohammad Movahed, Sara Movassaghi, Pouyan Nahed, Zahra Najafi, Maryam Najmi, Arash Namaeighasemi, Fargol Nematkhah, Ahmadreza Nezameslami, Natasha Gladys Nhekairo, Amir Hosein Sanjari Nia, Majid Mohammadi Nia, Seyed Reza Amini Niaki, Okere Nwachukwu, Stephanie Onyemowo Omakwu, Andres Eduardo Parra Barreto, Rose Pierre-Louis, Anahita Pilvar, Ali Banaei Pour, Ali Ghafouri Pourkermani, Adulin Prophete, Maan Qraitem, Hamed Rabbani, Hami Rabbani, Rozhan Rabbani, Pedram Rabiee, Ashkan Radnia, Zahra Rafiee, Amirkeyvan Rahimi, Roya Rajabi, Taha Rajabzadeh, Iman Rashidijouybari, Saba Ravaghi, Shayan Razi, Arash Rezaee, Leila Rezaei, Mohammad Rezaei, Mohammadreza Rezvani, Nasim Roshdieh, Saadi Rostami, Seyyedmohammadreza Rouhezamin, Leila Saberi, Marjan Sadeghi, Amirahmad Saeidi, Seyyedamirhossein Saeidi Saeidi, Faeze Safari, Safoura Salar, Elahheh Salari, Fatemeh Salehirad, Sahba Samadi, Pouya Samanipour, Mohammad Saneian, Mohammad Sarbaz, Ehsan Saremi, Kenneth Enrique Scope, Reza Sedghi, Seyedmahyar Sefidgaran, Maurice Seha, Ali Khosravani Semnani, Seyed Mehdi Seyedi, Amin Shafiee, Mohammadhossein Shafinia, Nahal Shahini, Morteza Momeni Shahraki, Razieh Bagheri Shahzadeh Aliakbari, Mohammad Mehdi Sharifi, Seyed Erfan Shayegani, Mohammad Shiri, Shirin Shoushtari, Shohreh Gholizadeh Siahmazgi, Zoraya Milagros Socorro Bonilla, Phadthakone Sophavilai, Saleh Valizadeh Sotubadi, Sima Darvishan St Paul, Seyed Mostafa Tabatabaei, Mahan Tabatabaie, Homa Taheri, Sanaz Taherzadeh, Mahdis Tajdari, Dorsa Talebi, Amirreza Tarafdar, Shahabeddin Abbaspour Tazehkand, Nastaran Alamgir Tehrani, Myat Thiha, Alireza Tojjari, Mahsa Sadat Torabi, Farzan Vahedifard, Sajad Vahedizade, Soroush Vahidi, Shiva Maleki Varnosfaderani, Hosein Yavarzadeh, Bardiya Ghaderi Yazdi, Abdul Rahman Yilla, Mahmoud Abouzid Younis, Mahkameh Mallah Zadeh, Marzieh Moradi Zaniani, Elham Zokaei. E-filing access may be requested after an order granting the application is entered. (jas)"
+          "description": "Submission of 5 Letter re:83.1 (Gregory Siskind has not applied for admission) to District Judge Steven D. Grimberg. (bgt)"
         },
         {
-          "date_filed": "2026-02-12",
+          "date_filed": "2026-03-10",
           "entry_number": null,
-          "description": "ORDER (contained in 17 ) granting 15 Motion for Extension of Time. Signed by Judge Steven D. Grimberg on 2/12/2026. (cpp)"
+          "description": "Submission of 12 MOTION for Preliminary Injunction, to District Judge Steven D. Grimberg. (dnb)"
         }
       ]
     },
@@ -1058,36 +1058,11 @@
       "id": 31,
       "name": "Awadelkarim v. USCIS Dir.",
       "court": "mied",
-      "docket": "4:26-cv-10735",
+      "docket_number": "4:26-cv-10735",
       "status": "PENDING",
-      "statusDetail": "",
       "stage": "Motion pending",
       "category": "Multiple",
-      "orderDate": null,
-      "filingDate": "Mar 3, 2026",
-      "hearingDate": null,
-      "summary": "",
-      "relief": null,
-      "plaintiffs": null,
-      "notable": false,
-      "courtlistener_url": "https://www.courtlistener.com/docket/72358654/awadelkarim-v-us-citizenship-and-immigration-services-director-of/",
-      "recent_entries": [
-        {
-          "date_filed": "2026-03-04",
-          "entry_number": null,
-          "description": "A United States Magistrate Judge of this Court is available to conduct all proceedings in this civil action in accordance with 28 U.S.C. 636c and FRCP 73. The Notice, Consent, and Reference of a Civil Action to a Magistrate Judge form is available for download at http://www.mied.uscourts.gov (MChr)"
-        },
-        {
-          "date_filed": "2026-03-04",
-          "entry_number": null,
-          "description": ""
-        },
-        {
-          "date_filed": "2026-06-04",
-          "entry_number": 19,
-          "description": ""
-        }
-      ]
+      "filingDate": "Mar 3, 2026"
     },
     {
       "id": 32,
@@ -1178,17 +1153,17 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/72260779/perez-v-united-states-citizenship-and-immigration-services-uscis/",
       "recent_entries": [
         {
-          "date_filed": "2026-02-24",
+          "date_filed": "2026-03-26",
           "entry_number": null,
           "description": ""
         },
         {
-          "date_filed": "2026-05-11",
+          "date_filed": "2026-02-13",
           "entry_number": null,
           "description": ""
         },
         {
-          "date_filed": "2026-03-18",
+          "date_filed": "2026-05-23",
           "entry_number": null,
           "description": ""
         }
