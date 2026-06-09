@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-06-08T18:43:32.661Z",
+  "lastUpdated": "2026-06-09T17:45:37.808Z",
   "source": "CourtListener REST API v4",
-  "failed_count": 1,
+  "failed_count": 0,
   "total": 42,
   "cases": [
     {
@@ -1058,11 +1058,36 @@
       "id": 31,
       "name": "Awadelkarim v. USCIS Dir.",
       "court": "mied",
-      "docket_number": "4:26-cv-10735",
+      "docket": "4:26-cv-10735",
       "status": "PENDING",
+      "statusDetail": "",
       "stage": "Motion pending",
       "category": "Multiple",
-      "filingDate": "Mar 3, 2026"
+      "orderDate": null,
+      "filingDate": "Mar 3, 2026",
+      "hearingDate": null,
+      "summary": "",
+      "relief": null,
+      "plaintiffs": null,
+      "notable": false,
+      "courtlistener_url": "https://www.courtlistener.com/docket/72358654/awadelkarim-v-us-citizenship-and-immigration-services-director-of/",
+      "recent_entries": [
+        {
+          "date_filed": "2026-03-04",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-03-04",
+          "entry_number": null,
+          "description": "A United States Magistrate Judge of this Court is available to conduct all proceedings in this civil action in accordance with 28 U.S.C. 636c and FRCP 73. The Notice, Consent, and Reference of a Civil Action to a Magistrate Judge form is available for download at http://www.mied.uscourts.gov (MChr)"
+        },
+        {
+          "date_filed": "2026-06-09",
+          "entry_number": 20,
+          "description": ""
+        }
+      ]
     },
     {
       "id": 32,
@@ -1118,12 +1143,12 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/73247163/doe-v-mullin/",
       "recent_entries": [
         {
-          "date_filed": "2026-05-29",
+          "date_filed": "2026-06-08",
           "entry_number": null,
           "description": ""
         },
         {
-          "date_filed": "2026-04-27",
+          "date_filed": "2026-06-09",
           "entry_number": null,
           "description": ""
         },
@@ -1233,8 +1258,8 @@
           "description": ""
         },
         {
-          "date_filed": "2026-06-02",
-          "entry_number": 20,
+          "date_filed": "2026-06-08",
+          "entry_number": 21,
           "description": ""
         }
       ]
