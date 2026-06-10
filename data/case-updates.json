@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-09T17:45:37.808Z",
+  "lastUpdated": "2026-06-10T18:51:07.597Z",
   "source": "CourtListener REST API v4",
   "failed_count": 0,
   "total": 42,
@@ -728,14 +728,14 @@
           "description": ""
         },
         {
-          "date_filed": "2026-05-29",
+          "date_filed": "2026-04-23",
           "entry_number": null,
           "description": ""
         },
         {
-          "date_filed": "2026-04-22",
+          "date_filed": "2026-05-05",
           "entry_number": null,
-          "description": "Deadline(s)/Hearing(s) terminated. PLEASE TAKE NOTICE that, in light of the referral of certain motions in this consolidated action to United States Magistrate Judge Yeney Hernandez, the hearing set for April 24, 2026, is hereby CANCELLED. (tms)"
+          "description": ""
         }
       ]
     },
@@ -898,7 +898,7 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/72213971/sarrafi-v-edlow/",
       "recent_entries": [
         {
-          "date_filed": "2026-02-19",
+          "date_filed": "2026-04-23",
           "entry_number": null,
           "description": ""
         },
@@ -908,7 +908,7 @@
           "description": "MINUTE ORDER. By April 27, 2026, the parties shall meet and confer, and file a joint status report stating their positions on consolidation of Plaintiffs' 7 motion for preliminary injunction with the merits and whether supplemental briefing is necessary in advance of a hearing. Signed by Judge Amir H. Ali on 4/23/2026. (lcaha2)"
         },
         {
-          "date_filed": "2026-04-23",
+          "date_filed": "2026-02-11",
           "entry_number": null,
           "description": ""
         }
@@ -1178,17 +1178,17 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/72260779/perez-v-united-states-citizenship-and-immigration-services-uscis/",
       "recent_entries": [
         {
+          "date_filed": "2026-05-20",
+          "entry_number": null,
+          "description": ""
+        },
+        {
           "date_filed": "2026-03-26",
           "entry_number": null,
           "description": ""
         },
         {
-          "date_filed": "2026-02-13",
-          "entry_number": null,
-          "description": ""
-        },
-        {
-          "date_filed": "2026-05-23",
+          "date_filed": "2026-03-04",
           "entry_number": null,
           "description": ""
         }
@@ -1250,16 +1250,16 @@
         {
           "date_filed": "2026-04-27",
           "entry_number": null,
-          "description": "CLERK'S NOTICE: In accordance with Federal Rule of Civil Procedure 73 and 28 U.S.C. 636(c), the parties are notified that if all parties consent, a United States magistrate judge of this court is available to conduct all proceedings in this civil action including a (jury or nonjury) trial and to order the entry of a final judgment. The form may be accessed at the following link: AO-085. The consent form should be filled out, signed and filed electronically only if all parties wish to consent. You may withhold your consent without adverse substantive consequences. Do NOT return or file the consent form unless all parties have signed the consent. (kk2)"
+          "description": ""
         },
         {
           "date_filed": "2026-04-27",
           "entry_number": null,
-          "description": ""
+          "description": "CLERK'S NOTICE: In accordance with Federal Rule of Civil Procedure 73 and 28 U.S.C. 636(c), the parties are notified that if all parties consent, a United States magistrate judge of this court is available to conduct all proceedings in this civil action including a (jury or nonjury) trial and to order the entry of a final judgment. The form may be accessed at the following link: AO-085. The consent form should be filled out, signed and filed electronically only if all parties wish to consent. You may withhold your consent without adverse substantive consequences. Do NOT return or file the consent form unless all parties have signed the consent. (kk2)"
         },
         {
-          "date_filed": "2026-06-08",
-          "entry_number": 21,
+          "date_filed": "2026-06-09",
+          "entry_number": 22,
           "description": ""
         }
       ]
