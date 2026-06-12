@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-11T19:06:39.270Z",
+  "lastUpdated": "2026-06-12T18:09:06.194Z",
   "source": "CourtListener REST API v4",
   "failed_count": 0,
   "total": 42,
@@ -408,17 +408,17 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/71996058/moradipari-v-edlow/",
       "recent_entries": [
         {
-          "date_filed": "2026-06-04",
-          "entry_number": null,
-          "description": ""
-        },
-        {
           "date_filed": "2026-02-03",
           "entry_number": null,
           "description": ""
         },
         {
-          "date_filed": "2026-05-06",
+          "date_filed": "2026-04-28",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-06-04",
           "entry_number": null,
           "description": ""
         }
@@ -688,6 +688,11 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/73254099/duru-v-mullin/",
       "recent_entries": [
         {
+          "date_filed": "2026-05-27",
+          "entry_number": null,
+          "description": "Motion Hearing set for 6/3/2026 at 10:00 AM in Alexandria Courtroom 900 before District Judge Anthony J. Trenga as to 15 Emergency MOTION for Permanent Injunction. (dzir)"
+        },
+        {
           "date_filed": "2026-04-28",
           "entry_number": null,
           "description": "Initial Case Assignment to District Judge Anthony J. Trenga and Magistrate Judge William E. Fitzpatrick. (triv)"
@@ -696,11 +701,6 @@
           "date_filed": "2026-05-11",
           "entry_number": null,
           "description": "Motion Hearing set for 5/27/2026 at 10:00 AM in Alexandria Courtroom 900 before District Judge Anthony J. Trenga as to 15 Emergency MOTION for Permanent Injunction. (dzir)"
-        },
-        {
-          "date_filed": "2026-05-27",
-          "entry_number": null,
-          "description": "Motion Hearing set for 6/3/2026 at 10:00 AM in Alexandria Courtroom 900 before District Judge Anthony J. Trenga as to 15 Emergency MOTION for Permanent Injunction. (dzir)"
         }
       ]
     },
@@ -933,19 +933,19 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/72369535/dorcas-international-institute-of-rhode-island-v-united-states-citizenship/",
       "recent_entries": [
         {
-          "date_filed": "2026-03-30",
-          "entry_number": null,
-          "description": "TEXT ORDER granting 18 Motion to Appear Pro Hac Vice of Abbey Rutherford. So Ordered by Chief Judge John J. McConnell, Jr. on 3/30/2026. (Hill, Cherelle)"
-        },
-        {
-          "date_filed": "2026-03-25",
+          "date_filed": "2026-06-12",
           "entry_number": null,
           "description": ""
         },
         {
-          "date_filed": "2026-03-30",
+          "date_filed": "2026-03-06",
           "entry_number": null,
-          "description": "TEXT ORDER granting 17 Motion to Appear Pro Hac Vice of Golnaz Fakhimi. So Ordered by Chief Judge John J. McConnell, Jr. on 3/30/2026. (Hill, Cherelle)"
+          "description": "TEXT ORDER granting 5 Motion to Appear Pro Hac Vice of Kevin Love Hubbard. So Ordered by Chief Judge John J. McConnell, Jr. on 3/6/2026. (Hill, Cherelle)"
+        },
+        {
+          "date_filed": "2026-04-27",
+          "entry_number": null,
+          "description": ""
         }
       ]
     },
@@ -968,7 +968,7 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/72244766/ortega-cortez-v-edlow/",
       "recent_entries": [
         {
-          "date_filed": "2026-02-09",
+          "date_filed": "2026-02-23",
           "entry_number": null,
           "description": ""
         },
@@ -978,7 +978,7 @@
           "description": "Set Deadlines as to DE 7 Plaintiff's MOTION for Preliminary Injunction . Responses due by 3/2/2026. Replies due by 3/6/2026. Per DE 11 . (cwc)"
         },
         {
-          "date_filed": "2026-02-25",
+          "date_filed": "2026-02-09",
           "entry_number": null,
           "description": ""
         }
@@ -1073,9 +1073,9 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/72358654/awadelkarim-v-us-citizenship-and-immigration-services-director-of/",
       "recent_entries": [
         {
-          "date_filed": "2026-03-04",
+          "date_filed": "2026-06-05",
           "entry_number": null,
-          "description": ""
+          "description": "Minute Entry for remote proceedings before District Judge F. Kay Behm: Status Conference held on 6/5/2026. Counsel to discuss and submit a proposed stipulated order with language outlining that the hold has been lifted, if the preliminary injunction is needed or moot, and that the agency will be moving the cases along. The proposed order and any objections or issues with the language in the proposed stipulation will be sent to the Court in an email to the Courts law clerk by the end of the day on Monday, June 8, 2026. (Court Reporter: None Present, Not on the Record) (KCol)"
         },
         {
           "date_filed": "2026-03-04",
@@ -1083,8 +1083,8 @@
           "description": "A United States Magistrate Judge of this Court is available to conduct all proceedings in this civil action in accordance with 28 U.S.C. 636c and FRCP 73. The Notice, Consent, and Reference of a Civil Action to a Magistrate Judge form is available for download at http://www.mied.uscourts.gov (MChr)"
         },
         {
-          "date_filed": "2026-06-09",
-          "entry_number": 20,
+          "date_filed": "2026-03-04",
+          "entry_number": null,
           "description": ""
         }
       ]
@@ -1143,12 +1143,12 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/73247163/doe-v-mullin/",
       "recent_entries": [
         {
-          "date_filed": "2026-06-08",
+          "date_filed": "2026-05-29",
           "entry_number": null,
           "description": ""
         },
         {
-          "date_filed": "2026-06-09",
+          "date_filed": "2026-06-08",
           "entry_number": null,
           "description": ""
         },
