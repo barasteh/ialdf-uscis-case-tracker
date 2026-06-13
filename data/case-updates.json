@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-12T18:09:06.194Z",
+  "lastUpdated": "2026-06-13T17:58:17.930Z",
   "source": "CourtListener REST API v4",
   "failed_count": 0,
   "total": 42,
@@ -373,19 +373,19 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/72502697/osman-v-us-citizenship-and-immigration-services-director-of/",
       "recent_entries": [
         {
-          "date_filed": "2026-04-01",
-          "entry_number": null,
-          "description": "TEXT-ONLY ORDER SETTING A BRIEFING SCHEDULE re 6 MOTION for Preliminary Injunction to Adjudicate I-131 Application for Advanced Parole filed by Sarah Osman, Ahmed Abubkr Ali Abubakr. ( Response due by 4/7/2026, Reply due by 4/10/2026). Signed by District Judge Shalina D. Kumar. (THal)"
-        },
-        {
-          "date_filed": "2026-04-01",
-          "entry_number": null,
-          "description": ""
-        },
-        {
           "date_filed": "2026-05-08",
           "entry_number": null,
           "description": ""
+        },
+        {
+          "date_filed": "2026-04-01",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-03-18",
+          "entry_number": null,
+          "description": "A United States Magistrate Judge of this Court is available to conduct all proceedings in this civil action in accordance with 28 U.S.C. 636c and FRCP 73. The Notice, Consent, and Reference of a Civil Action to a Magistrate Judge form is available for download at http://www.mied.uscourts.gov (MChr)"
         }
       ]
     },
@@ -898,7 +898,7 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/72213971/sarrafi-v-edlow/",
       "recent_entries": [
         {
-          "date_filed": "2026-04-23",
+          "date_filed": "2026-02-11",
           "entry_number": null,
           "description": ""
         },
@@ -908,7 +908,7 @@
           "description": "MINUTE ORDER. By April 27, 2026, the parties shall meet and confer, and file a joint status report stating their positions on consolidation of Plaintiffs' 7 motion for preliminary injunction with the merits and whether supplemental briefing is necessary in advance of a hearing. Signed by Judge Amir H. Ali on 4/23/2026. (lcaha2)"
         },
         {
-          "date_filed": "2026-02-11",
+          "date_filed": "2026-04-23",
           "entry_number": null,
           "description": ""
         }
@@ -933,17 +933,17 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/72369535/dorcas-international-institute-of-rhode-island-v-united-states-citizenship/",
       "recent_entries": [
         {
-          "date_filed": "2026-06-12",
+          "date_filed": "2026-03-05",
+          "entry_number": null,
+          "description": "Case assigned to Chief Judge John J. McConnell, Jr. and Magistrate Judge Patricia A. Sullivan. (Simoncelli, Michael)"
+        },
+        {
+          "date_filed": "2026-03-30",
           "entry_number": null,
           "description": ""
         },
         {
-          "date_filed": "2026-03-06",
-          "entry_number": null,
-          "description": "TEXT ORDER granting 5 Motion to Appear Pro Hac Vice of Kevin Love Hubbard. So Ordered by Chief Judge John J. McConnell, Jr. on 3/6/2026. (Hill, Cherelle)"
-        },
-        {
-          "date_filed": "2026-04-27",
+          "date_filed": "2026-03-17",
           "entry_number": null,
           "description": ""
         }
@@ -1080,12 +1080,12 @@
         {
           "date_filed": "2026-03-04",
           "entry_number": null,
-          "description": "A United States Magistrate Judge of this Court is available to conduct all proceedings in this civil action in accordance with 28 U.S.C. 636c and FRCP 73. The Notice, Consent, and Reference of a Civil Action to a Magistrate Judge form is available for download at http://www.mied.uscourts.gov (MChr)"
+          "description": ""
         },
         {
           "date_filed": "2026-03-04",
           "entry_number": null,
-          "description": ""
+          "description": "A United States Magistrate Judge of this Court is available to conduct all proceedings in this civil action in accordance with 28 U.S.C. 636c and FRCP 73. The Notice, Consent, and Reference of a Civil Action to a Magistrate Judge form is available for download at http://www.mied.uscourts.gov (MChr)"
         }
       ]
     },
@@ -1108,17 +1108,17 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/73180196/shahi-v-edlow/",
       "recent_entries": [
         {
-          "date_filed": "2026-05-04",
+          "date_filed": "2026-04-13",
           "entry_number": null,
           "description": ""
         },
         {
-          "date_filed": "2026-04-13",
+          "date_filed": "2026-04-30",
           "entry_number": null,
-          "description": "Electronic filing error re: 1 Complaint filed by Soroush Shahi, et al. Parties added to action incorrectly. Counsel is reminded NOT to add parties in all caps. For future reference, please refer to https://cand.uscourts.gov/ecf/caseopening. See Guide to E-Filing New Civil Cases (Section III.c - Case Opening Part II: Adding Parties; Data Entry Rules for Adding Parties). Corrected by Clerk's Office. No further action is necessary. (slh, COURT STAFF) (Filed on 4/13/2026)"
+          "description": ""
         },
         {
-          "date_filed": "2026-04-13",
+          "date_filed": "2026-04-23",
           "entry_number": null,
           "description": ""
         }
