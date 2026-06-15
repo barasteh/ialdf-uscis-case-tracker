@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-14T16:34:39.095Z",
+  "lastUpdated": "2026-06-15T13:45:01.476Z",
   "source": "CourtListener REST API v4",
   "failed_count": 0,
   "total": 42,
@@ -898,19 +898,19 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/72213971/sarrafi-v-edlow/",
       "recent_entries": [
         {
-          "date_filed": "2026-02-11",
-          "entry_number": null,
-          "description": ""
-        },
-        {
           "date_filed": "2026-04-23",
           "entry_number": null,
           "description": "MINUTE ORDER. By April 27, 2026, the parties shall meet and confer, and file a joint status report stating their positions on consolidation of Plaintiffs' 7 motion for preliminary injunction with the merits and whether supplemental briefing is necessary in advance of a hearing. Signed by Judge Amir H. Ali on 4/23/2026. (lcaha2)"
         },
         {
-          "date_filed": "2026-04-23",
+          "date_filed": "2026-04-01",
           "entry_number": null,
           "description": ""
+        },
+        {
+          "date_filed": "2026-02-02",
+          "entry_number": null,
+          "description": "Case Assigned to Judge Amir H. Ali. (znmw)"
         }
       ]
     },
