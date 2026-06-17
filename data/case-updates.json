@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-16T12:47:00.127Z",
+  "lastUpdated": "2026-06-17T12:36:53.727Z",
   "source": "CourtListener REST API v4",
   "failed_count": 0,
   "total": 42,
@@ -343,14 +343,14 @@
           "description": ""
         },
         {
-          "date_filed": "2026-06-04",
+          "date_filed": "2026-02-23",
           "entry_number": null,
           "description": ""
         },
         {
           "date_filed": "2026-06-04",
           "entry_number": null,
-          "description": "Electronic filing error. Doe defendant groups (e.g., Does 1-100) are prohibited at case opening. Corrections completed by clerk to remove Doe party(ies) from the docket.Corrected by Clerk's Office. No further action is necessary. Re: 1 Complaint, filed by Ashkan Pourabhari Langoudi, Zahra Shokri Varniab (mbc, COURT STAFF) (Filed on 6/4/2026)"
+          "description": ""
         }
       ]
     },
@@ -763,12 +763,12 @@
           "description": ""
         },
         {
-          "date_filed": "2026-05-21",
+          "date_filed": "2026-04-22",
           "entry_number": null,
           "description": ""
         },
         {
-          "date_filed": "2026-04-22",
+          "date_filed": "2026-05-21",
           "entry_number": null,
           "description": ""
         }
@@ -868,14 +868,14 @@
           "description": ""
         },
         {
+          "date_filed": "2026-06-16",
+          "entry_number": 24,
+          "description": ""
+        },
+        {
           "date_filed": "2026-06-04",
           "entry_number": 22,
           "description": "RESPONSE by defendants Darice Alvertos, Joseph B. Edlow, Kristi Noem to Order to Show Cause (Deadline) 21 Explaining Why They Did Not File An Answer After the Court's Ruling on Their Motion to Dismiss (Soanes, Sherry) Modified text on 6/4/2026 (ems). (Entered: 06/04/2026)"
-        },
-        {
-          "date_filed": "2026-06-03",
-          "entry_number": 21,
-          "description": "ORDER TO SHOW CAUSE: defendants to file answer or show cause by 6/17/2026; signed by Chief Judge Hala Y. Jarbou (aks) (Entered: 06/03/2026)"
         }
       ]
     },
@@ -1143,17 +1143,17 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/73247163/doe-v-mullin/",
       "recent_entries": [
         {
-          "date_filed": "2026-05-29",
-          "entry_number": null,
-          "description": ""
-        },
-        {
           "date_filed": "2026-06-08",
           "entry_number": null,
           "description": ""
         },
         {
-          "date_filed": "2026-05-20",
+          "date_filed": "2026-05-22",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-05-22",
           "entry_number": null,
           "description": ""
         }
