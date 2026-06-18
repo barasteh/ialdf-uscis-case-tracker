@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-17T12:36:53.727Z",
+  "lastUpdated": "2026-06-18T11:48:37.173Z",
   "source": "CourtListener REST API v4",
   "failed_count": 0,
   "total": 42,
@@ -233,12 +233,12 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/72071916/doe-v-trump/",
       "recent_entries": [
         {
-          "date_filed": "2025-12-23",
+          "date_filed": "2026-02-24",
           "entry_number": null,
           "description": ""
         },
         {
-          "date_filed": "2026-02-24",
+          "date_filed": "2025-12-23",
           "entry_number": null,
           "description": ""
         },
@@ -478,17 +478,17 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/73162983/salatin-v-edlow/",
       "recent_entries": [
         {
-          "date_filed": "2026-04-08",
+          "date_filed": "2026-04-29",
           "entry_number": null,
           "description": ""
         },
         {
-          "date_filed": "2026-04-08",
+          "date_filed": "2026-05-01",
           "entry_number": null,
           "description": ""
         },
         {
-          "date_filed": "2026-04-24",
+          "date_filed": "2026-06-17",
           "entry_number": null,
           "description": ""
         }
@@ -758,17 +758,17 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/72520267/franciscot-auguste-v-joseph-b-edlow/",
       "recent_entries": [
         {
-          "date_filed": "2026-04-27",
-          "entry_number": null,
-          "description": ""
-        },
-        {
-          "date_filed": "2026-04-22",
+          "date_filed": "2026-06-17",
           "entry_number": null,
           "description": ""
         },
         {
           "date_filed": "2026-05-21",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-03-20",
           "entry_number": null,
           "description": ""
         }
@@ -868,14 +868,14 @@
           "description": ""
         },
         {
-          "date_filed": "2026-06-16",
-          "entry_number": 24,
+          "date_filed": "2026-06-17",
+          "entry_number": 26,
           "description": ""
         },
         {
-          "date_filed": "2026-06-04",
-          "entry_number": 22,
-          "description": "RESPONSE by defendants Darice Alvertos, Joseph B. Edlow, Kristi Noem to Order to Show Cause (Deadline) 21 Explaining Why They Did Not File An Answer After the Court's Ruling on Their Motion to Dismiss (Soanes, Sherry) Modified text on 6/4/2026 (ems). (Entered: 06/04/2026)"
+          "date_filed": "2026-06-16",
+          "entry_number": 24,
+          "description": ""
         }
       ]
     },
