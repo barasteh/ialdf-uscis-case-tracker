@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-18T11:48:37.173Z",
+  "lastUpdated": "2026-06-19T11:58:58.364Z",
   "source": "CourtListener REST API v4",
   "failed_count": 0,
   "total": 42,
@@ -268,17 +268,17 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/72159407/behdin-v-edlow/",
       "recent_entries": [
         {
-          "date_filed": "2026-01-20",
+          "date_filed": "2026-03-03",
           "entry_number": null,
           "description": ""
         },
         {
-          "date_filed": "2026-04-16",
+          "date_filed": "2026-06-11",
           "entry_number": null,
           "description": ""
         },
         {
-          "date_filed": "2026-06-15",
+          "date_filed": "2026-04-20",
           "entry_number": null,
           "description": ""
         }
@@ -338,12 +338,7 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/72024394/shokri-varniab-v-edlow/",
       "recent_entries": [
         {
-          "date_filed": "2026-01-07",
-          "entry_number": null,
-          "description": ""
-        },
-        {
-          "date_filed": "2026-02-23",
+          "date_filed": "2026-06-04",
           "entry_number": null,
           "description": ""
         },
@@ -351,6 +346,11 @@
           "date_filed": "2026-06-04",
           "entry_number": null,
           "description": ""
+        },
+        {
+          "date_filed": "2026-06-04",
+          "entry_number": null,
+          "description": "Electronic filing error. Doe defendant groups (e.g., Does 1-100) are prohibited at case opening. Corrections completed by clerk to remove Doe party(ies) from the docket.Corrected by Clerk's Office. No further action is necessary. Re: 1 Complaint, filed by Ashkan Pourabhari Langoudi, Zahra Shokri Varniab (mbc, COURT STAFF) (Filed on 6/4/2026)"
         }
       ]
     },
@@ -583,17 +583,17 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/72122041/jane-doe-1-v-united-states-department-of-homeland-security/",
       "recent_entries": [
         {
+          "date_filed": "2026-01-08",
+          "entry_number": null,
+          "description": ""
+        },
+        {
           "date_filed": "2026-01-14",
           "entry_number": null,
           "description": ""
         },
         {
           "date_filed": "2026-04-24",
-          "entry_number": null,
-          "description": ""
-        },
-        {
-          "date_filed": "2026-01-08",
           "entry_number": null,
           "description": ""
         }
@@ -618,14 +618,14 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/72072464/flores-mora-v-edlow/",
       "recent_entries": [
         {
+          "date_filed": "2026-03-24",
+          "entry_number": null,
+          "description": "Motion Hearing set for 4/16/2026 at 10:00 AM in Alexandria Courtroom 801 before District Judge Patricia Tolliver Giles as to 9 MOTION for Preliminary Injunction and 16 MOTION to Dismiss for Lack of Jurisdiction and MOTION to Dismiss for Failure to State a Claim. (dzir)"
+        },
+        {
           "date_filed": "2026-04-02",
           "entry_number": null,
           "description": "Reset Deadlines as to 16 MOTION to Dismiss for Lack of Jurisdiction MOTION to Dismiss for Failure to State a Claim . Motion Hearing set for 4/17/2026 at 10:00 AM in Alexandria Courtroom 801 before District Judge Patricia Tolliver Giles. (pmil, )"
-        },
-        {
-          "date_filed": "2026-04-06",
-          "entry_number": null,
-          "description": "Set/Reset Deadlines as to 9 MOTION for Preliminary Injunction. Motion Hearing RESET for 4/17/2026 at 10:00 AM in Alexandria Courtroom 801 before District Judge Patricia Tolliver Giles. (yguy)"
         },
         {
           "date_filed": "2026-04-15",
@@ -898,19 +898,19 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/72213971/sarrafi-v-edlow/",
       "recent_entries": [
         {
+          "date_filed": "2026-06-10",
+          "entry_number": null,
+          "description": ""
+        },
+        {
           "date_filed": "2026-04-23",
           "entry_number": null,
           "description": "MINUTE ORDER. By April 27, 2026, the parties shall meet and confer, and file a joint status report stating their positions on consolidation of Plaintiffs' 7 motion for preliminary injunction with the merits and whether supplemental briefing is necessary in advance of a hearing. Signed by Judge Amir H. Ali on 4/23/2026. (lcaha2)"
         },
         {
-          "date_filed": "2026-04-01",
+          "date_filed": "2026-02-11",
           "entry_number": null,
           "description": ""
-        },
-        {
-          "date_filed": "2026-02-02",
-          "entry_number": null,
-          "description": "Case Assigned to Judge Amir H. Ali. (znmw)"
         }
       ]
     },
@@ -1113,12 +1113,12 @@
           "description": ""
         },
         {
-          "date_filed": "2026-04-30",
+          "date_filed": "2026-05-01",
           "entry_number": null,
           "description": ""
         },
         {
-          "date_filed": "2026-04-23",
+          "date_filed": "2026-04-30",
           "entry_number": null,
           "description": ""
         }
@@ -1143,17 +1143,17 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/73247163/doe-v-mullin/",
       "recent_entries": [
         {
-          "date_filed": "2026-06-08",
+          "date_filed": "2026-05-29",
           "entry_number": null,
           "description": ""
         },
         {
-          "date_filed": "2026-05-22",
+          "date_filed": "2026-05-29",
           "entry_number": null,
           "description": ""
         },
         {
-          "date_filed": "2026-05-22",
+          "date_filed": "2026-06-09",
           "entry_number": null,
           "description": ""
         }
