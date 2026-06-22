@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-21T11:07:38.292Z",
+  "lastUpdated": "2026-06-22T13:27:37.943Z",
   "source": "CourtListener REST API v4",
   "failed_count": 0,
   "total": 42,
@@ -343,14 +343,14 @@
           "description": ""
         },
         {
-          "date_filed": "2026-02-23",
-          "entry_number": null,
-          "description": ""
-        },
-        {
           "date_filed": "2026-06-04",
           "entry_number": null,
           "description": "Electronic filing error. Doe defendant groups (e.g., Does 1-100) are prohibited at case opening. Corrections completed by clerk to remove Doe party(ies) from the docket.Corrected by Clerk's Office. No further action is necessary. Re: 1 Complaint, filed by Ashkan Pourabhari Langoudi, Zahra Shokri Varniab (mbc, COURT STAFF) (Filed on 6/4/2026)"
+        },
+        {
+          "date_filed": "2026-02-23",
+          "entry_number": null,
+          "description": ""
         }
       ]
     },
