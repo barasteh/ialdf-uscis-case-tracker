@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-28T10:31:07.481Z",
+  "lastUpdated": "2026-06-29T12:24:49.195Z",
   "source": "CourtListener REST API v4",
   "failed_count": 0,
   "total": 42,
@@ -233,17 +233,17 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/72071916/doe-v-trump/",
       "recent_entries": [
         {
-          "date_filed": "2026-06-02",
-          "entry_number": null,
-          "description": ""
-        },
-        {
           "date_filed": "2026-02-24",
           "entry_number": null,
           "description": ""
         },
         {
-          "date_filed": "2026-02-12",
+          "date_filed": "2026-06-02",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-06-02",
           "entry_number": null,
           "description": ""
         }
@@ -483,12 +483,12 @@
           "description": ""
         },
         {
-          "date_filed": "2026-05-01",
+          "date_filed": "2026-04-08",
           "entry_number": null,
           "description": ""
         },
         {
-          "date_filed": "2026-06-17",
+          "date_filed": "2026-05-01",
           "entry_number": null,
           "description": ""
         }
