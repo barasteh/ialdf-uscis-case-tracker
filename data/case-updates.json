@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-07-02T10:34:34.989Z",
+  "lastUpdated": "2026-07-03T10:38:33.405Z",
   "source": "CourtListener REST API v4",
-  "failed_count": 0,
+  "failed_count": 1,
   "total": 42,
   "cases": [
     {
@@ -23,7 +23,7 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/72378700/meschi-v-edlow/",
       "recent_entries": [
         {
-          "date_filed": "2026-03-16",
+          "date_filed": "2026-03-09",
           "entry_number": null,
           "description": ""
         },
@@ -243,7 +243,7 @@
           "description": ""
         },
         {
-          "date_filed": "2026-06-02",
+          "date_filed": "2026-02-12",
           "entry_number": null,
           "description": ""
         }
@@ -358,36 +358,16 @@
       "id": 11,
       "name": "Osman v. USCIS",
       "court": "mied",
-      "docket": "2:26-cv-10886",
+      "docket_number": "2:26-cv-10886",
       "status": "SETBACK",
       "statusDetail": "PI denied on irreparable harm",
       "stage": "PI denied Apr 15 (Judge Kumar)",
       "category": "Travel Document (I-131)",
       "orderDate": "Apr. 15, 2026",
       "filingDate": "Mar 17, 2026",
-      "hearingDate": null,
       "summary": "PI denied on irreparable-harm grounds; court did not reach APA merits. Plaintiff sought I-131 only.",
-      "relief": null,
       "plaintiffs": 1,
-      "notable": true,
-      "courtlistener_url": "https://www.courtlistener.com/docket/72502697/osman-v-us-citizenship-and-immigration-services-director-of/",
-      "recent_entries": [
-        {
-          "date_filed": "2026-05-08",
-          "entry_number": null,
-          "description": ""
-        },
-        {
-          "date_filed": "2026-04-01",
-          "entry_number": null,
-          "description": ""
-        },
-        {
-          "date_filed": "2026-03-18",
-          "entry_number": null,
-          "description": "A United States Magistrate Judge of this Court is available to conduct all proceedings in this civil action in accordance with 28 U.S.C. 636c and FRCP 73. The Notice, Consent, and Reference of a Civil Action to a Magistrate Judge form is available for download at http://www.mied.uscourts.gov (MChr)"
-        }
-      ]
+      "notable": true
     },
     {
       "id": 12,
@@ -408,17 +388,17 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/71996058/moradipari-v-edlow/",
       "recent_entries": [
         {
-          "date_filed": "2026-02-03",
+          "date_filed": "2026-06-04",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-05-06",
           "entry_number": null,
           "description": ""
         },
         {
           "date_filed": "2026-04-28",
-          "entry_number": null,
-          "description": ""
-        },
-        {
-          "date_filed": "2026-06-04",
           "entry_number": null,
           "description": ""
         }
@@ -583,17 +563,17 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/72122041/jane-doe-1-v-united-states-department-of-homeland-security/",
       "recent_entries": [
         {
-          "date_filed": "2026-04-24",
-          "entry_number": null,
-          "description": ""
-        },
-        {
           "date_filed": "2026-06-26",
           "entry_number": null,
           "description": ""
         },
         {
           "date_filed": "2026-01-14",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-04-24",
           "entry_number": null,
           "description": ""
         }
@@ -1283,17 +1263,17 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/72537405/travieso-v-edlow/",
       "recent_entries": [
         {
-          "date_filed": "2026-03-24",
+          "date_filed": "2026-04-08",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-07-02",
           "entry_number": null,
           "description": ""
         },
         {
           "date_filed": "2026-04-17",
-          "entry_number": null,
-          "description": ""
-        },
-        {
-          "date_filed": "2026-04-08",
           "entry_number": null,
           "description": ""
         }
