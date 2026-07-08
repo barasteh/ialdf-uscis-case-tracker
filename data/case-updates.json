@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-07T11:03:19.456Z",
+  "lastUpdated": "2026-07-08T08:49:09.494Z",
   "source": "CourtListener REST API v4",
   "failed_count": 1,
   "total": 42,
@@ -493,17 +493,17 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/72095863/gharibi-v-edlow/",
       "recent_entries": [
         {
-          "date_filed": "2025-12-31",
-          "entry_number": null,
-          "description": "RECEIPT number ACAEDC-12715087 for the filing fee in the amount of $405.00 paid on 12/31/2025 by Curtis Lee Morrison. (Deputy Clerk CRM)"
-        },
-        {
-          "date_filed": "2026-03-09",
+          "date_filed": "2026-04-23",
           "entry_number": null,
           "description": ""
         },
         {
-          "date_filed": "2026-05-21",
+          "date_filed": "2026-07-07",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-03-09",
           "entry_number": null,
           "description": ""
         }
@@ -568,12 +568,12 @@
           "description": ""
         },
         {
-          "date_filed": "2026-01-14",
+          "date_filed": "2026-04-24",
           "entry_number": null,
           "description": ""
         },
         {
-          "date_filed": "2026-04-24",
+          "date_filed": "2026-01-14",
           "entry_number": null,
           "description": ""
         }
@@ -1158,12 +1158,12 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/72260779/perez-v-united-states-citizenship-and-immigration-services-uscis/",
       "recent_entries": [
         {
-          "date_filed": "2026-03-26",
+          "date_filed": "2026-05-20",
           "entry_number": null,
           "description": ""
         },
         {
-          "date_filed": "2026-02-13",
+          "date_filed": "2026-03-04",
           "entry_number": null,
           "description": ""
         },
@@ -1403,7 +1403,7 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/73294391/hedayati-v-edlow/",
       "recent_entries": [
         {
-          "date_filed": "2026-06-01",
+          "date_filed": "2026-05-05",
           "entry_number": null,
           "description": ""
         },
