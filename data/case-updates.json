@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-10T09:58:00.245Z",
+  "lastUpdated": "2026-07-11T08:17:05.516Z",
   "source": "CourtListener REST API v4",
   "failed_count": 1,
   "total": 42,
@@ -23,7 +23,7 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/72378700/meschi-v-edlow/",
       "recent_entries": [
         {
-          "date_filed": "2026-03-09",
+          "date_filed": "2026-04-09",
           "entry_number": null,
           "description": ""
         },
@@ -33,7 +33,7 @@
           "description": ""
         },
         {
-          "date_filed": "2026-04-09",
+          "date_filed": "2026-03-09",
           "entry_number": null,
           "description": ""
         }
@@ -93,17 +93,17 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/72192698/bowser-v-noem/",
       "recent_entries": [
         {
+          "date_filed": "2026-01-27",
+          "entry_number": null,
+          "description": ""
+        },
+        {
           "date_filed": "2026-02-11",
           "entry_number": null,
           "description": ""
         },
         {
-          "date_filed": "2026-06-24",
-          "entry_number": null,
-          "description": ""
-        },
-        {
-          "date_filed": "2026-03-24",
+          "date_filed": "2026-07-10",
           "entry_number": null,
           "description": ""
         }
@@ -238,7 +238,7 @@
           "description": ""
         },
         {
-          "date_filed": "2026-02-13",
+          "date_filed": "2026-02-11",
           "entry_number": null,
           "description": ""
         },
@@ -1088,17 +1088,17 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/73180196/shahi-v-edlow/",
       "recent_entries": [
         {
-          "date_filed": "2026-07-09",
+          "date_filed": "2026-04-13",
           "entry_number": null,
           "description": ""
         },
         {
-          "date_filed": "2026-05-01",
+          "date_filed": "2026-04-23",
           "entry_number": null,
           "description": ""
         },
         {
-          "date_filed": "2026-04-30",
+          "date_filed": "2026-04-13",
           "entry_number": null,
           "description": ""
         }
@@ -1158,17 +1158,17 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/72260779/perez-v-united-states-citizenship-and-immigration-services-uscis/",
       "recent_entries": [
         {
-          "date_filed": "2026-05-20",
+          "date_filed": "2026-06-07",
           "entry_number": null,
           "description": ""
         },
         {
-          "date_filed": "2026-03-04",
+          "date_filed": "2026-03-18",
           "entry_number": null,
           "description": ""
         },
         {
-          "date_filed": "2026-05-11",
+          "date_filed": "2026-02-13",
           "entry_number": null,
           "description": ""
         }
@@ -1228,9 +1228,9 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/73231930/doe-1-v-edlow/",
       "recent_entries": [
         {
-          "date_filed": "2026-04-27",
+          "date_filed": "2026-07-10",
           "entry_number": null,
-          "description": "CLERK'S NOTICE: In accordance with Federal Rule of Civil Procedure 73 and 28 U.S.C. 636(c), the parties are notified that if all parties consent, a United States magistrate judge of this court is available to conduct all proceedings in this civil action including a (jury or nonjury) trial and to order the entry of a final judgment. The form may be accessed at the following link: AO-085. The consent form should be filled out, signed and filed electronically only if all parties wish to consent. You may withhold your consent without adverse substantive consequences. Do NOT return or file the consent form unless all parties have signed the consent. (kk2)"
+          "description": ""
         },
         {
           "date_filed": "2026-04-27",
@@ -1238,9 +1238,9 @@
           "description": ""
         },
         {
-          "date_filed": "2026-07-08",
-          "entry_number": 25,
-          "description": "NOTICE by Defendants Joseph B. Edlow, Markwayne Mullin Notice of Compliance (Tieger, Adam) (Entered: 07/08/2026)"
+          "date_filed": "2026-04-27",
+          "entry_number": null,
+          "description": "CLERK'S NOTICE: In accordance with Federal Rule of Civil Procedure 73 and 28 U.S.C. 636(c), the parties are notified that if all parties consent, a United States magistrate judge of this court is available to conduct all proceedings in this civil action including a (jury or nonjury) trial and to order the entry of a final judgment. The form may be accessed at the following link: AO-085. The consent form should be filled out, signed and filed electronically only if all parties wish to consent. You may withhold your consent without adverse substantive consequences. Do NOT return or file the consent form unless all parties have signed the consent. (kk2)"
         }
       ]
     },
@@ -1263,7 +1263,7 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/72537405/travieso-v-edlow/",
       "recent_entries": [
         {
-          "date_filed": "2026-04-08",
+          "date_filed": "2026-03-24",
           "entry_number": null,
           "description": ""
         },
@@ -1403,7 +1403,7 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/73294391/hedayati-v-edlow/",
       "recent_entries": [
         {
-          "date_filed": "2026-05-05",
+          "date_filed": "2026-06-01",
           "entry_number": null,
           "description": ""
         },
