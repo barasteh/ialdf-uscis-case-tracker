@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-12T08:36:40.910Z",
+  "lastUpdated": "2026-07-13T09:50:27.276Z",
   "source": "CourtListener REST API v4",
   "failed_count": 1,
   "total": 42,
@@ -1053,14 +1053,14 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/72358654/awadelkarim-v-us-citizenship-and-immigration-services-director-of/",
       "recent_entries": [
         {
-          "date_filed": "2026-06-05",
-          "entry_number": null,
-          "description": "Minute Entry for remote proceedings before District Judge F. Kay Behm: Status Conference held on 6/5/2026. Counsel to discuss and submit a proposed stipulated order with language outlining that the hold has been lifted, if the preliminary injunction is needed or moot, and that the agency will be moving the cases along. The proposed order and any objections or issues with the language in the proposed stipulation will be sent to the Court in an email to the Courts law clerk by the end of the day on Monday, June 8, 2026. (Court Reporter: None Present, Not on the Record) (KCol)"
-        },
-        {
           "date_filed": "2026-03-04",
           "entry_number": null,
           "description": ""
+        },
+        {
+          "date_filed": "2026-06-05",
+          "entry_number": null,
+          "description": "Minute Entry for remote proceedings before District Judge F. Kay Behm: Status Conference held on 6/5/2026. Counsel to discuss and submit a proposed stipulated order with language outlining that the hold has been lifted, if the preliminary injunction is needed or moot, and that the agency will be moving the cases along. The proposed order and any objections or issues with the language in the proposed stipulation will be sent to the Court in an email to the Courts law clerk by the end of the day on Monday, June 8, 2026. (Court Reporter: None Present, Not on the Record) (KCol)"
         },
         {
           "date_filed": "2026-03-04",
