@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-13T09:50:27.276Z",
+  "lastUpdated": "2026-07-14T08:29:53.065Z",
   "source": "CourtListener REST API v4",
   "failed_count": 1,
   "total": 42,
@@ -563,7 +563,7 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/72122041/jane-doe-1-v-united-states-department-of-homeland-security/",
       "recent_entries": [
         {
-          "date_filed": "2026-06-26",
+          "date_filed": "2026-01-14",
           "entry_number": null,
           "description": ""
         },
@@ -573,7 +573,7 @@
           "description": ""
         },
         {
-          "date_filed": "2026-01-14",
+          "date_filed": "2026-01-08",
           "entry_number": null,
           "description": ""
         }
@@ -633,7 +633,7 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/72532589/sadighi-v-edlow/",
       "recent_entries": [
         {
-          "date_filed": "2026-04-17",
+          "date_filed": "2026-06-15",
           "entry_number": null,
           "description": ""
         },
@@ -878,19 +878,19 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/72213971/sarrafi-v-edlow/",
       "recent_entries": [
         {
-          "date_filed": "2026-04-23",
-          "entry_number": null,
-          "description": "MINUTE ORDER. By April 27, 2026, the parties shall meet and confer, and file a joint status report stating their positions on consolidation of Plaintiffs' 7 motion for preliminary injunction with the merits and whether supplemental briefing is necessary in advance of a hearing. Signed by Judge Amir H. Ali on 4/23/2026. (lcaha2)"
-        },
-        {
           "date_filed": "2026-06-30",
           "entry_number": null,
           "description": ""
         },
         {
-          "date_filed": "2026-04-01",
+          "date_filed": "2026-04-23",
           "entry_number": null,
-          "description": "MINUTE ORDER. Defendants' 17 consent motion to stay deadline for responding to Plaintiffs' complaint is granted. Defendants shall answer or otherwise respond to the complaint within 30 days of the court's decision on the motion for preliminary injunction. Signed by Judge Amir H. Ali on 4/1/2026. (lcaha1)"
+          "description": "MINUTE ORDER. By April 27, 2026, the parties shall meet and confer, and file a joint status report stating their positions on consolidation of Plaintiffs' 7 motion for preliminary injunction with the merits and whether supplemental briefing is necessary in advance of a hearing. Signed by Judge Amir H. Ali on 4/23/2026. (lcaha2)"
+        },
+        {
+          "date_filed": "2026-04-29",
+          "entry_number": null,
+          "description": "MINUTE ORDER. The court will hold a hearing on Plaintiffs' 7 motion for preliminary injunction on May 12, 2026, at 2:00 p.m. in Courtroom 19. The parties should be prepared for the court to construe Plaintiffs' 7 motion as a motion for summary judgment and Defendants' 14 opposition as a cross-motion for summary judgment. Signed by Judge Amir H. Ali on 4/29/2026. (lcaha2)"
         }
       ]
     },
@@ -1088,12 +1088,12 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/73180196/shahi-v-edlow/",
       "recent_entries": [
         {
-          "date_filed": "2026-04-13",
+          "date_filed": "2026-04-30",
           "entry_number": null,
           "description": ""
         },
         {
-          "date_filed": "2026-04-23",
+          "date_filed": "2026-07-09",
           "entry_number": null,
           "description": ""
         },
