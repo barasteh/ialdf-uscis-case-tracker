@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-07-15T08:36:06.445Z",
+  "lastUpdated": "2026-07-16T08:34:14.132Z",
   "source": "CourtListener REST API v4",
-  "failed_count": 2,
+  "failed_count": 1,
   "total": 42,
   "cases": [
     {
@@ -633,12 +633,12 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/72532589/sadighi-v-edlow/",
       "recent_entries": [
         {
-          "date_filed": "2026-04-09",
+          "date_filed": "2026-07-09",
           "entry_number": null,
           "description": ""
         },
         {
-          "date_filed": "2026-07-09",
+          "date_filed": "2026-07-14",
           "entry_number": null,
           "description": ""
         },
@@ -673,14 +673,14 @@
           "description": "Motion Hearing set for 6/3/2026 at 10:00 AM in Alexandria Courtroom 900 before District Judge Anthony J. Trenga as to 15 Emergency MOTION for Permanent Injunction. (dzir)"
         },
         {
-          "date_filed": "2026-04-28",
-          "entry_number": null,
-          "description": "Initial Case Assignment to District Judge Anthony J. Trenga and Magistrate Judge William E. Fitzpatrick. (triv)"
-        },
-        {
           "date_filed": "2026-05-11",
           "entry_number": null,
           "description": "Motion Hearing set for 5/27/2026 at 10:00 AM in Alexandria Courtroom 900 before District Judge Anthony J. Trenga as to 15 Emergency MOTION for Permanent Injunction. (dzir)"
+        },
+        {
+          "date_filed": "2026-04-28",
+          "entry_number": null,
+          "description": "Initial Case Assignment to District Judge Anthony J. Trenga and Magistrate Judge William E. Fitzpatrick. (triv)"
         }
       ]
     },
@@ -773,12 +773,12 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/71978036/fuenmayor-perozo-v-director-of-us-citizenship-and-immigration-services/",
       "recent_entries": [
         {
-          "date_filed": "2026-03-09",
+          "date_filed": "2026-07-14",
           "entry_number": null,
           "description": ""
         },
         {
-          "date_filed": "2025-12-05",
+          "date_filed": "2026-03-09",
           "entry_number": null,
           "description": ""
         },
@@ -913,17 +913,17 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/72369535/dorcas-international-institute-of-rhode-island-v-united-states-citizenship/",
       "recent_entries": [
         {
-          "date_filed": "2026-05-05",
+          "date_filed": "2026-05-21",
           "entry_number": null,
-          "description": "NOTICE of Hearing on 20 MOTION for Summary Judgment and 21 Cross-MOTION for Summary Judgment: Motion Hearing scheduled for Thursday 5/21/2026 at 2:00 PM in Courtroom 1 before Chief Judge John J. McConnell, Jr. (Jackson, Ryan)"
+          "description": ""
         },
         {
-          "date_filed": "2026-07-06",
+          "date_filed": "2026-07-14",
           "entry_number": null,
-          "description": "HEARING CANCELLED: Motion Hearing scheduled for Wednesday 7/8/2026 at 11:00 AM in Courtroom 1 before Chief Judge John J. McConnell, Jr. is cancelled, and will be rescheduled. (Simoncelli, Michael)"
+          "description": ""
         },
         {
-          "date_filed": "2026-03-30",
+          "date_filed": "2026-03-06",
           "entry_number": null,
           "description": ""
         }
@@ -948,7 +948,7 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/72244766/ortega-cortez-v-edlow/",
       "recent_entries": [
         {
-          "date_filed": "2026-02-25",
+          "date_filed": "2026-07-15",
           "entry_number": null,
           "description": ""
         },
@@ -1073,11 +1073,36 @@
       "id": 32,
       "name": "Shahi v. Edlow",
       "court": "cand",
-      "docket_number": "5:26-cv-03113",
+      "docket": "5:26-cv-03113",
       "status": "PENDING",
+      "statusDetail": "",
       "stage": "Motion pending",
       "category": "Multiple",
-      "filingDate": "Apr 12, 2026"
+      "orderDate": null,
+      "filingDate": "Apr 12, 2026",
+      "hearingDate": null,
+      "summary": "",
+      "relief": null,
+      "plaintiffs": null,
+      "notable": false,
+      "courtlistener_url": "https://www.courtlistener.com/docket/73180196/shahi-v-edlow/",
+      "recent_entries": [
+        {
+          "date_filed": "2026-05-01",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-04-13",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-04-13",
+          "entry_number": null,
+          "description": ""
+        }
+      ]
     },
     {
       "id": 33,
