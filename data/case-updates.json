@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-16T08:34:14.132Z",
+  "lastUpdated": "2026-07-17T08:30:35.297Z",
   "source": "CourtListener REST API v4",
   "failed_count": 1,
   "total": 42,
@@ -138,8 +138,8 @@
           "description": "FILING FEE PAID for new civil case. Receipt No. ACACDC-42036588 for $405 filing fee. (Tusken, Michael)"
         },
         {
-          "date_filed": "2026-07-14",
-          "entry_number": 25,
+          "date_filed": "2026-07-16",
+          "entry_number": 26,
           "description": ""
         }
       ]
@@ -338,17 +338,17 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/72024394/shokri-varniab-v-edlow/",
       "recent_entries": [
         {
-          "date_filed": "2026-02-23",
-          "entry_number": null,
-          "description": ""
-        },
-        {
           "date_filed": "2026-06-04",
           "entry_number": null,
           "description": "Electronic filing error. Doe defendant groups (e.g., Does 1-100) are prohibited at case opening. Corrections completed by clerk to remove Doe party(ies) from the docket.Corrected by Clerk's Office. No further action is necessary. Re: 1 Complaint, filed by Ashkan Pourabhari Langoudi, Zahra Shokri Varniab (mbc, COURT STAFF) (Filed on 6/4/2026)"
         },
         {
-          "date_filed": "2026-01-05",
+          "date_filed": "2026-06-04",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-02-23",
           "entry_number": null,
           "description": ""
         }
@@ -533,12 +533,12 @@
           "description": ""
         },
         {
-          "date_filed": "2026-05-09",
+          "date_filed": "2026-05-11",
           "entry_number": null,
           "description": ""
         },
         {
-          "date_filed": "2026-05-11",
+          "date_filed": "2026-07-06",
           "entry_number": null,
           "description": ""
         }
@@ -948,7 +948,7 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/72244766/ortega-cortez-v-edlow/",
       "recent_entries": [
         {
-          "date_filed": "2026-07-15",
+          "date_filed": "2026-02-25",
           "entry_number": null,
           "description": ""
         },
