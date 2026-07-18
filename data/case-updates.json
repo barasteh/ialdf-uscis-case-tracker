@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-17T08:30:35.297Z",
+  "lastUpdated": "2026-07-18T08:12:30.475Z",
   "source": "CourtListener REST API v4",
   "failed_count": 1,
   "total": 42,
@@ -1158,17 +1158,17 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/72260779/perez-v-united-states-citizenship-and-immigration-services-uscis/",
       "recent_entries": [
         {
+          "date_filed": "2026-02-24",
+          "entry_number": null,
+          "description": ""
+        },
+        {
           "date_filed": "2026-03-18",
           "entry_number": null,
           "description": ""
         },
         {
-          "date_filed": "2026-05-11",
-          "entry_number": null,
-          "description": ""
-        },
-        {
-          "date_filed": "2026-06-07",
+          "date_filed": "2026-05-23",
           "entry_number": null,
           "description": ""
         }
