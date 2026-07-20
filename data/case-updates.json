@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-07-19T08:37:52.127Z",
+  "lastUpdated": "2026-07-20T09:39:15.110Z",
   "source": "CourtListener REST API v4",
-  "failed_count": 2,
+  "failed_count": 1,
   "total": 42,
   "cases": [
     {
@@ -388,7 +388,7 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/71996058/moradipari-v-edlow/",
       "recent_entries": [
         {
-          "date_filed": "2026-06-04",
+          "date_filed": "2026-02-03",
           "entry_number": null,
           "description": ""
         },
@@ -398,7 +398,7 @@
           "description": ""
         },
         {
-          "date_filed": "2026-04-28",
+          "date_filed": "2026-06-09",
           "entry_number": null,
           "description": ""
         }
@@ -1318,11 +1318,36 @@
       "id": 39,
       "name": "Raji v. DHS",
       "court": "mdd",
-      "docket_number": "1:26-cv-01798",
+      "docket": "1:26-cv-01798",
       "status": "PENDING",
+      "statusDetail": "",
       "stage": "Recently filed",
       "category": "Multiple",
-      "filingDate": "May 6, 2026"
+      "orderDate": null,
+      "filingDate": "May 6, 2026",
+      "hearingDate": null,
+      "summary": "",
+      "relief": null,
+      "plaintiffs": null,
+      "notable": false,
+      "courtlistener_url": "https://www.courtlistener.com/docket/73306500/raji-v-department-of-homeland-security/",
+      "recent_entries": [
+        {
+          "date_filed": "2026-05-06",
+          "entry_number": 4,
+          "description": "CASE MANAGEMENT ORDER. Signed by Judge Theodore D. Chuang on 5/6/2026. (kb3s, Deputy Clerk) (Entered: 05/07/2026)"
+        },
+        {
+          "date_filed": "2026-05-07",
+          "entry_number": 3,
+          "description": "Summons Issued 60 days as to Department of Homeland Security,, United States Citizenship and Immigration Services, U.S. Attorney and U.S. Attorney General (Attachments: # 1 Summons, # 2 Summons, # 3 Summons)(kb3s, Deputy Clerk) (Entered: 05/07/2026)"
+        },
+        {
+          "date_filed": "2026-05-06",
+          "entry_number": 2,
+          "description": "MOTION for Leave to File Excess Pages for Complaint by Moujab Choukeife, Yao Koffi, Zainab Kehinde Raji, Abdalrhman Ahmed Dogorshom Abdalla, Abdulaziz Abdullah A Ahmed, Mahyar Alinejad, Saeed Arasteh, Siavash Asadian, Kamiar Asgari, Htet Thadar Aung, Mehrnaz Azarian, Mohsen Homes Babaee, Sina Bahraminejad, Fatemeh Bakhshalizadeh, Abdullah Hasan Balbaid, Pedram Bazrafshan, Amirhosein Begmohammadi, Ramin Safarpour Behbahani, Rafael Cardenas Castillo, David Cookey-Gam, Fahimeh Dehghandehnavi, Ayodeji Olutosin Ejiade, Emadeldeen M Ahmed Elgwairi, Mohammed Elnur, Chidera Duanne Anita Eluwa, Fakhreddin Emami, Hadi Esfandi, Saeedeh Ezzati, Motahareh Shafiei Fard, Ganjkhanloo Fardin, Khalil Fayad, Adithan Ganesh, Mehran Ganji, Arshia Gharagozlou, Veronica Astrid Moreno Gomez, Navid Haddad, Mohammad Jabbari Hagh, Farnaz Fahimi Hanzaei, Poya Harirchi, Alireza Hosseini, Ali Jahanaray, Mohammad Mussadiq Jalalzai, Sara Kamali, Farshid Kassaei, Farzaneh Khalili, Babak Esmaeili Kojabadi, Rossmary Del Valle Marquez Lameda, Livesay Bernadet Luwaile, Mohammad Reza Lavaei Mashhadi, Pedram Mohajeransari, Yassin Mahmoud Mohamed, Seyed Pedrum Jalali Mosallam, Tatenda Andrew Mudyanadzo, Samira Naeem, Hanieh Najafi, Zahra Nazarimehrvarani, Savalan Naser Neisary, Mehran Nadjarbashi Noghani, Mohsen Alizadeh Noghani, Eseoghene Obaruvwe, Eniola Zainab Otukoya, Ali Sattari Pirsoltan, Arya Pourtabatabaie, Jaime Jesus Rodriguez Quinones, Hadi Rahmati, Mahkameh Rasouli, Seyedsajjad Abdollahpour Razkenari, Jesus Daniel Salazar Rodriguez, Iman Sadri, Daniel Salami, Amir Salarpour, Mohammad Faraz Samavat, Pouria Sanjari, Hakeem Sanusi, Ahmad Sarlak, Wartburg Theological Seminary, Samin Semsar, Sara Shafieian, Negin Shamshiri, Bahareh Tajdini, Hossein Moradi Talkhouncheh, Adib Manzari Tavakoli, Sewanu Anjolaoluwa Toyon, Alejandra Carolina Uptain, Joel Prez Vargas, Alireza Aminoroaya Yamini, Fatemeh Yousefian, Somayeh Zeinalilathori(Kuck, Charles) (Entered: 05/06/2026)"
+        }
+      ]
     },
     {
       "id": 40,
