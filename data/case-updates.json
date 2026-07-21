@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-07-20T09:39:15.110Z",
+  "lastUpdated": "2026-07-21T08:57:45.717Z",
   "source": "CourtListener REST API v4",
-  "failed_count": 1,
+  "failed_count": 2,
   "total": 42,
   "cases": [
     {
@@ -423,19 +423,19 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/72130486/nhekairo-v-department-of-homeland-security/",
       "recent_entries": [
         {
-          "date_filed": "2026-06-22",
+          "date_filed": "2026-05-12",
           "entry_number": null,
-          "description": "Submission of 53 MOTION for Temporary Restraining Order, 56 Response in Opposition to Motion,, to District Judge Steven D. Grimberg. (dnb)"
+          "description": "Submission of 29 MOTION to Dismiss for improper venue, no standing, no jurisdiction, and failure to state a claim, to District Judge Steven D. Grimberg. (dnb)"
         },
         {
-          "date_filed": "2026-01-23",
+          "date_filed": "2026-01-27",
           "entry_number": null,
-          "description": ""
+          "description": "Clerk's Certificate of E-Mailing to Zachery Ryan New re 10 Order on Application for Admission PHV. (dnb)"
         },
         {
-          "date_filed": "2026-01-23",
+          "date_filed": "2026-03-16",
           "entry_number": null,
-          "description": "APPROVAL by Clerks Office re: 9 APPLICATION for Admission of Zachery Ryan New Pro Hac Vice (Application fee $ 100, receipt number AGANDC-14943852). Attorney Zachary New added appearing on behalf of Mina Abbasi, Karen Abbaskhanian, Neman Abdoli, Sepehr Abdous, Mohammadhossein Abedinzadeh, Amirhesam Abedsoltan, Seyedalireza Abootorabi, Seyed Mohammad Aghigh, Iman Ahmadabadi, Hanie Ahmadi, Mohamad Ahmadzadeh, Ismail Ahmadzai, Nabil Alnazir Ahmed, Ali Akbari beni, Folarin Oluwanimbe Akinsiku, Mohammad Alali, Navid Etebari Alamdari, Nasrollah Alinejad, Salma Allafi, Neda Amanat, Kooshan Amini, Jose Jesus Antunes, Ehsan Arasteh, Neda Ghaeili Ardabili, Mojtaba Arezoomand, Hossein Mohasel Arjomandi, Razieh Armin, Aref Asghari, Malaika M C Ashcroft, Neginsadat Ashrafi, Mojtaba Amir Aslan Pour, Mohammad Azarifar, Ebrahim Azimi, Paniz Azizi, Pegah Azizi, Farzad Baghernezhad, Javad Bahrami, Shahryar Ramezani Bajgiran, Mohsen Moghadasi Barazandeh, Matin Barekatain, Alberto Barrios Barrios Gomez, Sadjad Fakouri Baygi, Mohammad Bazmi, Jehonett Janiw Blanco, Corina Beatriz Blondell Soto, Sara Momtaz Bokharaei, Mohsen Botlani-Esfahani, Shahin Boumi, Mahmood Chahari, Taha Sadeghi Chorsi, Marcela Janet Colmenares Amaya, Maryam Daniali, Ramin Zahedi Darshoori, Mahsa Darvishan, Mohammad Ali Dashtaki, Amir Davatgari, Dorsa Dayani, Farbod Dehghani, Khashayar Ebrahim-zadeh, Farzam Ebrahimnejad, Fernando Jose Eizaguirre Perez, Iman Ekramnosratian, Arash Elahi, Somayeh Nazari Enjedani, Romina Esbati, Ilia Chiniforooshan Esfahani, Shiva Hadi Esfahani, Amirali Eskandariyun, Narjes Esmaeili, Danial Ezzati, Ali Fahimniya, Forouzan Vasheghani Farahani, Mansour Toorani Farani, Soheil Farazi, Danial Qaurooni Fard, Mostafa Mohammadpour Fard, Farivar Fatehi, Ehsan Fayyazishishavan, Mohammad Fili, Luis Felipe Flores Kopp, Fahimeh Forouzeshfar, Maryam Fotouhi, Mona Gandomkar, Maryam Ghaed, Fatemeh Ghaheri, Shahaboddin Ghajari, Kiana Ghasemi, Maryam Ghasemi, Seyyed Mahmood Ghasemi, Ida Gheibi, Farnaz Ghorbani, Atefeh Gilani, Farzam Gilani, Hadis Moazami Goudarzi, Kamyar Goudarzi, Luis Leandro Granda Ontivero, Seyed Iman Habibi, Homa Haghighi, Masaoud Haidar, Roxcy Francis Hamby, Nikoo Hamzeh, Zainab Hanzakian, Elizabeth Dupe Hart, Nastaran Hasani, Neda Shafiabadi Hassani, Mohsen Hatami, Parisa Hatami, Behzad Hejrati, Hamed Hosseiny, Farideh Hosseinzadeh, Chukwuemeka Stanley Ikeri, Sanaz Imanlou, Muhammad Ahmad Issa, Mark Jabbour, Behafarid Mohammad Jafari, Elham Jafarzadeh, Sepehr Janghorbani, Seyed Mohammad Javad, Farshid Javadnejad, Mobin Yahyazadeh Jeloudar, Mahdi Kabiri, Faezeh Abbaspour Kaboudan, Aida Rahimi Kahmini, Mehrdad Karami, Anita Karimi, Hanie Karimi, Soheil Kavian, Seyyed Ali Ghorashi Khalili Abadi, Alireza Khalilian, Douangchay Khambounheuang, Parnia Khamooshi, Hamed Khanifar, Mohammad Mahdi Khavandi, Hossein Khodavirdi, Erfan Khoram, Reza Khorasani, Kimia Kiaei, Zahra Kolahchi, Hossein Rahmanian Kooshkaki, Soroush Korivand, Mohammadreza Kosari, Param Kumar, Khin Thiri Kyaw, Sina Layazali, Nazila Loghmani, Franky Jose Lopez Brito, Hamed Mahdavi, Vahid Mahdikhah, Nelie Marcelin, Jasmine Jean Mary, Ehsan Sheikholharam Mashhadi, Sasan Mazaheri, Goshtasb Shahriari Mehr, Behzad Mehrafrooz, Seyedamirhossein Mirtaleb, Maryam Moeinian, Neda Mohamadzadeh, Pouria Mohammadi, Reyhaneh Mohammadi, Ali Mohammadkhorasani, Shahriar Mohammadpour, Milad Razavi Mohseni, Sayedmohammadmahdi Vaez Momeni, Yasna Mortezaei, Moeen Mostafavi, Amir Motmaen, Ebrahimzadeh Mousavi, Negin Sadat Mousavi, Fatemehsadat Mousavinasab, Mohammad Movahed, Sara Movassaghi, Pouyan Nahed, Zahra Najafi, Maryam Najmi, Arash Namaeighasemi, Fargol Nematkhah, Ahmadreza Nezameslami, Natasha Gladys Nhekairo, Amir Hosein Sanjari Nia, Majid Mohammadi Nia, Seyed Reza Amini Niaki, Okere Nwachukwu, Stephanie Onyemowo Omakwu, Andres Eduardo Parra Barreto, Rose Pierre-Louis, Anahita Pilvar, Ali Banaei Pour, Ali Ghafouri Pourkermani, Adulin Prophete, Maan Qraitem, Hamed Rabbani, Hami Rabbani, Rozhan Rabbani, Pedram Rabiee, Ashkan Radnia, Zahra Rafiee, Amirkeyvan Rahimi, Roya Rajabi, Taha Rajabzadeh, Iman Rashidijouybari, Saba Ravaghi, Shayan Razi, Arash Rezaee, Leila Rezaei, Mohammad Rezaei, Mohammadreza Rezvani, Nasim Roshdieh, Saadi Rostami, Seyyedmohammadreza Rouhezamin, Leila Saberi, Marjan Sadeghi, Amirahmad Saeidi, Seyyedamirhossein Saeidi Saeidi, Faeze Safari, Safoura Salar, Elahheh Salari, Fatemeh Salehirad, Sahba Samadi, Pouya Samanipour, Mohammad Saneian, Mohammad Sarbaz, Ehsan Saremi, Kenneth Enrique Scope, Reza Sedghi, Seyedmahyar Sefidgaran, Maurice Seha, Ali Khosravani Semnani, Seyed Mehdi Seyedi, Amin Shafiee, Mohammadhossein Shafinia, Nahal Shahini, Morteza Momeni Shahraki, Razieh Bagheri Shahzadeh Aliakbari, Mohammad Mehdi Sharifi, Seyed Erfan Shayegani, Mohammad Shiri, Shirin Shoushtari, Shohreh Gholizadeh Siahmazgi, Zoraya Milagros Socorro Bonilla, Phadthakone Sophavilai, Saleh Valizadeh Sotubadi, Sima Darvishan St Paul, Seyed Mostafa Tabatabaei, Mahan Tabatabaie, Homa Taheri, Sanaz Taherzadeh, Mahdis Tajdari, Dorsa Talebi, Amirreza Tarafdar, Shahabeddin Abbaspour Tazehkand, Nastaran Alamgir Tehrani, Myat Thiha, Alireza Tojjari, Mahsa Sadat Torabi, Farzan Vahedifard, Sajad Vahedizade, Soroush Vahidi, Shiva Maleki Varnosfaderani, Hosein Yavarzadeh, Bardiya Ghaderi Yazdi, Abdul Rahman Yilla, Mahmoud Abouzid Younis, Mahkameh Mallah Zadeh, Marzieh Moradi Zaniani, Elham Zokaei. E-filing access may be requested after an order granting the application is entered. (esr)"
+          "description": "Clerk's Certificate of Mailing to Gregory Siskind re 23 Order Allowing Audio/Visual/Electronic Equipment in the Courtroom. (jkb)"
         }
       ]
     },
@@ -793,36 +793,11 @@
       "id": 24,
       "name": "Ahua v. Edlow",
       "court": "cod",
-      "docket": "1:26-cv-00487",
+      "docket_number": "1:26-cv-00487",
       "status": "PENDING",
-      "statusDetail": "",
       "stage": "Motion pending",
       "category": "Multiple",
-      "orderDate": null,
-      "filingDate": "Feb 8, 2026",
-      "hearingDate": null,
-      "summary": "",
-      "relief": null,
-      "plaintiffs": null,
-      "notable": false,
-      "courtlistener_url": "https://www.courtlistener.com/docket/72247855/ahua-v-edlow/",
-      "recent_entries": [
-        {
-          "date_filed": "2026-03-05",
-          "entry_number": null,
-          "description": ""
-        },
-        {
-          "date_filed": "2026-02-18",
-          "entry_number": null,
-          "description": ""
-        },
-        {
-          "date_filed": "2026-03-06",
-          "entry_number": null,
-          "description": ""
-        }
-      ]
+      "filingDate": "Feb 8, 2026"
     },
     {
       "id": 25,
@@ -878,19 +853,19 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/72213971/sarrafi-v-edlow/",
       "recent_entries": [
         {
-          "date_filed": "2026-06-30",
-          "entry_number": null,
-          "description": ""
-        },
-        {
           "date_filed": "2026-04-23",
           "entry_number": null,
           "description": "MINUTE ORDER. By April 27, 2026, the parties shall meet and confer, and file a joint status report stating their positions on consolidation of Plaintiffs' 7 motion for preliminary injunction with the merits and whether supplemental briefing is necessary in advance of a hearing. Signed by Judge Amir H. Ali on 4/23/2026. (lcaha2)"
         },
         {
-          "date_filed": "2026-04-29",
+          "date_filed": "2026-06-30",
           "entry_number": null,
-          "description": "MINUTE ORDER. The court will hold a hearing on Plaintiffs' 7 motion for preliminary injunction on May 12, 2026, at 2:00 p.m. in Courtroom 19. The parties should be prepared for the court to construe Plaintiffs' 7 motion as a motion for summary judgment and Defendants' 14 opposition as a cross-motion for summary judgment. Signed by Judge Amir H. Ali on 4/29/2026. (lcaha2)"
+          "description": ""
+        },
+        {
+          "date_filed": "2026-04-01",
+          "entry_number": null,
+          "description": "MINUTE ORDER. Defendants' 17 consent motion to stay deadline for responding to Plaintiffs' complaint is granted. Defendants shall answer or otherwise respond to the complaint within 30 days of the court's decision on the motion for preliminary injunction. Signed by Judge Amir H. Ali on 4/1/2026. (lcaha1)"
         }
       ]
     },
@@ -1158,7 +1133,7 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/72260779/perez-v-united-states-citizenship-and-immigration-services-uscis/",
       "recent_entries": [
         {
-          "date_filed": "2026-02-24",
+          "date_filed": "2026-02-13",
           "entry_number": null,
           "description": ""
         },
@@ -1168,7 +1143,7 @@
           "description": ""
         },
         {
-          "date_filed": "2026-05-23",
+          "date_filed": "2026-02-13",
           "entry_number": null,
           "description": ""
         }
