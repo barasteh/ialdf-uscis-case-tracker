@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-07-21T08:57:45.717Z",
+  "lastUpdated": "2026-07-22T08:48:11.967Z",
   "source": "CourtListener REST API v4",
-  "failed_count": 2,
+  "failed_count": 1,
   "total": 42,
   "cases": [
     {
@@ -633,17 +633,17 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/72532589/sadighi-v-edlow/",
       "recent_entries": [
         {
-          "date_filed": "2026-07-09",
-          "entry_number": null,
-          "description": ""
-        },
-        {
           "date_filed": "2026-07-14",
           "entry_number": null,
           "description": ""
         },
         {
-          "date_filed": "2026-04-17",
+          "date_filed": "2026-07-09",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-03-23",
           "entry_number": null,
           "description": ""
         }
@@ -793,11 +793,36 @@
       "id": 24,
       "name": "Ahua v. Edlow",
       "court": "cod",
-      "docket_number": "1:26-cv-00487",
+      "docket": "1:26-cv-00487",
       "status": "PENDING",
+      "statusDetail": "",
       "stage": "Motion pending",
       "category": "Multiple",
-      "filingDate": "Feb 8, 2026"
+      "orderDate": null,
+      "filingDate": "Feb 8, 2026",
+      "hearingDate": null,
+      "summary": "",
+      "relief": null,
+      "plaintiffs": null,
+      "notable": false,
+      "courtlistener_url": "https://www.courtlistener.com/docket/72247855/ahua-v-edlow/",
+      "recent_entries": [
+        {
+          "date_filed": "2026-03-05",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-02-18",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-03-06",
+          "entry_number": null,
+          "description": ""
+        }
+      ]
     },
     {
       "id": 25,
