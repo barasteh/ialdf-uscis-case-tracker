@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-22T08:48:11.967Z",
+  "lastUpdated": "2026-07-23T08:49:42.412Z",
   "source": "CourtListener REST API v4",
   "failed_count": 1,
   "total": 42,
@@ -233,17 +233,17 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/72071916/doe-v-trump/",
       "recent_entries": [
         {
+          "date_filed": "2026-06-02",
+          "entry_number": null,
+          "description": ""
+        },
+        {
           "date_filed": "2026-02-24",
           "entry_number": null,
           "description": ""
         },
         {
-          "date_filed": "2026-02-09",
-          "entry_number": null,
-          "description": ""
-        },
-        {
-          "date_filed": "2026-02-13",
+          "date_filed": "2026-03-05",
           "entry_number": null,
           "description": ""
         }
@@ -813,12 +813,12 @@
           "description": ""
         },
         {
-          "date_filed": "2026-02-18",
+          "date_filed": "2026-03-06",
           "entry_number": null,
           "description": ""
         },
         {
-          "date_filed": "2026-03-06",
+          "date_filed": "2026-02-18",
           "entry_number": null,
           "description": ""
         }
@@ -848,13 +848,13 @@
           "description": ""
         },
         {
-          "date_filed": "2026-07-09",
-          "entry_number": 29,
+          "date_filed": "2026-07-22",
+          "entry_number": 30,
           "description": ""
         },
         {
-          "date_filed": "2026-07-08",
-          "entry_number": 28,
+          "date_filed": "2026-07-09",
+          "entry_number": 29,
           "description": ""
         }
       ]
@@ -878,19 +878,19 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/72213971/sarrafi-v-edlow/",
       "recent_entries": [
         {
-          "date_filed": "2026-04-23",
-          "entry_number": null,
-          "description": "MINUTE ORDER. By April 27, 2026, the parties shall meet and confer, and file a joint status report stating their positions on consolidation of Plaintiffs' 7 motion for preliminary injunction with the merits and whether supplemental briefing is necessary in advance of a hearing. Signed by Judge Amir H. Ali on 4/23/2026. (lcaha2)"
-        },
-        {
           "date_filed": "2026-06-30",
           "entry_number": null,
           "description": ""
         },
         {
-          "date_filed": "2026-04-01",
+          "date_filed": "2026-04-23",
           "entry_number": null,
-          "description": "MINUTE ORDER. Defendants' 17 consent motion to stay deadline for responding to Plaintiffs' complaint is granted. Defendants shall answer or otherwise respond to the complaint within 30 days of the court's decision on the motion for preliminary injunction. Signed by Judge Amir H. Ali on 4/1/2026. (lcaha1)"
+          "description": "MINUTE ORDER. By April 27, 2026, the parties shall meet and confer, and file a joint status report stating their positions on consolidation of Plaintiffs' 7 motion for preliminary injunction with the merits and whether supplemental briefing is necessary in advance of a hearing. Signed by Judge Amir H. Ali on 4/23/2026. (lcaha2)"
+        },
+        {
+          "date_filed": "2026-04-29",
+          "entry_number": null,
+          "description": "MINUTE ORDER. The court will hold a hearing on Plaintiffs' 7 motion for preliminary injunction on May 12, 2026, at 2:00 p.m. in Courtroom 19. The parties should be prepared for the court to construe Plaintiffs' 7 motion as a motion for summary judgment and Defendants' 14 opposition as a cross-motion for summary judgment. Signed by Judge Amir H. Ali on 4/29/2026. (lcaha2)"
         }
       ]
     },
