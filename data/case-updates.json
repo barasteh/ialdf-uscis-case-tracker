@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-24T08:45:41.393Z",
+  "lastUpdated": "2026-07-25T08:26:20.696Z",
   "source": "CourtListener REST API v4",
   "failed_count": 1,
   "total": 42,
@@ -808,7 +808,7 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/72247855/ahua-v-edlow/",
       "recent_entries": [
         {
-          "date_filed": "2026-03-05",
+          "date_filed": "2026-04-14",
           "entry_number": null,
           "description": ""
         },
@@ -818,7 +818,7 @@
           "description": ""
         },
         {
-          "date_filed": "2026-02-18",
+          "date_filed": "2026-07-24",
           "entry_number": null,
           "description": ""
         }
@@ -1123,17 +1123,17 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/73247163/doe-v-mullin/",
       "recent_entries": [
         {
+          "date_filed": "2026-05-29",
+          "entry_number": null,
+          "description": ""
+        },
+        {
           "date_filed": "2026-05-20",
           "entry_number": null,
           "description": ""
         },
         {
           "date_filed": "2026-05-29",
-          "entry_number": null,
-          "description": ""
-        },
-        {
-          "date_filed": "2026-06-24",
           "entry_number": null,
           "description": ""
         }
@@ -1158,17 +1158,17 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/72260779/perez-v-united-states-citizenship-and-immigration-services-uscis/",
       "recent_entries": [
         {
-          "date_filed": "2026-05-23",
+          "date_filed": "2026-05-11",
           "entry_number": null,
           "description": ""
         },
         {
-          "date_filed": "2026-03-18",
+          "date_filed": "2026-07-14",
           "entry_number": null,
           "description": ""
         },
         {
-          "date_filed": "2026-02-13",
+          "date_filed": "2026-07-24",
           "entry_number": null,
           "description": ""
         }
