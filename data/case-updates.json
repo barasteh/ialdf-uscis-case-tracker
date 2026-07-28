@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-27T10:13:00.033Z",
+  "lastUpdated": "2026-07-28T08:55:25.238Z",
   "source": "CourtListener REST API v4",
   "failed_count": 1,
   "total": 42,
@@ -845,17 +845,17 @@
         {
           "date_filed": "2025-10-25",
           "entry_number": null,
+          "description": "FILING FEE PAID re 1 by plaintiff Naseer Bahaduri in the amount of $405, receipt number AMIWDC-7848016 (Abrutyn, Russell)"
+        },
+        {
+          "date_filed": "2025-10-25",
+          "entry_number": null,
           "description": ""
         },
         {
-          "date_filed": "2026-07-23",
-          "entry_number": 31,
-          "description": ""
-        },
-        {
-          "date_filed": "2026-07-22",
-          "entry_number": 30,
-          "description": ""
+          "date_filed": "2025-12-04",
+          "entry_number": null,
+          "description": "(NON-DOCUMENT) ATTORNEY APPEARANCE of Sherry Soanes on behalf of defendants Darice Alvertos, Joseph B. Edlow, Kristi Noem (Soanes, Sherry)"
         }
       ]
     },
@@ -1015,7 +1015,7 @@
       "relief": null,
       "plaintiffs": null,
       "notable": false,
-      "courtlistener_url": "https://www.courtlistener.com/docket/69695790/doe-v-noem/",
+      "courtlistener_url": "https://www.courtlistener.com/docket/69695790/doe-v-mullin/",
       "recent_entries": [
         {
           "date_filed": "2025-08-11",
@@ -1128,12 +1128,12 @@
           "description": ""
         },
         {
-          "date_filed": "2026-05-20",
+          "date_filed": "2026-07-27",
           "entry_number": null,
           "description": ""
         },
         {
-          "date_filed": "2026-05-29",
+          "date_filed": "2026-05-20",
           "entry_number": null,
           "description": ""
         }
