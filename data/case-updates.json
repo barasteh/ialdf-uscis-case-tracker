@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-29T08:59:39.923Z",
+  "lastUpdated": "2026-07-30T08:50:12.418Z",
   "source": "CourtListener REST API v4",
   "failed_count": 1,
   "total": 42,
@@ -703,7 +703,7 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/72384352/empc-v-secretary-of-homeland-security/",
       "recent_entries": [
         {
-          "date_filed": "2026-05-29",
+          "date_filed": "2026-06-23",
           "entry_number": null,
           "description": ""
         },
@@ -713,7 +713,7 @@
           "description": ""
         },
         {
-          "date_filed": "2026-05-13",
+          "date_filed": "2026-06-26",
           "entry_number": null,
           "description": ""
         }
