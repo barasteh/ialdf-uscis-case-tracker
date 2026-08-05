@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-04T08:58:23.945Z",
+  "lastUpdated": "2026-08-05T08:55:32.483Z",
   "source": "CourtListener REST API v4",
   "failed_count": 1,
   "total": 42,
@@ -388,17 +388,17 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/71996058/moradipari-v-edlow/",
       "recent_entries": [
         {
-          "date_filed": "2026-02-03",
+          "date_filed": "2026-08-04",
           "entry_number": null,
           "description": ""
         },
         {
-          "date_filed": "2026-05-06",
+          "date_filed": "2025-12-04",
           "entry_number": null,
           "description": ""
         },
         {
-          "date_filed": "2026-06-09",
+          "date_filed": "2025-12-04",
           "entry_number": null,
           "description": ""
         }
@@ -493,7 +493,7 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/72095863/gharibi-v-edlow/",
       "recent_entries": [
         {
-          "date_filed": "2026-04-23",
+          "date_filed": "2026-04-09",
           "entry_number": null,
           "description": ""
         },
@@ -703,17 +703,17 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/72384352/empc-v-secretary-of-homeland-security/",
       "recent_entries": [
         {
-          "date_filed": "2026-05-29",
+          "date_filed": "2026-04-23",
           "entry_number": null,
           "description": ""
         },
         {
-          "date_filed": "2026-05-29",
+          "date_filed": "2026-05-13",
           "entry_number": null,
           "description": ""
         },
         {
-          "date_filed": "2026-06-26",
+          "date_filed": "2026-04-23",
           "entry_number": null,
           "description": ""
         }
@@ -1403,17 +1403,17 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/73294391/hedayati-v-edlow/",
       "recent_entries": [
         {
+          "date_filed": "2026-05-05",
+          "entry_number": null,
+          "description": ""
+        },
+        {
           "date_filed": "2026-05-22",
           "entry_number": null,
           "description": ""
         },
         {
-          "date_filed": "2026-06-30",
-          "entry_number": null,
-          "description": ""
-        },
-        {
-          "date_filed": "2026-05-05",
+          "date_filed": "2026-06-01",
           "entry_number": null,
           "description": ""
         }
@@ -1438,11 +1438,6 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/73215129/yazdan-pouri-v-united-states-department-of-homeland-security/",
       "recent_entries": [
         {
-          "date_filed": "2026-05-12",
-          "entry_number": null,
-          "description": ""
-        },
-        {
           "date_filed": "2026-05-18",
           "entry_number": null,
           "description": ""
@@ -1450,7 +1445,12 @@
         {
           "date_filed": "2026-05-11",
           "entry_number": null,
-          "description": "MINUTE ORDER: In light of Plaintiff's 4 Motion for a Preliminary Injunction, the parties are ORDERED to meet and confer and file a Joint Status Report by 5/12/2026 regarding a proposed briefing schedule and proposed dates for a hearing, should the court decide one is appropriate. Signed by Judge Tanya S. Chutkan on 5/11/2026. (lcjb)"
+          "description": ""
+        },
+        {
+          "date_filed": "2026-05-12",
+          "entry_number": null,
+          "description": ""
         }
       ]
     }
