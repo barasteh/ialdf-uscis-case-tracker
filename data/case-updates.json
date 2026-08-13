@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-12T08:49:14.088Z",
+  "lastUpdated": "2026-08-13T08:51:26.921Z",
   "source": "CourtListener REST API v4",
   "failed_count": 1,
   "total": 42,
@@ -138,8 +138,8 @@
           "description": "FILING FEE PAID for new civil case. Receipt No. ACACDC-42036588 for $405 filing fee. (Tusken, Michael)"
         },
         {
-          "date_filed": "2026-08-10",
-          "entry_number": 31,
+          "date_filed": "2026-08-12",
+          "entry_number": 33,
           "description": ""
         }
       ]
@@ -393,12 +393,12 @@
           "description": ""
         },
         {
-          "date_filed": "2026-08-04",
+          "date_filed": "2026-04-28",
           "entry_number": null,
           "description": ""
         },
         {
-          "date_filed": "2026-05-06",
+          "date_filed": "2026-06-04",
           "entry_number": null,
           "description": ""
         }
@@ -633,12 +633,12 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/72532589/sadighi-v-edlow/",
       "recent_entries": [
         {
-          "date_filed": "2026-07-14",
+          "date_filed": "2026-04-27",
           "entry_number": null,
           "description": ""
         },
         {
-          "date_filed": "2026-07-09",
+          "date_filed": "2026-04-17",
           "entry_number": null,
           "description": ""
         },
@@ -703,19 +703,19 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/72384352/empc-v-secretary-of-homeland-security/",
       "recent_entries": [
         {
-          "date_filed": "2026-05-13",
-          "entry_number": null,
-          "description": ""
-        },
-        {
           "date_filed": "2026-04-23",
           "entry_number": null,
           "description": ""
         },
         {
-          "date_filed": "2026-03-10",
+          "date_filed": "2026-05-13",
           "entry_number": null,
           "description": ""
+        },
+        {
+          "date_filed": "2026-04-22",
+          "entry_number": null,
+          "description": "Deadline(s)/Hearing(s) terminated. PLEASE TAKE NOTICE that, in light of the referral of certain motions in this consolidated action to United States Magistrate Judge Yeney Hernandez, the hearing set for April 24, 2026, is hereby CANCELLED. (tms)"
         }
       ]
     },
@@ -1263,7 +1263,7 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/72537405/travieso-v-edlow/",
       "recent_entries": [
         {
-          "date_filed": "2026-04-08",
+          "date_filed": "2026-04-17",
           "entry_number": null,
           "description": ""
         },
