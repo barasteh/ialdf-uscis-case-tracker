@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-15T07:56:48.538Z",
+  "lastUpdated": "2026-08-16T07:58:18.092Z",
   "source": "CourtListener REST API v4",
   "failed_count": 1,
   "total": 42,
@@ -340,15 +340,15 @@
         {
           "date_filed": "2026-06-04",
           "entry_number": null,
-          "description": "Electronic filing error. Doe defendant groups (e.g., Does 1-100) are prohibited at case opening. Corrections completed by clerk to remove Doe party(ies) from the docket.Corrected by Clerk's Office. No further action is necessary. Re: 1 Complaint, filed by Ashkan Pourabhari Langoudi, Zahra Shokri Varniab (mbc, COURT STAFF) (Filed on 6/4/2026)"
+          "description": ""
         },
         {
           "date_filed": "2026-06-04",
           "entry_number": null,
-          "description": ""
+          "description": "Electronic filing error. Doe defendant groups (e.g., Does 1-100) are prohibited at case opening. Corrections completed by clerk to remove Doe party(ies) from the docket.Corrected by Clerk's Office. No further action is necessary. Re: 1 Complaint, filed by Ashkan Pourabhari Langoudi, Zahra Shokri Varniab (mbc, COURT STAFF) (Filed on 6/4/2026)"
         },
         {
-          "date_filed": "2026-02-23",
+          "date_filed": "2026-06-03",
           "entry_number": null,
           "description": ""
         }
@@ -1088,17 +1088,17 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/73180196/shahi-v-edlow/",
       "recent_entries": [
         {
-          "date_filed": "2026-05-01",
+          "date_filed": "2026-04-30",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-07-09",
           "entry_number": null,
           "description": ""
         },
         {
           "date_filed": "2026-04-13",
-          "entry_number": null,
-          "description": ""
-        },
-        {
-          "date_filed": "2026-05-01",
           "entry_number": null,
           "description": ""
         }
@@ -1158,17 +1158,17 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/72260779/perez-v-united-states-citizenship-and-immigration-services-uscis/",
       "recent_entries": [
         {
-          "date_filed": "2026-07-14",
-          "entry_number": null,
-          "description": ""
-        },
-        {
-          "date_filed": "2026-02-13",
-          "entry_number": null,
-          "description": ""
-        },
-        {
           "date_filed": "2026-07-24",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-05-23",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-07-14",
           "entry_number": null,
           "description": ""
         }
