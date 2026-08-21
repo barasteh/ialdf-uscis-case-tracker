@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-20T08:03:44.767Z",
+  "lastUpdated": "2026-08-21T08:04:53.077Z",
   "source": "CourtListener REST API v4",
   "failed_count": 1,
   "total": 42,
@@ -138,8 +138,8 @@
           "description": "FILING FEE PAID for new civil case. Receipt No. ACACDC-42036588 for $405 filing fee. (Tusken, Michael)"
         },
         {
-          "date_filed": "2026-08-12",
-          "entry_number": 33,
+          "date_filed": "2026-08-20",
+          "entry_number": 34,
           "description": ""
         }
       ]
@@ -393,7 +393,7 @@
           "description": ""
         },
         {
-          "date_filed": "2026-05-06",
+          "date_filed": "2026-08-04",
           "entry_number": null,
           "description": ""
         },
@@ -743,12 +743,12 @@
           "description": ""
         },
         {
-          "date_filed": "2026-07-14",
+          "date_filed": "2026-03-20",
           "entry_number": null,
           "description": ""
         },
         {
-          "date_filed": "2026-08-18",
+          "date_filed": "2026-08-20",
           "entry_number": null,
           "description": ""
         }
@@ -813,12 +813,12 @@
           "description": ""
         },
         {
-          "date_filed": "2026-03-06",
+          "date_filed": "2026-08-20",
           "entry_number": null,
           "description": ""
         },
         {
-          "date_filed": "2026-07-24",
+          "date_filed": "2026-03-06",
           "entry_number": null,
           "description": ""
         }
