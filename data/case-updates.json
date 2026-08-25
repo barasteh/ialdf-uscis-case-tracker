@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-24T08:18:39.740Z",
+  "lastUpdated": "2026-08-25T08:06:00.119Z",
   "source": "CourtListener REST API v4",
   "failed_count": 1,
   "total": 42,
@@ -233,17 +233,17 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/72071916/doe-v-trump/",
       "recent_entries": [
         {
-          "date_filed": "2026-06-02",
-          "entry_number": null,
-          "description": ""
-        },
-        {
           "date_filed": "2026-02-24",
           "entry_number": null,
           "description": ""
         },
         {
-          "date_filed": "2026-03-05",
+          "date_filed": "2026-02-12",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-06-02",
           "entry_number": null,
           "description": ""
         }
@@ -633,17 +633,17 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/72532589/sadighi-v-edlow/",
       "recent_entries": [
         {
-          "date_filed": "2026-07-09",
-          "entry_number": null,
-          "description": ""
-        },
-        {
-          "date_filed": "2026-03-23",
-          "entry_number": null,
-          "description": ""
-        },
-        {
           "date_filed": "2026-04-17",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-04-27",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-07-14",
           "entry_number": null,
           "description": ""
         }
