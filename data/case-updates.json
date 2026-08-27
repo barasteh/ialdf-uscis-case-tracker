@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-26T08:07:40.585Z",
+  "lastUpdated": "2026-08-27T18:41:28.090Z",
   "source": "CourtListener REST API v4",
   "failed_count": 0,
   "total": 42,
@@ -138,8 +138,8 @@
           "description": "FILING FEE PAID for new civil case. Receipt No. ACACDC-42036588 for $405 filing fee. (Tusken, Michael)"
         },
         {
-          "date_filed": "2026-08-20",
-          "entry_number": 34,
+          "date_filed": "2026-08-27",
+          "entry_number": 35,
           "description": ""
         }
       ]
@@ -378,8 +378,13 @@
           "description": ""
         },
         {
-          "date_filed": "2026-08-25",
-          "entry_number": 1,
+          "date_filed": "2026-08-26",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-08-26",
+          "entry_number": null,
           "description": ""
         }
       ]
@@ -1066,7 +1071,23 @@
       "plaintiffs": null,
       "notable": false,
       "courtlistener_url": "https://www.courtlistener.com/docket/72358654/awadelkarim-v-us-citizenship-and-immigration-services-director-of/",
-      "recent_entries": []
+      "recent_entries": [
+        {
+          "date_filed": "2026-06-05",
+          "entry_number": null,
+          "description": "Minute Entry for remote proceedings before District Judge F. Kay Behm: Status Conference held on 6/5/2026. Counsel to discuss and submit a proposed stipulated order with language outlining that the hold has been lifted, if the preliminary injunction is needed or moot, and that the agency will be moving the cases along. The proposed order and any objections or issues with the language in the proposed stipulation will be sent to the Court in an email to the Courts law clerk by the end of the day on Monday, June 8, 2026. (Court Reporter: None Present, Not on the Record) (KCol)"
+        },
+        {
+          "date_filed": "2026-03-04",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-03-04",
+          "entry_number": null,
+          "description": "A United States Magistrate Judge of this Court is available to conduct all proceedings in this civil action in accordance with 28 U.S.C. 636c and FRCP 73. The Notice, Consent, and Reference of a Civil Action to a Magistrate Judge form is available for download at http://www.mied.uscourts.gov (MChr)"
+        }
+      ]
     },
     {
       "id": 32,
