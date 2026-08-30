@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-28T19:38:11.463Z",
+  "lastUpdated": "2026-08-30T12:52:15.109Z",
   "source": "CourtListener REST API v4",
   "failed_count": 0,
   "total": 42,
@@ -138,8 +138,8 @@
           "description": "FILING FEE PAID for new civil case. Receipt No. ACACDC-42036588 for $405 filing fee. (Tusken, Michael)"
         },
         {
-          "date_filed": "2026-08-27",
-          "entry_number": 36,
+          "date_filed": "2026-08-28",
+          "entry_number": 37,
           "description": ""
         }
       ]
@@ -233,17 +233,17 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/72071916/doe-v-trump/",
       "recent_entries": [
         {
-          "date_filed": "2026-06-02",
-          "entry_number": null,
-          "description": ""
-        },
-        {
           "date_filed": "2026-02-24",
           "entry_number": null,
           "description": ""
         },
         {
-          "date_filed": "2026-02-11",
+          "date_filed": "2026-06-02",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-02-12",
           "entry_number": null,
           "description": ""
         }
@@ -896,7 +896,23 @@
       "plaintiffs": null,
       "notable": true,
       "courtlistener_url": "https://www.courtlistener.com/docket/72213971/sarrafi-v-edlow/",
-      "recent_entries": []
+      "recent_entries": [
+        {
+          "date_filed": "2026-08-03",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-04-23",
+          "entry_number": null,
+          "description": "MINUTE ORDER. By April 27, 2026, the parties shall meet and confer, and file a joint status report stating their positions on consolidation of Plaintiffs' 7 motion for preliminary injunction with the merits and whether supplemental briefing is necessary in advance of a hearing. Signed by Judge Amir H. Ali on 4/23/2026. (lcaha2)"
+        },
+        {
+          "date_filed": "2026-04-29",
+          "entry_number": null,
+          "description": "MINUTE ORDER. The court will hold a hearing on Plaintiffs' 7 motion for preliminary injunction on May 12, 2026, at 2:00 p.m. in Courtroom 19. The parties should be prepared for the court to construe Plaintiffs' 7 motion as a motion for summary judgment and Defendants' 14 opposition as a cross-motion for summary judgment. Signed by Judge Amir H. Ali on 4/29/2026. (lcaha2)"
+        }
+      ]
     },
     {
       "id": 27,
@@ -1092,17 +1108,17 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/73180196/shahi-v-edlow/",
       "recent_entries": [
         {
-          "date_filed": "2026-04-30",
+          "date_filed": "2026-04-23",
           "entry_number": null,
           "description": ""
         },
         {
-          "date_filed": "2026-04-13",
+          "date_filed": "2026-04-23",
           "entry_number": null,
           "description": ""
         },
         {
-          "date_filed": "2026-04-13",
+          "date_filed": "2026-05-01",
           "entry_number": null,
           "description": ""
         }
