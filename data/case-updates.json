@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-30T12:52:15.109Z",
+  "lastUpdated": "2026-08-31T14:34:39.180Z",
   "source": "CourtListener REST API v4",
   "failed_count": 0,
   "total": 42,
@@ -653,17 +653,17 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/72532589/sadighi-v-edlow/",
       "recent_entries": [
         {
+          "date_filed": "2026-06-15",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-04-09",
+          "entry_number": null,
+          "description": ""
+        },
+        {
           "date_filed": "2026-04-17",
-          "entry_number": null,
-          "description": ""
-        },
-        {
-          "date_filed": "2026-04-27",
-          "entry_number": null,
-          "description": ""
-        },
-        {
-          "date_filed": "2026-07-14",
           "entry_number": null,
           "description": ""
         }
