@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-31T14:34:39.180Z",
+  "lastUpdated": "2026-09-01T13:36:40.927Z",
   "source": "CourtListener REST API v4",
   "failed_count": 0,
   "total": 42,
@@ -138,8 +138,8 @@
           "description": "FILING FEE PAID for new civil case. Receipt No. ACACDC-42036588 for $405 filing fee. (Tusken, Michael)"
         },
         {
-          "date_filed": "2026-08-28",
-          "entry_number": 37,
+          "date_filed": "2026-08-31",
+          "entry_number": 38,
           "description": ""
         }
       ]
@@ -653,12 +653,12 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/72532589/sadighi-v-edlow/",
       "recent_entries": [
         {
-          "date_filed": "2026-06-15",
+          "date_filed": "2026-03-23",
           "entry_number": null,
           "description": ""
         },
         {
-          "date_filed": "2026-04-09",
+          "date_filed": "2026-08-14",
           "entry_number": null,
           "description": ""
         },
@@ -898,19 +898,19 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/72213971/sarrafi-v-edlow/",
       "recent_entries": [
         {
-          "date_filed": "2026-08-03",
-          "entry_number": null,
-          "description": ""
-        },
-        {
           "date_filed": "2026-04-23",
           "entry_number": null,
           "description": "MINUTE ORDER. By April 27, 2026, the parties shall meet and confer, and file a joint status report stating their positions on consolidation of Plaintiffs' 7 motion for preliminary injunction with the merits and whether supplemental briefing is necessary in advance of a hearing. Signed by Judge Amir H. Ali on 4/23/2026. (lcaha2)"
         },
         {
-          "date_filed": "2026-04-29",
+          "date_filed": "2026-08-03",
           "entry_number": null,
-          "description": "MINUTE ORDER. The court will hold a hearing on Plaintiffs' 7 motion for preliminary injunction on May 12, 2026, at 2:00 p.m. in Courtroom 19. The parties should be prepared for the court to construe Plaintiffs' 7 motion as a motion for summary judgment and Defendants' 14 opposition as a cross-motion for summary judgment. Signed by Judge Amir H. Ali on 4/29/2026. (lcaha2)"
+          "description": ""
+        },
+        {
+          "date_filed": "2026-04-01",
+          "entry_number": null,
+          "description": "MINUTE ORDER. Defendants' 17 consent motion to stay deadline for responding to Plaintiffs' complaint is granted. Defendants shall answer or otherwise respond to the complaint within 30 days of the court's decision on the motion for preliminary injunction. Signed by Judge Amir H. Ali on 4/1/2026. (lcaha1)"
         }
       ]
     },
