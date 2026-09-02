@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-01T13:36:40.927Z",
+  "lastUpdated": "2026-09-02T13:28:28.528Z",
   "source": "CourtListener REST API v4",
   "failed_count": 0,
   "total": 42,
@@ -138,8 +138,8 @@
           "description": "FILING FEE PAID for new civil case. Receipt No. ACACDC-42036588 for $405 filing fee. (Tusken, Michael)"
         },
         {
-          "date_filed": "2026-08-31",
-          "entry_number": 38,
+          "date_filed": "2026-09-01",
+          "entry_number": 42,
           "description": ""
         }
       ]
@@ -233,17 +233,17 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/72071916/doe-v-trump/",
       "recent_entries": [
         {
-          "date_filed": "2026-02-24",
-          "entry_number": null,
-          "description": ""
-        },
-        {
           "date_filed": "2026-06-02",
           "entry_number": null,
           "description": ""
         },
         {
-          "date_filed": "2026-02-12",
+          "date_filed": "2026-02-24",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-02-02",
           "entry_number": null,
           "description": ""
         }
@@ -340,15 +340,15 @@
         {
           "date_filed": "2026-06-04",
           "entry_number": null,
-          "description": ""
+          "description": "Electronic filing error. Doe defendant groups (e.g., Does 1-100) are prohibited at case opening. Corrections completed by clerk to remove Doe party(ies) from the docket.Corrected by Clerk's Office. No further action is necessary. Re: 1 Complaint, filed by Ashkan Pourabhari Langoudi, Zahra Shokri Varniab (mbc, COURT STAFF) (Filed on 6/4/2026)"
         },
         {
           "date_filed": "2026-06-04",
           "entry_number": null,
-          "description": "Electronic filing error. Doe defendant groups (e.g., Does 1-100) are prohibited at case opening. Corrections completed by clerk to remove Doe party(ies) from the docket.Corrected by Clerk's Office. No further action is necessary. Re: 1 Complaint, filed by Ashkan Pourabhari Langoudi, Zahra Shokri Varniab (mbc, COURT STAFF) (Filed on 6/4/2026)"
+          "description": ""
         },
         {
-          "date_filed": "2026-06-03",
+          "date_filed": "2026-02-23",
           "entry_number": null,
           "description": ""
         }
