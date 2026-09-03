@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-02T13:28:28.528Z",
+  "lastUpdated": "2026-09-03T12:10:06.876Z",
   "source": "CourtListener REST API v4",
   "failed_count": 0,
   "total": 42,
@@ -243,7 +243,7 @@
           "description": ""
         },
         {
-          "date_filed": "2026-02-02",
+          "date_filed": "2026-05-28",
           "entry_number": null,
           "description": ""
         }
@@ -338,9 +338,9 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/72024394/shokri-varniab-v-edlow/",
       "recent_entries": [
         {
-          "date_filed": "2026-06-04",
+          "date_filed": "2026-02-23",
           "entry_number": null,
-          "description": "Electronic filing error. Doe defendant groups (e.g., Does 1-100) are prohibited at case opening. Corrections completed by clerk to remove Doe party(ies) from the docket.Corrected by Clerk's Office. No further action is necessary. Re: 1 Complaint, filed by Ashkan Pourabhari Langoudi, Zahra Shokri Varniab (mbc, COURT STAFF) (Filed on 6/4/2026)"
+          "description": ""
         },
         {
           "date_filed": "2026-06-04",
@@ -348,7 +348,7 @@
           "description": ""
         },
         {
-          "date_filed": "2026-02-23",
+          "date_filed": "2026-06-04",
           "entry_number": null,
           "description": ""
         }
@@ -828,7 +828,7 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/72247855/ahua-v-edlow/",
       "recent_entries": [
         {
-          "date_filed": "2026-02-18",
+          "date_filed": "2026-03-06",
           "entry_number": null,
           "description": ""
         },
@@ -838,7 +838,7 @@
           "description": ""
         },
         {
-          "date_filed": "2026-03-06",
+          "date_filed": "2026-07-24",
           "entry_number": null,
           "description": ""
         }
@@ -1108,12 +1108,12 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/73180196/shahi-v-edlow/",
       "recent_entries": [
         {
-          "date_filed": "2026-04-23",
+          "date_filed": "2026-07-09",
           "entry_number": null,
           "description": ""
         },
         {
-          "date_filed": "2026-04-23",
+          "date_filed": "2026-04-13",
           "entry_number": null,
           "description": ""
         },
