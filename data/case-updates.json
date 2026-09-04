@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-03T12:10:06.876Z",
+  "lastUpdated": "2026-09-04T12:11:35.511Z",
   "source": "CourtListener REST API v4",
   "failed_count": 0,
   "total": 42,
@@ -23,7 +23,7 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/72378700/meschi-v-edlow/",
       "recent_entries": [
         {
-          "date_filed": "2026-03-25",
+          "date_filed": "2026-08-25",
           "entry_number": null,
           "description": ""
         },
@@ -33,7 +33,7 @@
           "description": ""
         },
         {
-          "date_filed": "2026-08-25",
+          "date_filed": "2026-04-09",
           "entry_number": null,
           "description": ""
         }
@@ -518,12 +518,12 @@
           "description": ""
         },
         {
-          "date_filed": "2026-07-07",
+          "date_filed": "2025-12-31",
           "entry_number": null,
-          "description": ""
+          "description": "RECEIPT number ACAEDC-12715087 for the filing fee in the amount of $405.00 paid on 12/31/2025 by Curtis Lee Morrison. (Deputy Clerk CRM)"
         },
         {
-          "date_filed": "2026-03-09",
+          "date_filed": "2026-04-24",
           "entry_number": null,
           "description": ""
         }
