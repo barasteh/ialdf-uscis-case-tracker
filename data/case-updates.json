@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-04T12:11:35.511Z",
+  "lastUpdated": "2026-09-05T11:33:13.895Z",
   "source": "CourtListener REST API v4",
   "failed_count": 0,
   "total": 42,
@@ -130,16 +130,16 @@
         {
           "date_filed": "2026-04-17",
           "entry_number": null,
-          "description": ""
+          "description": "FILING FEE PAID for new civil case. Receipt No. ACACDC-42036588 for $405 filing fee. (Tusken, Michael)"
         },
         {
           "date_filed": "2026-04-17",
           "entry_number": null,
-          "description": "FILING FEE PAID for new civil case. Receipt No. ACACDC-42036588 for $405 filing fee. (Tusken, Michael)"
+          "description": ""
         },
         {
-          "date_filed": "2026-09-01",
-          "entry_number": 42,
+          "date_filed": "2026-09-04",
+          "entry_number": 43,
           "description": ""
         }
       ]
@@ -233,17 +233,17 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/72071916/doe-v-trump/",
       "recent_entries": [
         {
-          "date_filed": "2026-06-02",
-          "entry_number": null,
-          "description": ""
-        },
-        {
           "date_filed": "2026-02-24",
           "entry_number": null,
           "description": ""
         },
         {
-          "date_filed": "2026-05-28",
+          "date_filed": "2026-06-02",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-02-13",
           "entry_number": null,
           "description": ""
         }
@@ -338,17 +338,17 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/72024394/shokri-varniab-v-edlow/",
       "recent_entries": [
         {
+          "date_filed": "2026-06-04",
+          "entry_number": null,
+          "description": ""
+        },
+        {
           "date_filed": "2026-02-23",
           "entry_number": null,
           "description": ""
         },
         {
-          "date_filed": "2026-06-04",
-          "entry_number": null,
-          "description": ""
-        },
-        {
-          "date_filed": "2026-06-04",
+          "date_filed": "2026-06-02",
           "entry_number": null,
           "description": ""
         }
@@ -791,23 +791,7 @@
       "plaintiffs": null,
       "notable": false,
       "courtlistener_url": "https://www.courtlistener.com/docket/71978036/fuenmayor-perozo-v-director-of-us-citizenship-and-immigration-services/",
-      "recent_entries": [
-        {
-          "date_filed": "2026-07-14",
-          "entry_number": null,
-          "description": ""
-        },
-        {
-          "date_filed": "2026-03-09",
-          "entry_number": null,
-          "description": ""
-        },
-        {
-          "date_filed": "2026-07-14",
-          "entry_number": null,
-          "description": ""
-        }
-      ]
+      "recent_entries": []
     },
     {
       "id": 24,
@@ -898,14 +882,14 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/72213971/sarrafi-v-edlow/",
       "recent_entries": [
         {
+          "date_filed": "2026-04-29",
+          "entry_number": null,
+          "description": "MINUTE ORDER. The court will hold a hearing on Plaintiffs' 7 motion for preliminary injunction on May 12, 2026, at 2:00 p.m. in Courtroom 19. The parties should be prepared for the court to construe Plaintiffs' 7 motion as a motion for summary judgment and Defendants' 14 opposition as a cross-motion for summary judgment. Signed by Judge Amir H. Ali on 4/29/2026. (lcaha2)"
+        },
+        {
           "date_filed": "2026-04-23",
           "entry_number": null,
           "description": "MINUTE ORDER. By April 27, 2026, the parties shall meet and confer, and file a joint status report stating their positions on consolidation of Plaintiffs' 7 motion for preliminary injunction with the merits and whether supplemental briefing is necessary in advance of a hearing. Signed by Judge Amir H. Ali on 4/23/2026. (lcaha2)"
-        },
-        {
-          "date_filed": "2026-08-03",
-          "entry_number": null,
-          "description": ""
         },
         {
           "date_filed": "2026-04-01",
@@ -1250,17 +1234,17 @@
         {
           "date_filed": "2026-04-27",
           "entry_number": null,
+          "description": "CLERK'S NOTICE: In accordance with Federal Rule of Civil Procedure 73 and 28 U.S.C. 636(c), the parties are notified that if all parties consent, a United States magistrate judge of this court is available to conduct all proceedings in this civil action including a (jury or nonjury) trial and to order the entry of a final judgment. The form may be accessed at the following link: AO-085. The consent form should be filled out, signed and filed electronically only if all parties wish to consent. You may withhold your consent without adverse substantive consequences. Do NOT return or file the consent form unless all parties have signed the consent. (kk2)"
+        },
+        {
+          "date_filed": "2026-04-27",
+          "entry_number": null,
           "description": ""
         },
         {
           "date_filed": "2026-07-10",
           "entry_number": null,
           "description": ""
-        },
-        {
-          "date_filed": "2026-04-27",
-          "entry_number": null,
-          "description": "CLERK'S NOTICE: In accordance with Federal Rule of Civil Procedure 73 and 28 U.S.C. 636(c), the parties are notified that if all parties consent, a United States magistrate judge of this court is available to conduct all proceedings in this civil action including a (jury or nonjury) trial and to order the entry of a final judgment. The form may be accessed at the following link: AO-085. The consent form should be filled out, signed and filed electronically only if all parties wish to consent. You may withhold your consent without adverse substantive consequences. Do NOT return or file the consent form unless all parties have signed the consent. (kk2)"
         }
       ]
     },
@@ -1423,7 +1407,7 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/73294391/hedayati-v-edlow/",
       "recent_entries": [
         {
-          "date_filed": "2026-05-22",
+          "date_filed": "2026-06-01",
           "entry_number": null,
           "description": ""
         },
@@ -1433,9 +1417,9 @@
           "description": ""
         },
         {
-          "date_filed": "2026-06-30",
+          "date_filed": "2026-05-05",
           "entry_number": null,
-          "description": ""
+          "description": "Electronic filing error. Not all parties listed in the complaint have been added to the docket. Please add the missing parties using the event Notice of Additional Parties. The event can be found at: Civil Events > Other Filings > Notices > Notice of Additional Parties. Re: 1 Complaint, filed by Navid Mohammadian Tabrizi, Alain J. Latour Villamil, Asma Jodeiri Akbarfam, Sahar Rahimi Malakshan, Amirhossein Ostovar, Ghazal Mehdizadeh, Farzan ZareAfifi, Raul Enrique Romero Martinez, Majd Nasra, Donya Damavandi Moghaddam, Mehrdad Jamali, Hadi Beyki, Ehsan Esmaeili, FNU Thiha Zaw, Hanif Tayarani, Zahra Sedghi, Farhad Farzaneh, Siavash Shams, Zahra Ebrahimi, Ali Afrasiabi, Hanieh Alsadat Hedayati, Ali Hosseinipour, Dorsa Azadi, Vahid Nikkhah, Rosa Ana Martir de las Fuentes, Eighdi Aung, Negar Saraei, Ahmadreza Rajabi Sebdani, Soroush Karimi, Atieh Sadat Abedin Do, Min Sitt Thu Aung, Mehrnaz Ayazi, Parnian Abdi, Mahdi Arabinour, Sina Jangjoo, Yasaman Jannati, Niloofar Yousefi, Talayeh Vatankhah, Sarvenaz Moazami, C. A.L., Seyedeh Nahid Naghshbandi, Ehounoud Joseph C. Messou, Fatima Reza, Alireza Tavassoli, E. O.L., Saleh Sadeghi Gougheri, Khant Tayza, Bita Shaban, Mohammad Amin Kazemi, Maryam Paparimoghadamborazjani, Aylin Mohammadzadehmarandi, Ghazal Chizarian (jml, COURT STAFF) (Filed on 5/5/2026)"
         }
       ]
     },
