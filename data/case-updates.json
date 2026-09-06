@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-05T11:33:13.895Z",
+  "lastUpdated": "2026-09-06T11:53:05.151Z",
   "source": "CourtListener REST API v4",
   "failed_count": 0,
   "total": 42,
@@ -791,7 +791,23 @@
       "plaintiffs": null,
       "notable": false,
       "courtlistener_url": "https://www.courtlistener.com/docket/71978036/fuenmayor-perozo-v-director-of-us-citizenship-and-immigration-services/",
-      "recent_entries": []
+      "recent_entries": [
+        {
+          "date_filed": "2026-07-14",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-03-09",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-07-14",
+          "entry_number": null,
+          "description": ""
+        }
+      ]
     },
     {
       "id": 24,
