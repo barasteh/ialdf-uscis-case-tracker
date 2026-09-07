@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-06T11:53:05.151Z",
+  "lastUpdated": "2026-09-07T13:22:35.952Z",
   "source": "CourtListener REST API v4",
   "failed_count": 0,
   "total": 42,
@@ -138,8 +138,8 @@
           "description": ""
         },
         {
-          "date_filed": "2026-09-04",
-          "entry_number": 43,
+          "date_filed": "2026-09-06",
+          "entry_number": 44,
           "description": ""
         }
       ]
@@ -231,23 +231,7 @@
       "plaintiffs": 200,
       "notable": true,
       "courtlistener_url": "https://www.courtlistener.com/docket/72071916/doe-v-trump/",
-      "recent_entries": [
-        {
-          "date_filed": "2026-02-24",
-          "entry_number": null,
-          "description": ""
-        },
-        {
-          "date_filed": "2026-06-02",
-          "entry_number": null,
-          "description": ""
-        },
-        {
-          "date_filed": "2026-02-13",
-          "entry_number": null,
-          "description": ""
-        }
-      ]
+      "recent_entries": []
     },
     {
       "id": 8,
