@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-08T12:24:36.613Z",
+  "lastUpdated": "2026-09-09T12:16:38.603Z",
   "source": "CourtListener REST API v4",
   "failed_count": 0,
   "total": 42,
@@ -130,16 +130,16 @@
         {
           "date_filed": "2026-04-17",
           "entry_number": null,
-          "description": "FILING FEE PAID for new civil case. Receipt No. ACACDC-42036588 for $405 filing fee. (Tusken, Michael)"
+          "description": ""
         },
         {
           "date_filed": "2026-04-17",
           "entry_number": null,
-          "description": ""
+          "description": "FILING FEE PAID for new civil case. Receipt No. ACACDC-42036588 for $405 filing fee. (Tusken, Michael)"
         },
         {
-          "date_filed": "2026-09-07",
-          "entry_number": 45,
+          "date_filed": "2026-09-08",
+          "entry_number": 47,
           "description": ""
         }
       ]
@@ -243,7 +243,7 @@
           "description": ""
         },
         {
-          "date_filed": "2026-02-13",
+          "date_filed": "2026-06-02",
           "entry_number": null,
           "description": ""
         }
@@ -413,12 +413,12 @@
           "description": ""
         },
         {
-          "date_filed": "2026-08-04",
+          "date_filed": "2026-06-09",
           "entry_number": null,
           "description": ""
         },
         {
-          "date_filed": "2026-02-03",
+          "date_filed": "2026-08-04",
           "entry_number": null,
           "description": ""
         }
@@ -1073,12 +1073,12 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/72358654/awadelkarim-v-us-citizenship-and-immigration-services-director-of/",
       "recent_entries": [
         {
-          "date_filed": "2026-06-05",
+          "date_filed": "2026-03-04",
           "entry_number": null,
-          "description": "Minute Entry for remote proceedings before District Judge F. Kay Behm: Status Conference held on 6/5/2026. Counsel to discuss and submit a proposed stipulated order with language outlining that the hold has been lifted, if the preliminary injunction is needed or moot, and that the agency will be moving the cases along. The proposed order and any objections or issues with the language in the proposed stipulation will be sent to the Court in an email to the Courts law clerk by the end of the day on Monday, June 8, 2026. (Court Reporter: None Present, Not on the Record) (KCol)"
+          "description": ""
         },
         {
-          "date_filed": "2026-03-04",
+          "date_filed": "2026-07-23",
           "entry_number": null,
           "description": ""
         },
@@ -1153,7 +1153,7 @@
           "description": ""
         },
         {
-          "date_filed": "2026-05-20",
+          "date_filed": "2026-05-29",
           "entry_number": null,
           "description": ""
         }
@@ -1423,7 +1423,12 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/73294391/hedayati-v-edlow/",
       "recent_entries": [
         {
-          "date_filed": "2026-06-01",
+          "date_filed": "2026-05-05",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-05-18",
           "entry_number": null,
           "description": ""
         },
@@ -1431,11 +1436,6 @@
           "date_filed": "2026-05-05",
           "entry_number": null,
           "description": ""
-        },
-        {
-          "date_filed": "2026-05-05",
-          "entry_number": null,
-          "description": "Electronic filing error. Not all parties listed in the complaint have been added to the docket. Please add the missing parties using the event Notice of Additional Parties. The event can be found at: Civil Events > Other Filings > Notices > Notice of Additional Parties. Re: 1 Complaint, filed by Navid Mohammadian Tabrizi, Alain J. Latour Villamil, Asma Jodeiri Akbarfam, Sahar Rahimi Malakshan, Amirhossein Ostovar, Ghazal Mehdizadeh, Farzan ZareAfifi, Raul Enrique Romero Martinez, Majd Nasra, Donya Damavandi Moghaddam, Mehrdad Jamali, Hadi Beyki, Ehsan Esmaeili, FNU Thiha Zaw, Hanif Tayarani, Zahra Sedghi, Farhad Farzaneh, Siavash Shams, Zahra Ebrahimi, Ali Afrasiabi, Hanieh Alsadat Hedayati, Ali Hosseinipour, Dorsa Azadi, Vahid Nikkhah, Rosa Ana Martir de las Fuentes, Eighdi Aung, Negar Saraei, Ahmadreza Rajabi Sebdani, Soroush Karimi, Atieh Sadat Abedin Do, Min Sitt Thu Aung, Mehrnaz Ayazi, Parnian Abdi, Mahdi Arabinour, Sina Jangjoo, Yasaman Jannati, Niloofar Yousefi, Talayeh Vatankhah, Sarvenaz Moazami, C. A.L., Seyedeh Nahid Naghshbandi, Ehounoud Joseph C. Messou, Fatima Reza, Alireza Tavassoli, E. O.L., Saleh Sadeghi Gougheri, Khant Tayza, Bita Shaban, Mohammad Amin Kazemi, Maryam Paparimoghadamborazjani, Aylin Mohammadzadehmarandi, Ghazal Chizarian (jml, COURT STAFF) (Filed on 5/5/2026)"
         }
       ]
     },
