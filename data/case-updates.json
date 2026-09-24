@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-23T11:29:40.375Z",
+  "lastUpdated": "2026-09-24T11:41:59.692Z",
   "source": "CourtListener REST API v4",
   "failed_count": 0,
   "total": 42,
@@ -23,7 +23,7 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/72378700/meschi-v-edlow/",
       "recent_entries": [
         {
-          "date_filed": "2026-08-25",
+          "date_filed": "2026-09-17",
           "entry_number": null,
           "description": ""
         },
@@ -33,7 +33,7 @@
           "description": ""
         },
         {
-          "date_filed": "2026-08-25",
+          "date_filed": "2026-03-25",
           "entry_number": null,
           "description": ""
         }
@@ -370,21 +370,21 @@
       "relief": null,
       "plaintiffs": 1,
       "notable": true,
-      "courtlistener_url": "https://www.courtlistener.com/docket/74695610/bank-midwest-a-division-of-nbh-bank-v-tig-queso-llc/",
+      "courtlistener_url": "https://www.courtlistener.com/docket/74839010/rangel-v-federal-express-corporation/",
       "recent_entries": [
         {
-          "date_filed": "2026-08-25",
-          "entry_number": null,
+          "date_filed": "2026-09-23",
+          "entry_number": 4,
           "description": ""
         },
         {
-          "date_filed": "2026-08-26",
-          "entry_number": null,
+          "date_filed": "2026-09-23",
+          "entry_number": 3,
           "description": ""
         },
         {
-          "date_filed": "2026-08-26",
-          "entry_number": null,
+          "date_filed": "2026-09-23",
+          "entry_number": 2,
           "description": ""
         }
       ]
