@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-28T13:47:52.376Z",
+  "lastUpdated": "2026-09-29T12:46:43.182Z",
   "source": "CourtListener REST API v4",
   "failed_count": 0,
   "total": 42,
@@ -370,21 +370,21 @@
       "relief": null,
       "plaintiffs": 1,
       "notable": true,
-      "courtlistener_url": "https://www.courtlistener.com/docket/74839010/rangel-v-federal-express-corporation/",
+      "courtlistener_url": "https://www.courtlistener.com/docket/74839010/carlos-rangel-v-federal-express-corporation/",
       "recent_entries": [
         {
-          "date_filed": "2026-09-23",
-          "entry_number": 4,
+          "date_filed": "2026-09-28",
+          "entry_number": 7,
           "description": ""
         },
         {
-          "date_filed": "2026-09-23",
-          "entry_number": 3,
+          "date_filed": "2026-09-28",
+          "entry_number": 6,
           "description": ""
         },
         {
-          "date_filed": "2026-09-23",
-          "entry_number": 2,
+          "date_filed": "2026-09-28",
+          "entry_number": 5,
           "description": ""
         }
       ]
