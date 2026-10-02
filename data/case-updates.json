@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-01T13:07:12.395Z",
+  "lastUpdated": "2026-10-02T12:29:08.992Z",
   "source": "CourtListener REST API v4",
   "failed_count": 0,
   "total": 42,
@@ -728,12 +728,12 @@
           "description": ""
         },
         {
-          "date_filed": "2026-04-23",
+          "date_filed": "2026-05-05",
           "entry_number": null,
           "description": ""
         },
         {
-          "date_filed": "2026-03-10",
+          "date_filed": "2026-04-22",
           "entry_number": null,
           "description": ""
         }
@@ -758,7 +758,7 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/72520267/franciscot-auguste-v-joseph-b-edlow/",
       "recent_entries": [
         {
-          "date_filed": "2026-07-14",
+          "date_filed": "2026-05-21",
           "entry_number": null,
           "description": ""
         },
@@ -768,7 +768,7 @@
           "description": ""
         },
         {
-          "date_filed": "2026-05-21",
+          "date_filed": "2026-06-17",
           "entry_number": null,
           "description": ""
         }
@@ -828,7 +828,7 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/72247855/ahua-v-edlow/",
       "recent_entries": [
         {
-          "date_filed": "2026-02-18",
+          "date_filed": "2026-03-05",
           "entry_number": null,
           "description": ""
         },
