@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-04T13:18:45.856Z",
+  "lastUpdated": "2026-10-05T15:29:17.838Z",
   "source": "CourtListener REST API v4",
   "failed_count": 0,
   "total": 42,
@@ -583,12 +583,12 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/72122041/jane-doe-1-v-united-states-department-of-homeland-security/",
       "recent_entries": [
         {
-          "date_filed": "2026-06-26",
+          "date_filed": "2026-04-24",
           "entry_number": null,
           "description": ""
         },
         {
-          "date_filed": "2026-04-24",
+          "date_filed": "2026-06-26",
           "entry_number": null,
           "description": ""
         },
@@ -653,17 +653,17 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/72532589/sadighi-v-edlow/",
       "recent_entries": [
         {
-          "date_filed": "2026-07-14",
+          "date_filed": "2026-04-22",
           "entry_number": null,
           "description": ""
         },
         {
-          "date_filed": "2026-06-15",
+          "date_filed": "2026-04-09",
           "entry_number": null,
           "description": ""
         },
         {
-          "date_filed": "2026-04-17",
+          "date_filed": "2026-03-23",
           "entry_number": null,
           "description": ""
         }
