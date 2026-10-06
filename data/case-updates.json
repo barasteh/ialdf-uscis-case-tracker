@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-05T15:29:17.838Z",
+  "lastUpdated": "2026-10-06T14:31:21.691Z",
   "source": "CourtListener REST API v4",
   "failed_count": 0,
   "total": 42,
@@ -583,17 +583,17 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/72122041/jane-doe-1-v-united-states-department-of-homeland-security/",
       "recent_entries": [
         {
-          "date_filed": "2026-04-24",
-          "entry_number": null,
-          "description": ""
-        },
-        {
           "date_filed": "2026-06-26",
           "entry_number": null,
           "description": ""
         },
         {
           "date_filed": "2026-01-14",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-01-08",
           "entry_number": null,
           "description": ""
         }
