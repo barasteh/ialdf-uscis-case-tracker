@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-07T14:23:09.777Z",
+  "lastUpdated": "2026-10-08T14:22:34.081Z",
   "source": "CourtListener REST API v4",
   "failed_count": 0,
   "total": 42,
@@ -763,7 +763,7 @@
           "description": ""
         },
         {
-          "date_filed": "2026-06-17",
+          "date_filed": "2026-08-18",
           "entry_number": null,
           "description": ""
         },
