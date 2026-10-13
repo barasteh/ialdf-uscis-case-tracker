@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-10-12T16:16:30.653Z",
+  "lastUpdated": "2026-10-13T15:20:56.215Z",
   "source": "CourtListener REST API v4",
-  "failed_count": 0,
+  "failed_count": 1,
   "total": 42,
   "cases": [
     {
@@ -651,23 +651,7 @@
       "plaintiffs": null,
       "notable": false,
       "courtlistener_url": "https://www.courtlistener.com/docket/72532589/sadighi-v-edlow/",
-      "recent_entries": [
-        {
-          "date_filed": "2026-04-09",
-          "entry_number": null,
-          "description": ""
-        },
-        {
-          "date_filed": "2026-04-22",
-          "entry_number": null,
-          "description": ""
-        },
-        {
-          "date_filed": "2026-07-14",
-          "entry_number": null,
-          "description": ""
-        }
-      ]
+      "recent_entries": []
     },
     {
       "id": 20,
@@ -953,36 +937,11 @@
       "id": 28,
       "name": "Ortega Cortez v. Edlow",
       "court": "flsd",
-      "docket": "1:26-cv-20813",
+      "docket_number": "1:26-cv-20813",
       "status": "PENDING",
-      "statusDetail": "",
       "stage": "Emergency relief briefing",
       "category": "Multiple",
-      "orderDate": null,
-      "filingDate": "Feb 6, 2026",
-      "hearingDate": null,
-      "summary": "",
-      "relief": null,
-      "plaintiffs": null,
-      "notable": false,
-      "courtlistener_url": "https://www.courtlistener.com/docket/72244766/ortega-cortez-v-edlow/",
-      "recent_entries": [
-        {
-          "date_filed": "2026-02-23",
-          "entry_number": null,
-          "description": ""
-        },
-        {
-          "date_filed": "2026-02-25",
-          "entry_number": null,
-          "description": "Set Deadlines as to DE 7 Plaintiff's MOTION for Preliminary Injunction . Responses due by 3/2/2026. Replies due by 3/6/2026. Per DE 11 . (cwc)"
-        },
-        {
-          "date_filed": "2026-02-25",
-          "entry_number": null,
-          "description": ""
-        }
-      ]
+      "filingDate": "Feb 6, 2026"
     },
     {
       "id": 29,
