@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-10-13T15:20:56.215Z",
+  "lastUpdated": "2026-10-14T15:10:08.459Z",
   "source": "CourtListener REST API v4",
-  "failed_count": 1,
+  "failed_count": 0,
   "total": 42,
   "cases": [
     {
@@ -651,7 +651,23 @@
       "plaintiffs": null,
       "notable": false,
       "courtlistener_url": "https://www.courtlistener.com/docket/72532589/sadighi-v-edlow/",
-      "recent_entries": []
+      "recent_entries": [
+        {
+          "date_filed": "2026-04-09",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-04-22",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-07-14",
+          "entry_number": null,
+          "description": ""
+        }
+      ]
     },
     {
       "id": 20,
@@ -742,17 +758,17 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/72520267/franciscot-auguste-v-joseph-b-edlow/",
       "recent_entries": [
         {
-          "date_filed": "2026-05-21",
-          "entry_number": null,
-          "description": ""
-        },
-        {
-          "date_filed": "2026-04-22",
-          "entry_number": null,
-          "description": ""
-        },
-        {
           "date_filed": "2026-03-20",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-04-27",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-10-01",
           "entry_number": null,
           "description": ""
         }
@@ -937,11 +953,20 @@
       "id": 28,
       "name": "Ortega Cortez v. Edlow",
       "court": "flsd",
-      "docket_number": "1:26-cv-20813",
+      "docket": "1:26-cv-20813",
       "status": "PENDING",
+      "statusDetail": "",
       "stage": "Emergency relief briefing",
       "category": "Multiple",
-      "filingDate": "Feb 6, 2026"
+      "orderDate": null,
+      "filingDate": "Feb 6, 2026",
+      "hearingDate": null,
+      "summary": "",
+      "relief": null,
+      "plaintiffs": null,
+      "notable": false,
+      "courtlistener_url": "https://www.courtlistener.com/docket/72244766/ortega-cortez-v-edlow/",
+      "recent_entries": []
     },
     {
       "id": 29,
