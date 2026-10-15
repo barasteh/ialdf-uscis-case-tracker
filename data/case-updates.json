@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T15:10:08.459Z",
+  "lastUpdated": "2026-10-15T14:02:00.285Z",
   "source": "CourtListener REST API v4",
   "failed_count": 0,
   "total": 42,
@@ -413,12 +413,12 @@
           "description": ""
         },
         {
-          "date_filed": "2025-12-04",
+          "date_filed": "2026-02-03",
           "entry_number": null,
           "description": ""
         },
         {
-          "date_filed": "2026-06-04",
+          "date_filed": "2025-12-04",
           "entry_number": null,
           "description": ""
         }
@@ -658,12 +658,12 @@
           "description": ""
         },
         {
-          "date_filed": "2026-04-22",
+          "date_filed": "2026-07-14",
           "entry_number": null,
           "description": ""
         },
         {
-          "date_filed": "2026-07-14",
+          "date_filed": "2026-06-15",
           "entry_number": null,
           "description": ""
         }
@@ -898,9 +898,9 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/72213971/sarrafi-v-edlow/",
       "recent_entries": [
         {
-          "date_filed": "2026-06-14",
+          "date_filed": "2026-06-10",
           "entry_number": null,
-          "description": ""
+          "description": "MINUTE ORDER. By June 12, 2026, the parties shall file a joint status report stating their positions on the impact of the court's decision in Dorcas International Institute of Rhode Island v. United States Citizenship and Immigration Services, No. 26-cv-132, 2026 WL 1622708 (D.R.I. June 5, 2026) on Plaintiffs' arguments and requested relief, including whether it has had an impact on processing of Plaintiffs' applications. The parties shall also propose next steps in this matter. Signed by Judge Amir H. Ali on 6/10/2026. (lcaha2)"
         },
         {
           "date_filed": "2026-04-29",
@@ -966,7 +966,23 @@
       "plaintiffs": null,
       "notable": false,
       "courtlistener_url": "https://www.courtlistener.com/docket/72244766/ortega-cortez-v-edlow/",
-      "recent_entries": []
+      "recent_entries": [
+        {
+          "date_filed": "2026-02-23",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-02-25",
+          "entry_number": null,
+          "description": "Set Deadlines as to DE 7 Plaintiff's MOTION for Preliminary Injunction . Responses due by 3/2/2026. Replies due by 3/6/2026. Per DE 11 . (cwc)"
+        },
+        {
+          "date_filed": "2026-02-25",
+          "entry_number": null,
+          "description": ""
+        }
+      ]
     },
     {
       "id": 29,
