@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-19T14:00:38.291Z",
+  "lastUpdated": "2026-10-20T13:04:14.882Z",
   "source": "CourtListener REST API v4",
   "failed_count": 0,
   "total": 42,
@@ -758,17 +758,17 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/72520267/franciscot-auguste-v-joseph-b-edlow/",
       "recent_entries": [
         {
+          "date_filed": "2026-10-01",
+          "entry_number": null,
+          "description": ""
+        },
+        {
           "date_filed": "2026-03-20",
           "entry_number": null,
           "description": ""
         },
         {
-          "date_filed": "2026-04-27",
-          "entry_number": null,
-          "description": ""
-        },
-        {
-          "date_filed": "2026-10-01",
+          "date_filed": "2026-06-17",
           "entry_number": null,
           "description": ""
         }
