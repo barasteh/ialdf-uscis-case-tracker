@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-23T12:33:26.047Z",
+  "lastUpdated": "2026-10-24T11:56:41.913Z",
   "source": "CourtListener REST API v4",
   "failed_count": 0,
   "total": 42,
@@ -268,17 +268,17 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/72159407/behdin-v-edlow/",
       "recent_entries": [
         {
-          "date_filed": "2026-06-15",
-          "entry_number": null,
-          "description": ""
-        },
-        {
           "date_filed": "2026-10-16",
           "entry_number": null,
           "description": ""
         },
         {
-          "date_filed": "2026-02-11",
+          "date_filed": "2026-06-15",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-06-11",
           "entry_number": null,
           "description": ""
         }
@@ -408,7 +408,7 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/71996058/moradipari-v-edlow/",
       "recent_entries": [
         {
-          "date_filed": "2026-08-04",
+          "date_filed": "2026-09-09",
           "entry_number": null,
           "description": ""
         },
@@ -418,7 +418,7 @@
           "description": ""
         },
         {
-          "date_filed": "2026-10-14",
+          "date_filed": "2026-06-09",
           "entry_number": null,
           "description": ""
         }
@@ -758,7 +758,7 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/72520267/franciscot-auguste-v-joseph-b-edlow/",
       "recent_entries": [
         {
-          "date_filed": "2026-03-20",
+          "date_filed": "2026-07-14",
           "entry_number": null,
           "description": ""
         },
@@ -768,7 +768,7 @@
           "description": ""
         },
         {
-          "date_filed": "2026-10-13",
+          "date_filed": "2026-04-27",
           "entry_number": null,
           "description": ""
         }
