@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-24T11:56:41.913Z",
+  "lastUpdated": "2026-10-25T12:17:10.317Z",
   "source": "CourtListener REST API v4",
   "failed_count": 0,
   "total": 42,
@@ -408,19 +408,19 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/71996058/moradipari-v-edlow/",
       "recent_entries": [
         {
-          "date_filed": "2026-09-09",
+          "date_filed": "2026-04-28",
           "entry_number": null,
           "description": ""
         },
         {
-          "date_filed": "2025-12-04",
+          "date_filed": "2026-10-23",
           "entry_number": null,
           "description": ""
         },
         {
-          "date_filed": "2026-06-09",
+          "date_filed": "2026-10-23",
           "entry_number": null,
-          "description": ""
+          "description": "***Civil Case Terminated pursuant to 38 . (akw, COURT STAFF) (Filed on 10/23/2026)"
         }
       ]
     },
