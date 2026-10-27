@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-10-26T13:51:51.020Z",
+  "lastUpdated": "2026-10-27T13:02:13.292Z",
   "source": "CourtListener REST API v4",
-  "failed_count": 0,
+  "failed_count": 6,
   "total": 42,
   "cases": [
     {
@@ -233,17 +233,17 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/72071916/doe-v-trump/",
       "recent_entries": [
         {
-          "date_filed": "2026-06-02",
+          "date_filed": "2026-02-11",
           "entry_number": null,
           "description": ""
         },
         {
-          "date_filed": "2026-06-02",
+          "date_filed": "2026-02-13",
           "entry_number": null,
           "description": ""
         },
         {
-          "date_filed": "2026-02-12",
+          "date_filed": "2026-02-09",
           "entry_number": null,
           "description": ""
         }
@@ -443,19 +443,19 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/72130486/nhekairo-v-department-of-homeland-security/",
       "recent_entries": [
         {
-          "date_filed": "2026-05-12",
+          "date_filed": "2026-03-10",
           "entry_number": null,
-          "description": "Submission of 29 MOTION to Dismiss for improper venue, no standing, no jurisdiction, and failure to state a claim, to District Judge Steven D. Grimberg. (dnb)"
+          "description": "Submission of 12 MOTION for Preliminary Injunction, to District Judge Steven D. Grimberg. (dnb)"
         },
         {
-          "date_filed": "2026-01-27",
+          "date_filed": "2026-05-24",
           "entry_number": null,
-          "description": "Clerk's Certificate of E-Mailing to Zachery Ryan New re 10 Order on Application for Admission PHV. (dnb)"
+          "description": "Clerk's Entry of Dismissal APPROVING 50 Notice of Voluntary Dismissal pursuant to Fed.R.Civ.P.41(a)(1)(A)(i) of Plaintiffs Abbas Rastakhiz, Abdul Rahman Yilla, Adulin Prophete, Ahmadreza Nezameslami, Ahmed Maham, Aida Rahimi Kahmini, Alejandro Isaac Castillo Gutierrez, Ali Al-Sharif, Ali Akbari Beni, Ali Banaei Pour, Ali Fahimniya, Ali Khosravani Semnani, Ali Mohammadkhorasani, Alireza Khalilian, Alireza Tojjari, Amin Shafiee, Amir Davatgari, Amir Motmaen, Amirahmad Saeidi, Amirali Eskandariyun, Amirhesam Abedsoltan, Amirreza Tarafdar, Anahita Pilvar, Arash Rezaee, Aref Asghari, Ashkan Radnia, Atefeh Gilani, Bahareh Hassan Sichani, Bardiya Ghaderi Yazdi, Behafarid Mohammad Jafari, Behzad Hejrati, Danial Qaurooni, Dorsa Talebi, Ebrahim Azimi, Ehsan Arasteh, Ehsan Fayyazishishavan, Ehsan Saremi, Ehsan Sheikholharam Mashhadi, Elahheh Salari, Elham Jafarzadeh, Elham Zokaei, Enwongo Ekah, Erfan Khoram, Faeze Safari, Faezeh Abbaspour Kaboudan, Farbod Dehghani, Fargol Nematkhah, Farideh Hosseinzadeh, Farnaz Ghorbani, Farshid Javadnejad, Farzad Baghernezhad, Farzam Ebrahimnejad, Farzam Gilani, Farzan Vahedifard, Fatemeh Ghaheri, Fatemeh Salehirad, Fatemehsadat Mousavinasab, Fernando Jose Eizaguirre Perez, Forouzan Vasheghani Farahani, Franky Lopez Brito, Gabriela Anais Gouveia Gouveia, Ghiass Ali, Goshtasb Shahriari Mehr, Hadis Moazami Goudarzi, Hamed Khanifar, Hamed Hosseiny, Hamed Mahdavi, Hamed Rabbani, Hami Rabbani, Hanie Ahmadi, Hanie Karimi, Hannaneh Mahdavi, Homa Taheri, Hosein Yavarzadeh, Hossein Khodavirdi, Hossein Mohasel Arjomandi, Hossein Rahmanian Kooshkaki, Ida Gheibi, Ilia Chiniforooshan Esfahani, Iman Ahmadabadi, Iman Ekramnosratian, Iman Rashidijouybari, Javad Bahrami, Jonathan Josue Perez Mendez, Jose Jesus Antunes, Kamyar Goudarzi, Khin Thiri Kyaw, Kiana Ghasemi, Kimia Kiaei, Kooshan Amini, Leila Rezaei, Leila Saberi, Luis Felipe Flores Kopp, Luis Leandro Granda Ontivero, Maan Qraitem, Maedeh Makki, Mahan Tabatabaie, Mahdi Kabiri, Mahkameh Mallah Zadeh, Mahmood Chahari, Mahsa Barzgarvishlaghi, Mahsa Sadat Torabi, Mahdis Tajdari, Mahshad Nourmohammadi, Majid Mohammadi Nia, Mansour Toorani Farani, Marjan Sadeghi, Mark Jabbour, Maryam Fotouhi, Maryam Ghaed, Maryam Ghasemi, Maryam Moeinian, Marzieh Moradi Zaniani, Masaoud Haidar, Matin Barekatain, Mehrdad Karami, Milad Razavi Mohseni, Mina Abbasi, Mobin Yahyazadehjeloudar, Moeen Mostafavi, Mohammad Alali, Mohammad Ali Dashtaki, Mohammad Azarifar, Mohammad Bazmi, Mohammad Mahdi Khavandi, Mohammad Meerzaei, Mohammad Mehdi Sharifi, Mohammad Movahed, Mohammad Rezaei, Mohammad Saneian, Mohammad Sarbaz, Mohammadhossein Abedinzadeh, Mohammadhossein Shafinia, Mohammadmehdi Zoghifard, Mohammadreza Kosari, Mohammadreza Rezvani, Mohsen Botlani-Esfahani, Mohsen Hatami, Mohsen Moghadasi Barazandeh, Mojtaba Amir Aslan Pour, Mojtaba Arezoomand, Mona Gandomkar, Morteza Momeni Shahraki, Mostafa Mohammadpour Fard, Mousa Moradi, Nahal Shahini, Nahom Habtemariam, Narjes Esmaeili, Nasrollah Alinejad, Nastaran Alamgir Tehrani, Nastaran Hasani, Navid Etebari Alamdari, Neda Amanat, Neda Ghaeili Ardabili, Neda Mohamadzadeh, Negin Sadat Mousavi, Neginsadat Ashrafi, Neman Abdoli, Nikoo Hamzeh, Okere Nwachukwu, Opeyemi Victoria Eko-Davies, Paniz Azizi, Parisa Hatami, Parnia Khamooshi, Pedram Rabiee, Pegah Azizi, Pegah Kananizadeh, Pouria Mohammadi, Pouya Samanipour, Pouyan Nahed, Ramin Zahedi Darshoori, Reyhaneh Mohammadi, Reza Khorasani, Reza Neiriznaghadehi, Reza Sedghi, Romina Esbati, Rose Pierre-Louis, Roya Rajabi, Rozhan Rabbani, Saadi Rostami, Saba Ravaghi, Sablaa Ali, Safoura Salar, Sahba Samadi, Sajad Vahedizade, Saleh Valizadeh Sotubadi, Saman Lagzi, Samaneh Talenejad, Sanaz Imanlou, Sanaz Saki Norouzi, Sanaz Taherzadeh, Sara Momtaz Bokharaei, Sara Movassaghi, Sasan Mazaheri, Sayedmohammadmahdi Vaez Momeni, Sepehr Abdous, Sepehr Janghorbani, Seyed Erfan Shayegani, Seyed Iman Habibi, Seyed Mehdi Seyedi, Seyed Mohammad Aghigh, Seyed Mohammad Javad Ebrahimzadeh Mousavi, Seyed Mostafa Tabatabaei, Seyed Reza Amini Niaki, Seyedalireza Abootorabi, Seyedamirhossein Mirtaleb, Seyedmahyar Sefidgaran, Seyyed Ali Ghorashi Khalil Abadi, Seyyed Mahmood Ghasemi, Seyyedamirhossein Saeidi, Shahabeddin Abbaspour Tazehkand, Shahabeddin Mohin, Shahaboddin Ghajari, Shahin Boumi, Shahriar Shahram, Shahryar Ramezanibajgiran, Shayan Askari, Shayan Razi, Shirin Shoushtari, Shiva Hadi Esfahani, Shiva Maleki Varnosfaderani, Sina Layazali, Sina Tayebati, Soheil Farazi, Soheil Kavian, Somayeh Nazari Enjedani, Soroush Korivand, Soroush Vahidi, Stephanie Onyemowo Omakwu, Taha Rajabzadeh, Taha Sadeghi Chorsi, Vahid Mahdikhah, Yasna Mortezaei, Yasin Shokrollahi, Zahra Bajalan, Zahra Kolahchi, Zahra Rafiee, and Zainab Hanzakian(bgt)"
         },
         {
-          "date_filed": "2026-03-16",
+          "date_filed": "2026-06-23",
           "entry_number": null,
-          "description": "Clerk's Certificate of Mailing to Gregory Siskind re 23 Order Allowing Audio/Visual/Electronic Equipment in the Courtroom. (jkb)"
+          "description": "Clerk's Entry of Dismissal APPROVING 57 Notice of Voluntary Dismissal without prejudice pursuant to Fed.R.Civ.P.41(a)(1)(A)(i) as to Plaintiffs Seyyedmohammadreza Rouhezamin and Dorsa Dayani only. (cpp)"
         }
       ]
     },
@@ -548,12 +548,12 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/73134936/ahmadi-v-department-of-homeland-security/",
       "recent_entries": [
         {
-          "date_filed": "2026-08-19",
+          "date_filed": "2026-05-09",
           "entry_number": null,
           "description": ""
         },
         {
-          "date_filed": "2026-05-09",
+          "date_filed": "2026-10-26",
           "entry_number": null,
           "description": ""
         },
@@ -603,36 +603,11 @@
       "id": 18,
       "name": "Flores Mora v. Edlow",
       "court": "vaed",
-      "docket": "1:25-cv-02429",
+      "docket_number": "1:25-cv-02429",
       "status": "PENDING",
-      "statusDetail": "",
       "stage": "PI hearing scheduled",
       "category": "Multiple",
-      "orderDate": null,
-      "filingDate": "Dec 22, 2025",
-      "hearingDate": null,
-      "summary": "",
-      "relief": null,
-      "plaintiffs": null,
-      "notable": false,
-      "courtlistener_url": "https://www.courtlistener.com/docket/72072464/flores-mora-v-edlow/",
-      "recent_entries": [
-        {
-          "date_filed": "2026-03-24",
-          "entry_number": null,
-          "description": "Motion Hearing set for 4/16/2026 at 10:00 AM in Alexandria Courtroom 801 before District Judge Patricia Tolliver Giles as to 9 MOTION for Preliminary Injunction and 16 MOTION to Dismiss for Lack of Jurisdiction and MOTION to Dismiss for Failure to State a Claim. (dzir)"
-        },
-        {
-          "date_filed": "2026-04-02",
-          "entry_number": null,
-          "description": "Reset Deadlines as to 16 MOTION to Dismiss for Lack of Jurisdiction MOTION to Dismiss for Failure to State a Claim . Motion Hearing set for 4/17/2026 at 10:00 AM in Alexandria Courtroom 801 before District Judge Patricia Tolliver Giles. (pmil, )"
-        },
-        {
-          "date_filed": "2026-04-15",
-          "entry_number": null,
-          "description": "Motions hearing set for 4/17/2026 are cancelled. (dvanm)"
-        }
-      ]
+      "filingDate": "Dec 22, 2025"
     },
     {
       "id": 19,
@@ -686,23 +661,7 @@
       "plaintiffs": null,
       "notable": false,
       "courtlistener_url": "https://www.courtlistener.com/docket/73254099/duru-v-mullin/",
-      "recent_entries": [
-        {
-          "date_filed": "2026-05-27",
-          "entry_number": null,
-          "description": "Motion Hearing set for 6/3/2026 at 10:00 AM in Alexandria Courtroom 900 before District Judge Anthony J. Trenga as to 15 Emergency MOTION for Permanent Injunction. (dzir)"
-        },
-        {
-          "date_filed": "2026-05-11",
-          "entry_number": null,
-          "description": "Motion Hearing set for 5/27/2026 at 10:00 AM in Alexandria Courtroom 900 before District Judge Anthony J. Trenga as to 15 Emergency MOTION for Permanent Injunction. (dzir)"
-        },
-        {
-          "date_filed": "2026-04-28",
-          "entry_number": null,
-          "description": "Initial Case Assignment to District Judge Anthony J. Trenga and Magistrate Judge William E. Fitzpatrick. (triv)"
-        }
-      ]
+      "recent_entries": []
     },
     {
       "id": 21,
@@ -743,36 +702,11 @@
       "id": 22,
       "name": "Auguste v. Edlow",
       "court": "cacd",
-      "docket": "8:26-cv-00629",
+      "docket_number": "8:26-cv-00629",
       "status": "PENDING",
-      "statusDetail": "",
       "stage": "PI hearing",
       "category": "Multiple",
-      "orderDate": null,
-      "filingDate": "Mar 20, 2026",
-      "hearingDate": null,
-      "summary": "",
-      "relief": null,
-      "plaintiffs": null,
-      "notable": false,
-      "courtlistener_url": "https://www.courtlistener.com/docket/72520267/franciscot-auguste-v-joseph-b-edlow/",
-      "recent_entries": [
-        {
-          "date_filed": "2026-07-14",
-          "entry_number": null,
-          "description": ""
-        },
-        {
-          "date_filed": "2026-05-21",
-          "entry_number": null,
-          "description": ""
-        },
-        {
-          "date_filed": "2026-04-27",
-          "entry_number": null,
-          "description": ""
-        }
-      ]
+      "filingDate": "Mar 20, 2026"
     },
     {
       "id": 23,
@@ -883,36 +817,13 @@
       "id": 26,
       "name": "Sarrafi v. Edlow",
       "court": "dcd",
-      "docket": "1:26-cv-00282",
+      "docket_number": "1:26-cv-00282",
       "status": "PENDING",
       "statusDetail": "Gov't-initiated stay motion",
       "stage": "Government consent-stay motion pending",
       "category": "Multiple",
-      "orderDate": null,
       "filingDate": "Jan 30, 2026",
-      "hearingDate": null,
-      "summary": "",
-      "relief": null,
-      "plaintiffs": null,
-      "notable": true,
-      "courtlistener_url": "https://www.courtlistener.com/docket/72213971/sarrafi-v-edlow/",
-      "recent_entries": [
-        {
-          "date_filed": "2026-06-10",
-          "entry_number": null,
-          "description": "MINUTE ORDER. By June 12, 2026, the parties shall file a joint status report stating their positions on the impact of the court's decision in Dorcas International Institute of Rhode Island v. United States Citizenship and Immigration Services, No. 26-cv-132, 2026 WL 1622708 (D.R.I. June 5, 2026) on Plaintiffs' arguments and requested relief, including whether it has had an impact on processing of Plaintiffs' applications. The parties shall also propose next steps in this matter. Signed by Judge Amir H. Ali on 6/10/2026. (lcaha2)"
-        },
-        {
-          "date_filed": "2026-04-29",
-          "entry_number": null,
-          "description": "MINUTE ORDER. The court will hold a hearing on Plaintiffs' 7 motion for preliminary injunction on May 12, 2026, at 2:00 p.m. in Courtroom 19. The parties should be prepared for the court to construe Plaintiffs' 7 motion as a motion for summary judgment and Defendants' 14 opposition as a cross-motion for summary judgment. Signed by Judge Amir H. Ali on 4/29/2026. (lcaha2)"
-        },
-        {
-          "date_filed": "2026-04-29",
-          "entry_number": null,
-          "description": ""
-        }
-      ]
+      "notable": true
     },
     {
       "id": 27,
@@ -1071,23 +982,7 @@
       "plaintiffs": null,
       "notable": false,
       "courtlistener_url": "https://www.courtlistener.com/docket/72358654/awadelkarim-v-us-citizenship-and-immigration-services-director-of/",
-      "recent_entries": [
-        {
-          "date_filed": "2026-03-04",
-          "entry_number": null,
-          "description": ""
-        },
-        {
-          "date_filed": "2026-07-23",
-          "entry_number": null,
-          "description": ""
-        },
-        {
-          "date_filed": "2026-03-04",
-          "entry_number": null,
-          "description": "A United States Magistrate Judge of this Court is available to conduct all proceedings in this civil action in accordance with 28 U.S.C. 636c and FRCP 73. The Notice, Consent, and Reference of a Civil Action to a Magistrate Judge form is available for download at http://www.mied.uscourts.gov (MChr)"
-        }
-      ]
+      "recent_entries": []
     },
     {
       "id": 32,
@@ -1141,23 +1036,7 @@
       "plaintiffs": null,
       "notable": false,
       "courtlistener_url": "https://www.courtlistener.com/docket/73247163/doe-v-mullin/",
-      "recent_entries": [
-        {
-          "date_filed": "2026-05-29",
-          "entry_number": null,
-          "description": ""
-        },
-        {
-          "date_filed": "2026-05-29",
-          "entry_number": null,
-          "description": ""
-        },
-        {
-          "date_filed": "2026-05-22",
-          "entry_number": null,
-          "description": ""
-        }
-      ]
+      "recent_entries": []
     },
     {
       "id": 34,
@@ -1233,71 +1112,21 @@
       "id": 36,
       "name": "Doe 1 v. Edlow",
       "court": "ohsd",
-      "docket": "2:26-cv-00494",
+      "docket_number": "2:26-cv-00494",
       "status": "PENDING",
-      "statusDetail": "",
       "stage": "Awaiting response",
       "category": "Multiple",
-      "orderDate": null,
-      "filingDate": "Apr 22, 2026",
-      "hearingDate": null,
-      "summary": "",
-      "relief": null,
-      "plaintiffs": null,
-      "notable": false,
-      "courtlistener_url": "https://www.courtlistener.com/docket/73231930/doe-1-v-edlow/",
-      "recent_entries": [
-        {
-          "date_filed": "2026-04-27",
-          "entry_number": null,
-          "description": "CLERK'S NOTICE: In accordance with Federal Rule of Civil Procedure 73 and 28 U.S.C. 636(c), the parties are notified that if all parties consent, a United States magistrate judge of this court is available to conduct all proceedings in this civil action including a (jury or nonjury) trial and to order the entry of a final judgment. The form may be accessed at the following link: AO-085. The consent form should be filled out, signed and filed electronically only if all parties wish to consent. You may withhold your consent without adverse substantive consequences. Do NOT return or file the consent form unless all parties have signed the consent. (kk2)"
-        },
-        {
-          "date_filed": "2026-04-27",
-          "entry_number": null,
-          "description": ""
-        },
-        {
-          "date_filed": "2026-07-10",
-          "entry_number": null,
-          "description": ""
-        }
-      ]
+      "filingDate": "Apr 22, 2026"
     },
     {
       "id": 37,
       "name": "Travieso v. Edlow",
       "court": "flsd",
-      "docket": "1:26-cv-21935",
+      "docket_number": "1:26-cv-21935",
       "status": "PENDING",
-      "statusDetail": "",
       "stage": "Awaiting response",
       "category": "Multiple",
-      "orderDate": null,
-      "filingDate": "Mar 23, 2026",
-      "hearingDate": null,
-      "summary": "",
-      "relief": null,
-      "plaintiffs": null,
-      "notable": false,
-      "courtlistener_url": "https://www.courtlistener.com/docket/72537405/travieso-v-edlow/",
-      "recent_entries": [
-        {
-          "date_filed": "2026-03-24",
-          "entry_number": null,
-          "description": ""
-        },
-        {
-          "date_filed": "2026-07-02",
-          "entry_number": null,
-          "description": ""
-        },
-        {
-          "date_filed": "2026-09-09",
-          "entry_number": null,
-          "description": ""
-        }
-      ]
+      "filingDate": "Mar 23, 2026"
     },
     {
       "id": 38,
@@ -1386,23 +1215,7 @@
       "plaintiffs": null,
       "notable": false,
       "courtlistener_url": "https://www.courtlistener.com/docket/73300302/saifi-v-mullin/",
-      "recent_entries": [
-        {
-          "date_filed": "2026-05-06",
-          "entry_number": null,
-          "description": ""
-        },
-        {
-          "date_filed": "2026-05-06",
-          "entry_number": null,
-          "description": ""
-        },
-        {
-          "date_filed": "2026-05-06",
-          "entry_number": null,
-          "description": ""
-        }
-      ]
+      "recent_entries": []
     },
     {
       "id": 41,
@@ -1443,36 +1256,11 @@
       "id": 42,
       "name": "Yazdan Pouri v. DHS",
       "court": "dcd",
-      "docket": "1:26-cv-01339",
+      "docket_number": "1:26-cv-01339",
       "status": "PENDING",
-      "statusDetail": "",
       "stage": "Recently filed",
       "category": "Multiple",
-      "orderDate": null,
-      "filingDate": "Apr 20, 2026",
-      "hearingDate": null,
-      "summary": "",
-      "relief": null,
-      "plaintiffs": null,
-      "notable": false,
-      "courtlistener_url": "https://www.courtlistener.com/docket/73215129/yazdan-pouri-v-united-states-department-of-homeland-security/",
-      "recent_entries": [
-        {
-          "date_filed": "2026-05-18",
-          "entry_number": null,
-          "description": ""
-        },
-        {
-          "date_filed": "2026-05-11",
-          "entry_number": null,
-          "description": ""
-        },
-        {
-          "date_filed": "2026-05-12",
-          "entry_number": null,
-          "description": ""
-        }
-      ]
+      "filingDate": "Apr 20, 2026"
     }
   ]
 }
