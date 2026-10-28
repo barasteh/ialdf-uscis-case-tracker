@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-10-27T13:02:13.292Z",
+  "lastUpdated": "2026-10-28T13:44:09.015Z",
   "source": "CourtListener REST API v4",
-  "failed_count": 6,
+  "failed_count": 0,
   "total": 42,
   "cases": [
     {
@@ -553,7 +553,7 @@
           "description": ""
         },
         {
-          "date_filed": "2026-10-26",
+          "date_filed": "2026-07-06",
           "entry_number": null,
           "description": ""
         },
@@ -603,11 +603,36 @@
       "id": 18,
       "name": "Flores Mora v. Edlow",
       "court": "vaed",
-      "docket_number": "1:25-cv-02429",
+      "docket": "1:25-cv-02429",
       "status": "PENDING",
+      "statusDetail": "",
       "stage": "PI hearing scheduled",
       "category": "Multiple",
-      "filingDate": "Dec 22, 2025"
+      "orderDate": null,
+      "filingDate": "Dec 22, 2025",
+      "hearingDate": null,
+      "summary": "",
+      "relief": null,
+      "plaintiffs": null,
+      "notable": false,
+      "courtlistener_url": "https://www.courtlistener.com/docket/72072464/flores-mora-v-edlow/",
+      "recent_entries": [
+        {
+          "date_filed": "2026-03-24",
+          "entry_number": null,
+          "description": "Motion Hearing set for 4/16/2026 at 10:00 AM in Alexandria Courtroom 801 before District Judge Patricia Tolliver Giles as to 9 MOTION for Preliminary Injunction and 16 MOTION to Dismiss for Lack of Jurisdiction and MOTION to Dismiss for Failure to State a Claim. (dzir)"
+        },
+        {
+          "date_filed": "2026-04-02",
+          "entry_number": null,
+          "description": "Reset Deadlines as to 16 MOTION to Dismiss for Lack of Jurisdiction MOTION to Dismiss for Failure to State a Claim . Motion Hearing set for 4/17/2026 at 10:00 AM in Alexandria Courtroom 801 before District Judge Patricia Tolliver Giles. (pmil, )"
+        },
+        {
+          "date_filed": "2026-04-15",
+          "entry_number": null,
+          "description": "Motions hearing set for 4/17/2026 are cancelled. (dvanm)"
+        }
+      ]
     },
     {
       "id": 19,
@@ -661,7 +686,23 @@
       "plaintiffs": null,
       "notable": false,
       "courtlistener_url": "https://www.courtlistener.com/docket/73254099/duru-v-mullin/",
-      "recent_entries": []
+      "recent_entries": [
+        {
+          "date_filed": "2026-05-27",
+          "entry_number": null,
+          "description": "Motion Hearing set for 6/3/2026 at 10:00 AM in Alexandria Courtroom 900 before District Judge Anthony J. Trenga as to 15 Emergency MOTION for Permanent Injunction. (dzir)"
+        },
+        {
+          "date_filed": "2026-05-11",
+          "entry_number": null,
+          "description": "Motion Hearing set for 5/27/2026 at 10:00 AM in Alexandria Courtroom 900 before District Judge Anthony J. Trenga as to 15 Emergency MOTION for Permanent Injunction. (dzir)"
+        },
+        {
+          "date_filed": "2026-04-28",
+          "entry_number": null,
+          "description": "Initial Case Assignment to District Judge Anthony J. Trenga and Magistrate Judge William E. Fitzpatrick. (triv)"
+        }
+      ]
     },
     {
       "id": 21,
@@ -702,11 +743,36 @@
       "id": 22,
       "name": "Auguste v. Edlow",
       "court": "cacd",
-      "docket_number": "8:26-cv-00629",
+      "docket": "8:26-cv-00629",
       "status": "PENDING",
+      "statusDetail": "",
       "stage": "PI hearing",
       "category": "Multiple",
-      "filingDate": "Mar 20, 2026"
+      "orderDate": null,
+      "filingDate": "Mar 20, 2026",
+      "hearingDate": null,
+      "summary": "",
+      "relief": null,
+      "plaintiffs": null,
+      "notable": false,
+      "courtlistener_url": "https://www.courtlistener.com/docket/72520267/franciscot-auguste-v-joseph-b-edlow/",
+      "recent_entries": [
+        {
+          "date_filed": "2026-03-20",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-06-17",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-08-18",
+          "entry_number": null,
+          "description": ""
+        }
+      ]
     },
     {
       "id": 23,
@@ -817,13 +883,36 @@
       "id": 26,
       "name": "Sarrafi v. Edlow",
       "court": "dcd",
-      "docket_number": "1:26-cv-00282",
+      "docket": "1:26-cv-00282",
       "status": "PENDING",
       "statusDetail": "Gov't-initiated stay motion",
       "stage": "Government consent-stay motion pending",
       "category": "Multiple",
+      "orderDate": null,
       "filingDate": "Jan 30, 2026",
-      "notable": true
+      "hearingDate": null,
+      "summary": "",
+      "relief": null,
+      "plaintiffs": null,
+      "notable": true,
+      "courtlistener_url": "https://www.courtlistener.com/docket/72213971/sarrafi-v-edlow/",
+      "recent_entries": [
+        {
+          "date_filed": "2026-06-10",
+          "entry_number": null,
+          "description": "MINUTE ORDER. By June 12, 2026, the parties shall file a joint status report stating their positions on the impact of the court's decision in Dorcas International Institute of Rhode Island v. United States Citizenship and Immigration Services, No. 26-cv-132, 2026 WL 1622708 (D.R.I. June 5, 2026) on Plaintiffs' arguments and requested relief, including whether it has had an impact on processing of Plaintiffs' applications. The parties shall also propose next steps in this matter. Signed by Judge Amir H. Ali on 6/10/2026. (lcaha2)"
+        },
+        {
+          "date_filed": "2026-04-29",
+          "entry_number": null,
+          "description": "MINUTE ORDER. The court will hold a hearing on Plaintiffs' 7 motion for preliminary injunction on May 12, 2026, at 2:00 p.m. in Courtroom 19. The parties should be prepared for the court to construe Plaintiffs' 7 motion as a motion for summary judgment and Defendants' 14 opposition as a cross-motion for summary judgment. Signed by Judge Amir H. Ali on 4/29/2026. (lcaha2)"
+        },
+        {
+          "date_filed": "2026-04-29",
+          "entry_number": null,
+          "description": ""
+        }
+      ]
     },
     {
       "id": 27,
@@ -982,7 +1071,23 @@
       "plaintiffs": null,
       "notable": false,
       "courtlistener_url": "https://www.courtlistener.com/docket/72358654/awadelkarim-v-us-citizenship-and-immigration-services-director-of/",
-      "recent_entries": []
+      "recent_entries": [
+        {
+          "date_filed": "2026-03-04",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-07-23",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-03-04",
+          "entry_number": null,
+          "description": "A United States Magistrate Judge of this Court is available to conduct all proceedings in this civil action in accordance with 28 U.S.C. 636c and FRCP 73. The Notice, Consent, and Reference of a Civil Action to a Magistrate Judge form is available for download at http://www.mied.uscourts.gov (MChr)"
+        }
+      ]
     },
     {
       "id": 32,
@@ -1036,7 +1141,23 @@
       "plaintiffs": null,
       "notable": false,
       "courtlistener_url": "https://www.courtlistener.com/docket/73247163/doe-v-mullin/",
-      "recent_entries": []
+      "recent_entries": [
+        {
+          "date_filed": "2026-06-08",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-09-09",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-05-29",
+          "entry_number": null,
+          "description": ""
+        }
+      ]
     },
     {
       "id": 34,
@@ -1112,21 +1233,71 @@
       "id": 36,
       "name": "Doe 1 v. Edlow",
       "court": "ohsd",
-      "docket_number": "2:26-cv-00494",
+      "docket": "2:26-cv-00494",
       "status": "PENDING",
+      "statusDetail": "",
       "stage": "Awaiting response",
       "category": "Multiple",
-      "filingDate": "Apr 22, 2026"
+      "orderDate": null,
+      "filingDate": "Apr 22, 2026",
+      "hearingDate": null,
+      "summary": "",
+      "relief": null,
+      "plaintiffs": null,
+      "notable": false,
+      "courtlistener_url": "https://www.courtlistener.com/docket/73231930/doe-1-v-edlow/",
+      "recent_entries": [
+        {
+          "date_filed": "2026-04-27",
+          "entry_number": null,
+          "description": "CLERK'S NOTICE: In accordance with Federal Rule of Civil Procedure 73 and 28 U.S.C. 636(c), the parties are notified that if all parties consent, a United States magistrate judge of this court is available to conduct all proceedings in this civil action including a (jury or nonjury) trial and to order the entry of a final judgment. The form may be accessed at the following link: AO-085. The consent form should be filled out, signed and filed electronically only if all parties wish to consent. You may withhold your consent without adverse substantive consequences. Do NOT return or file the consent form unless all parties have signed the consent. (kk2)"
+        },
+        {
+          "date_filed": "2026-04-27",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-07-10",
+          "entry_number": null,
+          "description": ""
+        }
+      ]
     },
     {
       "id": 37,
       "name": "Travieso v. Edlow",
       "court": "flsd",
-      "docket_number": "1:26-cv-21935",
+      "docket": "1:26-cv-21935",
       "status": "PENDING",
+      "statusDetail": "",
       "stage": "Awaiting response",
       "category": "Multiple",
-      "filingDate": "Mar 23, 2026"
+      "orderDate": null,
+      "filingDate": "Mar 23, 2026",
+      "hearingDate": null,
+      "summary": "",
+      "relief": null,
+      "plaintiffs": null,
+      "notable": false,
+      "courtlistener_url": "https://www.courtlistener.com/docket/72537405/travieso-v-edlow/",
+      "recent_entries": [
+        {
+          "date_filed": "2026-03-24",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-07-02",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-09-09",
+          "entry_number": null,
+          "description": ""
+        }
+      ]
     },
     {
       "id": 38,
@@ -1215,7 +1386,23 @@
       "plaintiffs": null,
       "notable": false,
       "courtlistener_url": "https://www.courtlistener.com/docket/73300302/saifi-v-mullin/",
-      "recent_entries": []
+      "recent_entries": [
+        {
+          "date_filed": "2026-05-06",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-05-06",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-05-06",
+          "entry_number": null,
+          "description": ""
+        }
+      ]
     },
     {
       "id": 41,
@@ -1256,11 +1443,36 @@
       "id": 42,
       "name": "Yazdan Pouri v. DHS",
       "court": "dcd",
-      "docket_number": "1:26-cv-01339",
+      "docket": "1:26-cv-01339",
       "status": "PENDING",
+      "statusDetail": "",
       "stage": "Recently filed",
       "category": "Multiple",
-      "filingDate": "Apr 20, 2026"
+      "orderDate": null,
+      "filingDate": "Apr 20, 2026",
+      "hearingDate": null,
+      "summary": "",
+      "relief": null,
+      "plaintiffs": null,
+      "notable": false,
+      "courtlistener_url": "https://www.courtlistener.com/docket/73215129/yazdan-pouri-v-united-states-department-of-homeland-security/",
+      "recent_entries": [
+        {
+          "date_filed": "2026-05-18",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-05-11",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-05-12",
+          "entry_number": null,
+          "description": ""
+        }
+      ]
     }
   ]
 }
