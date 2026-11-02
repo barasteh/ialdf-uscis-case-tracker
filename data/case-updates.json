@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-01T14:15:11.940Z",
+  "lastUpdated": "2026-11-02T16:39:09.737Z",
   "source": "CourtListener REST API v4",
   "failed_count": 0,
   "total": 42,
@@ -1036,23 +1036,7 @@
       "plaintiffs": null,
       "notable": false,
       "courtlistener_url": "https://www.courtlistener.com/docket/69695790/doe-v-mullin/",
-      "recent_entries": [
-        {
-          "date_filed": "2025-08-11",
-          "entry_number": null,
-          "description": ""
-        },
-        {
-          "date_filed": "2025-06-02",
-          "entry_number": null,
-          "description": ""
-        },
-        {
-          "date_filed": "2026-03-30",
-          "entry_number": null,
-          "description": ""
-        }
-      ]
+      "recent_entries": []
     },
     {
       "id": 31,
