@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-06T15:13:16.083Z",
+  "lastUpdated": "2026-11-07T14:28:44.337Z",
   "source": "CourtListener REST API v4",
   "failed_count": 0,
   "total": 42,
@@ -266,7 +266,23 @@
       "plaintiffs": 32,
       "notable": true,
       "courtlistener_url": "https://www.courtlistener.com/docket/72159407/behdin-v-edlow/",
-      "recent_entries": []
+      "recent_entries": [
+        {
+          "date_filed": "2026-10-16",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-06-15",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-06-11",
+          "entry_number": null,
+          "description": ""
+        }
+      ]
     },
     {
       "id": 9,
@@ -285,23 +301,7 @@
       "plaintiffs": 1,
       "notable": true,
       "courtlistener_url": "https://www.courtlistener.com/docket/72357999/doe-v-united-states-citizenship-and-immigration-services/",
-      "recent_entries": [
-        {
-          "date_filed": "2026-03-03",
-          "entry_number": null,
-          "description": "CASE ASSIGNED to the Honorable Sara L. Ellis. Designated as Magistrate Judge the Honorable Keri L. Holleb Hotaling. Case assignment: Random assignment. (Civil Category 2). (ee, )"
-        },
-        {
-          "date_filed": "2026-03-03",
-          "entry_number": null,
-          "description": "CLERK'S NOTICE: Pursuant to Local Rule 73.1(b), a United States Magistrate Judge of this court is available to conduct all proceedings in this civil action. If all parties consent to have the currently assigned United States Magistrate Judge conduct all proceedings in this case, including trial, the entry of final judgment, and all post-trial proceedings, all parties must sign their names on the attached Consent To form. This consent form is eligible for filing only if executed by all parties. The parties can also express their consent to jurisdiction by a magistrate judge in any joint filing, including the Joint Initial Status Report or proposed Case Management Order. (ee, )"
-        },
-        {
-          "date_filed": "2026-05-26",
-          "entry_number": 51,
-          "description": ""
-        }
-      ]
+      "recent_entries": []
     },
     {
       "id": 10,
