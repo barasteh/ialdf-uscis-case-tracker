@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-08T14:17:21.897Z",
+  "lastUpdated": "2026-11-09T17:04:48.064Z",
   "source": "CourtListener REST API v4",
   "failed_count": 0,
   "total": 42,
@@ -513,17 +513,17 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/72095863/gharibi-v-edlow/",
       "recent_entries": [
         {
+          "date_filed": "2025-12-31",
+          "entry_number": null,
+          "description": "RECEIPT number ACAEDC-12715087 for the filing fee in the amount of $405.00 paid on 12/31/2025 by Curtis Lee Morrison. (Deputy Clerk CRM)"
+        },
+        {
           "date_filed": "2026-04-22",
           "entry_number": null,
           "description": ""
         },
         {
-          "date_filed": "2026-07-07",
-          "entry_number": null,
-          "description": ""
-        },
-        {
-          "date_filed": "2026-03-09",
+          "date_filed": "2026-09-16",
           "entry_number": null,
           "description": ""
         }
