@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-10T16:05:43.682Z",
+  "lastUpdated": "2026-11-11T15:57:18.045Z",
   "source": "CourtListener REST API v4",
   "failed_count": 0,
   "total": 42,
@@ -583,17 +583,17 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/72122041/jane-doe-1-v-united-states-department-of-homeland-security/",
       "recent_entries": [
         {
-          "date_filed": "2026-10-22",
+          "date_filed": "2026-06-26",
           "entry_number": null,
           "description": ""
         },
         {
-          "date_filed": "2026-10-30",
+          "date_filed": "2026-04-24",
           "entry_number": null,
           "description": ""
         },
         {
-          "date_filed": "2026-10-28",
+          "date_filed": "2026-01-14",
           "entry_number": null,
           "description": ""
         }
@@ -686,23 +686,7 @@
       "plaintiffs": null,
       "notable": false,
       "courtlistener_url": "https://www.courtlistener.com/docket/73254099/duru-v-mullin/",
-      "recent_entries": [
-        {
-          "date_filed": "2026-05-27",
-          "entry_number": null,
-          "description": "Motion Hearing set for 6/3/2026 at 10:00 AM in Alexandria Courtroom 900 before District Judge Anthony J. Trenga as to 15 Emergency MOTION for Permanent Injunction. (dzir)"
-        },
-        {
-          "date_filed": "2026-05-11",
-          "entry_number": null,
-          "description": "Motion Hearing set for 5/27/2026 at 10:00 AM in Alexandria Courtroom 900 before District Judge Anthony J. Trenga as to 15 Emergency MOTION for Permanent Injunction. (dzir)"
-        },
-        {
-          "date_filed": "2026-04-28",
-          "entry_number": null,
-          "description": "Initial Case Assignment to District Judge Anthony J. Trenga and Magistrate Judge William E. Fitzpatrick. (triv)"
-        }
-      ]
+      "recent_entries": []
     },
     {
       "id": 21,
@@ -1283,7 +1267,7 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/72537405/travieso-v-edlow/",
       "recent_entries": [
         {
-          "date_filed": "2026-04-08",
+          "date_filed": "2026-04-17",
           "entry_number": null,
           "description": ""
         },
@@ -1293,7 +1277,7 @@
           "description": ""
         },
         {
-          "date_filed": "2026-09-09",
+          "date_filed": "2026-04-17",
           "entry_number": null,
           "description": ""
         }
