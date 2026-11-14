@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-13T15:32:12.046Z",
+  "lastUpdated": "2026-11-14T15:00:07.104Z",
   "source": "CourtListener REST API v4",
   "failed_count": 0,
   "total": 42,
@@ -138,8 +138,8 @@
           "description": ""
         },
         {
-          "date_filed": "2026-09-16",
-          "entry_number": 48,
+          "date_filed": "2026-11-13",
+          "entry_number": 49,
           "description": ""
         }
       ]
@@ -336,23 +336,7 @@
       "plaintiffs": 2,
       "notable": true,
       "courtlistener_url": "https://www.courtlistener.com/docket/72024394/shokri-varniab-v-edlow/",
-      "recent_entries": [
-        {
-          "date_filed": "2026-06-04",
-          "entry_number": null,
-          "description": ""
-        },
-        {
-          "date_filed": "2026-02-23",
-          "entry_number": null,
-          "description": ""
-        },
-        {
-          "date_filed": "2026-06-02",
-          "entry_number": null,
-          "description": ""
-        }
-      ]
+      "recent_entries": []
     },
     {
       "id": 11,
@@ -583,17 +567,17 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/72122041/jane-doe-1-v-united-states-department-of-homeland-security/",
       "recent_entries": [
         {
-          "date_filed": "2026-06-26",
+          "date_filed": "2026-01-08",
           "entry_number": null,
           "description": ""
         },
         {
-          "date_filed": "2026-04-24",
+          "date_filed": "2026-11-13",
           "entry_number": null,
           "description": ""
         },
         {
-          "date_filed": "2026-01-14",
+          "date_filed": "2026-10-30",
           "entry_number": null,
           "description": ""
         }
