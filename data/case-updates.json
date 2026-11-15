@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-11-14T15:00:07.104Z",
+  "lastUpdated": "2026-11-15T14:55:57.142Z",
   "source": "CourtListener REST API v4",
-  "failed_count": 0,
+  "failed_count": 1,
   "total": 42,
   "cases": [
     {
@@ -336,7 +336,23 @@
       "plaintiffs": 2,
       "notable": true,
       "courtlistener_url": "https://www.courtlistener.com/docket/72024394/shokri-varniab-v-edlow/",
-      "recent_entries": []
+      "recent_entries": [
+        {
+          "date_filed": "2026-06-04",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-02-23",
+          "entry_number": null,
+          "description": ""
+        },
+        {
+          "date_filed": "2026-06-02",
+          "entry_number": null,
+          "description": ""
+        }
+      ]
     },
     {
       "id": 11,
@@ -1077,36 +1093,11 @@
       "id": 32,
       "name": "Shahi v. Edlow",
       "court": "cand",
-      "docket": "5:26-cv-03113",
+      "docket_number": "5:26-cv-03113",
       "status": "PENDING",
-      "statusDetail": "",
       "stage": "Motion pending",
       "category": "Multiple",
-      "orderDate": null,
-      "filingDate": "Apr 12, 2026",
-      "hearingDate": null,
-      "summary": "",
-      "relief": null,
-      "plaintiffs": null,
-      "notable": false,
-      "courtlistener_url": "https://www.courtlistener.com/docket/73180196/shahi-v-edlow/",
-      "recent_entries": [
-        {
-          "date_filed": "2026-05-04",
-          "entry_number": null,
-          "description": ""
-        },
-        {
-          "date_filed": "2026-04-13",
-          "entry_number": null,
-          "description": ""
-        },
-        {
-          "date_filed": "2026-04-30",
-          "entry_number": null,
-          "description": ""
-        }
-      ]
+      "filingDate": "Apr 12, 2026"
     },
     {
       "id": 33,
