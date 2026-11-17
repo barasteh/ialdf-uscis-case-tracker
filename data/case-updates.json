@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-16T16:37:49.530Z",
+  "lastUpdated": "2026-11-17T16:57:59.505Z",
   "source": "CourtListener REST API v4",
   "failed_count": 0,
   "total": 42,
@@ -163,19 +163,19 @@
       "courtlistener_url": "https://www.courtlistener.com/docket/72129422/saghafi-v-edlow/",
       "recent_entries": [
         {
-          "date_filed": "2026-05-26",
-          "entry_number": 32,
-          "description": "MOTION to Transfer Case and Sever and/or Dismiss by Joseph B. Edlow, Joseph B. Edlow (Attachments: # 1 Memorandum in Support, # 2 Exhibit, # 3 Text of Proposed Order)(Goldmeier, Melissa) (Entered: 05/26/2026)"
+          "date_filed": "2026-10-30",
+          "entry_number": 51,
+          "description": "ORDER Granting 50 Motion for Extension of Time. Signed by Chief Judge George Levi Russell, III on 10/30/2026. (bas, Deputy Clerk) (Entered: 10/30/2026)"
         },
         {
-          "date_filed": "2026-04-30",
-          "entry_number": 31,
-          "description": "NOTICE by Joseph B. Edlow, Joseph B. Edlow Re: ECF No. 30 (Attachments: # 1 Exhibit, # 2 Exhibit)(Goldmeier, Melissa) (Entered: 04/30/2026)"
+          "date_filed": "2026-10-30",
+          "entry_number": 50,
+          "description": "MOTION for Extension of Time to File Supplemental Brief by Joseph B. Edlow, Joseph B. Edlow (Attachments: # 1 Text of Proposed Order)(Goldmeier, Melissa) (Entered: 10/30/2026)"
         },
         {
-          "date_filed": "2026-04-24",
-          "entry_number": 30,
-          "description": "ORDER Granting in Part and Denying in Part 3 Motion for Preliminary Injunction; Withdrawing 4 Motion for Discovery; Withdrawing 5 Motion for Discovery; Granting 14 Motion for Leave to File Excess Pages. Signed by Chief Judge George Levi Russell, III on 4/24/2026. (bas, Deputy Clerk) (Entered: 04/27/2026)"
+          "date_filed": "2026-10-29",
+          "entry_number": 49,
+          "description": "Supplement to 47 Order filed by Mohammadreza Saghafi SUPPLEMENTAL BRIEFING RE MOOTNESS (Attachments: # 1 Exhibit A, # 2 Exhibit B, # 3 Exhibit C, # 4 Exhibit D, # 5 Exhibit E, # 6 Exhibit F, # 7 Exhibit G)(May, Garrett) (Entered: 10/29/2026)"
         }
       ]
     },
@@ -616,7 +616,23 @@
       "plaintiffs": null,
       "notable": false,
       "courtlistener_url": "https://www.courtlistener.com/docket/72072464/flores-mora-v-edlow/",
-      "recent_entries": []
+      "recent_entries": [
+        {
+          "date_filed": "2026-03-24",
+          "entry_number": null,
+          "description": "Motion Hearing set for 4/16/2026 at 10:00 AM in Alexandria Courtroom 801 before District Judge Patricia Tolliver Giles as to 9 MOTION for Preliminary Injunction and 16 MOTION to Dismiss for Lack of Jurisdiction and MOTION to Dismiss for Failure to State a Claim. (dzir)"
+        },
+        {
+          "date_filed": "2026-04-02",
+          "entry_number": null,
+          "description": "Reset Deadlines as to 16 MOTION to Dismiss for Lack of Jurisdiction MOTION to Dismiss for Failure to State a Claim . Motion Hearing set for 4/17/2026 at 10:00 AM in Alexandria Courtroom 801 before District Judge Patricia Tolliver Giles. (pmil, )"
+        },
+        {
+          "date_filed": "2026-04-15",
+          "entry_number": null,
+          "description": "Motions hearing set for 4/17/2026 are cancelled. (dvanm)"
+        }
+      ]
     },
     {
       "id": 19,
