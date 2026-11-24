@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-23T19:00:40.432Z",
+  "lastUpdated": "2026-11-24T18:33:23.337Z",
   "source": "CourtListener REST API v4",
   "failed_count": 0,
   "total": 42,
@@ -546,23 +546,7 @@
       "plaintiffs": null,
       "notable": false,
       "courtlistener_url": "https://www.courtlistener.com/docket/73134936/ahmadi-v-department-of-homeland-security/",
-      "recent_entries": [
-        {
-          "date_filed": "2026-09-09",
-          "entry_number": null,
-          "description": ""
-        },
-        {
-          "date_filed": "2026-05-09",
-          "entry_number": null,
-          "description": ""
-        },
-        {
-          "date_filed": "2026-10-26",
-          "entry_number": null,
-          "description": ""
-        }
-      ]
+      "recent_entries": []
     },
     {
       "id": 17,
